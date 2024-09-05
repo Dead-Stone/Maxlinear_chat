@@ -1,0 +1,51 @@
+Title: Portwell Selects MaxLinear Multi-Protocol Transceivers and Bridges for Data Center & IIoT Solutions 
+Date: 2021-11-09
+URL: https://www.maxlinear.com/news/press-releases/2021/portwell-selects-maxlinear-multi-protocol-transcei
+Content:
+– November 09, 2021 – 
+ (NYSE: MXL) announced today that the company’s multi-protocol transceivers and interface bridges are being used in Portwell’s computing platforms built for Industrial IoT applications and data center monitoring systems.
+
+
+
+As a leader in embedded computing, compute modules, and Industrial IoT, Portwell requires the flexibility and design advantages MaxLinear delivers to build high-density interconnected systems.  With the most extensive portfolio of multi-protocol transceivers, MaxLinear offers products with up to 10 different protocols in a single chip.  
+
+
+
+MaxLinear is a leading supplier of PCIe and USB bridges and provides the broadest serial port expansion capabilities in the industry. When used in conjunction with MaxLinear multi-protocol transceivers, the PCIe bridges offer unique features that give designers the freedom to simultaneously connect a myriad of sensors, actuators, controllers, motors, and more to embedded computers.
+
+
+
+“We’ve worked hand-in-hand with customers such as Portwell for decades to ensure our solutions meet their design standards,” said James Lougheed, Vice President of Marketing, High Performance Analog. “With the market growth for IIoT and data center monitoring systems, companies look to MaxLinear products to simplify development and provide operational efficiencies that cut costs.”
+
+
+
+The MaxLinear multi-protocol transceivers and bridges offer many benefits:
+
+
+	Bridges give designers the freedom to select virtually any processor for their edge connected computers without being restricted to the availability of serial ports.  Turn any processing platform into a connectivity powerhouse.
+
+	 
+.
+
+	With software configuration (in design or in the field), the single-chip transceivers support configurations such as RS-485 or RS-232, or both. One BOM to fulfill different SKUs.
+
+	 
+
+	One hardware platform provides more reliability in manufacturing and serves different variations of IPCs and edge computing products and provides connectivity to a broad ecosystem of external devices.
+
+	 
+
+	MaxLinear serial bridges support pin compatibility between 4ch and 8ch and allow a single PCB layout for the chip. Expansion interface doubles the number of serial ports without additional PCIe bus connections.
+.
+
+	Portwell’s end customers have the same flexibility to modify the configuration to meet their changing needs.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-Portwell-Trans-Bridges.jpg?ext=.jpg
+    Filename: Maxlinear-Portwell-Trans-Bridges.jpg
+    Filepath: images\Maxlinear-Portwell-Trans-Bridges.jpg
+    Size: 163347 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-Portwell-Trans-Bridges.jpg?ext=.jpg
+    Filename: Maxlinear-Portwell-Trans-Bridges.jpg
+    Filepath: images\Maxlinear-Portwell-Trans-Bridges.jpg
+    Size: 163347 bytes

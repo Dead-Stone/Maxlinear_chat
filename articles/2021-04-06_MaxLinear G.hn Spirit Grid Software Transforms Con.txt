@@ -1,0 +1,61 @@
+Title: MaxLinear G.hn Spirit Grid Software Transforms Connectivity in High-Speed Industrial IoT Applications
+Date: 2021-04-06
+URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-g-hn-spirit-grid-software-transforms-con
+Content:
+– April 6, 2021 – MaxLinear, Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, announced today the general availability of its G.hn Spirit Grid software for industrial IoT (IIoT) applications. The software works with MaxLinear’s G.hn industrial products to address the ever-growing demand for high-speed communication in the IIoT sector. The G.hn Spirit Grid solution operates over existing powerlines to simplify system wiring and delivers robust, reliable performance for large-scale high-speed industrial applications. The addressable IIoT market for broadband powerline communication (PLC) technology is expected to be more than 350 million ports in 2023.
+
+ 
+
+Spirit Grid’s multi-hop, low-latency, high throughput features make it ideal for large-scale, high-speed IIoT applications such as smart elevator control, video surveillance and security, smart metering and smart grid communication, smart parking, and smart building automation backbone networks.
+
+ 
+
+When used as the smart building data backbone, this robust G.hn solution reliably delivers high-speed data to local networks that connect to IoT endpoint devices through G.hn, serial communication devices such as RS-485, or wireless technologies.   
+
+ 
+
+Spirit Grid’s self-organize-network feature enables autonomous device installation and configuration, optimal signal path selection, and network self-healing capabilities. This intelligent software can also auto-configure the client to simultaneously perform the repeating function, which eliminates the need for a dedicated repeater that is typically needed by other broadband powerline (BPL) technologies.
+
+ 
+
+G.hn signals run on both AC and DC powerlines so a dedicated data wire is not needed. Enabling the use of single-wire architecture allows the reuse of existing wiring architecture and significantly reduces wiring installation, inspection, maintenance, and material costs, resulting in a lower total cost of ownership (TCO). G.hn’s advanced DSP design enables best-in-class powerline noise mitigation capability among all peer BPL technologies
+
+ 
+
+“Industrial IoT is the key building block of digital infrastructure, it fuels the Industrial 4.0 transformation,” said Will Torgerson, Vice President & General Manager of MaxLinear’s Broadband Group. “We are delighted to expand G.hn technology from broadband connectivity to industrial IoT applications and to help our industrial customers achieve broadband speed, optimal system architecture and better cost efficiency in their IIoT system designs.”
+
+ 
+
+Visit 
+ to learn more about MaxLinear’s industrial G.hn solutions, the 88LX2741 analog front end and the 88LX5153A digital baseband processor.
+
+ 
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s G.hn Spirit Grid software, 88LX5153A digital baseband processor, 88LX2741 analog front end and its G.hn industrial products, including but not limited to potential market opportunities, including with respect to the Industrial IoT market, functionality, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new or existing products will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; and uncertainties concerning how end user markets for our products will develop.  Other risks potentially affecting our business include risks relating to acquisition integration; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises such as the Covid-19 pandemic or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K for the year ended December 31, 2020, as filed with the Securities and Exchange Commission. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Spirit-Grid-Software.jpg?ext=.jpg
+    Filename: MaxLinear-Spirit-Grid-Software.jpg
+    Filepath: images\MaxLinear-Spirit-Grid-Software.jpg
+    Size: 141986 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Spirit-Grid-Software.jpg?ext=.jpg
+    Filename: MaxLinear-Spirit-Grid-Software.jpg
+    Filepath: images\MaxLinear-Spirit-Grid-Software.jpg
+    Size: 141986 bytes

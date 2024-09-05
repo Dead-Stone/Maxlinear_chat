@@ -1,0 +1,75 @@
+Title: MaxLinear’s 2nd Generation PAM4 DSP Selected by Optoway Technology to Deliver Sub-3.5W 100G Optical Modules for Hyperscale Data Centers
+Date: 2020-03-10
+URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear%E2%80%99s-2nd-generation-pam4-dsp-selected-by-op
+Content:
+– March 11, 2020 – MaxLinear, Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications, today announced that Optoway Technology Inc., a key provider of fiber-optic networking products with over 19 years of experience designing optical components and transceiver products found anywhere from deep beneath the ocean to the data center cluster, has selected MaxLinear’s second-generation Telluride PAM4 DSP, the MxL93516, to develop sub-3.5 watt 100G single lambda DR and LR optical modules.
+
+ 
+
+The second-generation MxL93516 extends MaxLinear’s PAM4 DSP offering, by enabling sub-3.5W QSFP28 and SFP-DD 100G optical modules. Like the first-generation Telluride DSPs, the new device offers a monolithically integrated EA-EML laser driver that significantly reduces the overall optical module BOM cost.
+
+ 
+
+The industry-leading low power consumption of the new optical modules extend Optoway Technology’s broad offering of telecommunications and data center products. Optoway Technlogy’s experience in telecommunications and data center transceiver design along with their manufacturing capabilities enable the company to meet the growing demands of its customers.
+
+ 
+
+“We are excited to see the adoption of our second-generation Telluride PAM4 DSP by Optoway for their 100Gbps QSFP28 transceiver modules,” said Will Torgerson, Vice President and General Manager of MaxLinear’s High-Speed Interconnect Group. “Telluride’s high level of integration and performance enable companies like Optoway to develop low power, small form factor, 100G optical interconnects for next-generation hyperscale data centers.”
+
+
+
+“When we surveyed the PAM4 DSP market for our next gen DR1 module, we discovered that only MaxLinear’s second-generation PAM4 DSP enabled a path to sub-3.5W DR1 modules,” said Isabella Chien, General Manager of Optoway Technology Inc. “We are excited to sample our first-generation optical transceivers to address broader market segments requiring sub-3.5W modules.”
+
+ 
+
+
+
+The MxL93516 is part of MaxLinear’s second-generation Telluride family of low-power, high-performance PAM4 DSP SoCs. The industry leading family consists of the MxL93515 and MxL93516. The MxL93516 100G PAM4 DSP integrates an EA-EML driver with 1.8V PP SE swing. The MxL93515 offers a differential 800mV peak-to-peak swing for non-EA-EML-based optics. These PAM4 DSPs enable 100Gbps QSFP28 optical modules using 4*25G NRZ host interface to 1*100G PAM4 optical interface and SFP-DD optical modules using 2*50G PAM4 host interface to 1*100G PAM4 optical interface.
+
+ 
+
+MaxLinear has engineered a very high-performance DSP engine in both the transmit and receive data paths. The resulting superior link-margin enables single-lane 100Gbps optical wavelength technology by mitigating many of the limitations of mass production optical components.
+
+ 
+
+The devices feature a comprehensive digital pre-distortion (DPD) engine in the transmit direction to compensate for laser non-linearity and to cancel packaging limitations that cause reflections and bandwidth degradation at these extremely high signal frequencies. On the receive path, the DSP includes an auto-adaptive signal enhancement engine, which integrates a continuous time linear equalizer (CTLE), automatic gain control (AGC), a feed forward equalizer (FFE), and a decision feedback equalizer (DFE).
+
+ 
+
+For additional information on the MxL93515 and MxL93516, visit 
+ and 
+.
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+Optoway Technology Inc. (Optoway) founded in August 2000,  is a vertically integrated optics design and manufacturing company. Optoway designs, develops, and manufactures advanced optical components and transceivers.  Optoway products can be found anywhere from deep beneath the ocean to the data center cluster sitting in your building.  Optoway is headquartered in Hsin Chu, Taiwan. For more information, please visit 
+.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s MxL93516, including but not limited to potential market opportunities, functionality, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent the MxL93516 will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expected,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties identified in our Annual Report on Form 10-K for the year ended December 31, 2019. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-PAM4-DSP-Selected-by-Optoway.jpg?ext=.jpg
+    Filename: MaxLinear-PAM4-DSP-Selected-by-Optoway.jpg
+    Filepath: images\MaxLinear-PAM4-DSP-Selected-by-Optoway.jpg
+    Size: 276419 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-PAM4-DSP-Selected-by-Optoway.jpg?ext=.jpg
+    Filename: MaxLinear-PAM4-DSP-Selected-by-Optoway.jpg
+    Filepath: images\MaxLinear-PAM4-DSP-Selected-by-Optoway.jpg
+    Size: 276419 bytes

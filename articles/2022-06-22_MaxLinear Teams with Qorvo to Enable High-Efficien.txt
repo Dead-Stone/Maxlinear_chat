@@ -1,0 +1,100 @@
+Title: MaxLinear Teams with Qorvo to Enable High-Efficiency Power Amplifiers for Massive MIMO Radio Solution
+Date: 2022-06-22
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-teams-with-qorvo-to-enable-high-efficien
+Content:
+CARLSBAD, CA  – June 22, 2022 – MaxLinear Inc. (NASDAQ: MXL) and Qorvo (NASDAQ: QRVO) today announced a combined solution that addresses the critical challenges for 32x32 and 64x64 massive MIMO radios – the size, weight and power consumption. This solution reduces the radio's power, weight and volume by enabling high-efficiency power amplifiers (PAs), making massive MIMO radios more practical. Additionally, this solution saves hundreds of watts per multi-element radio in both power consumption and wasted dissipated power.
+
+The combination of MaxLIN Linearization Technology and Qorvo’s GaN high efficiency power amplifier, QPD0011J Doherty power amplifier driven by QPD0006, provides breakthrough line up power efficiency of 55.14% with excellent linearized performance (ACLR < -51dBc and EVM < 3%) at 41.5dBm (14W) with 30dB of gain and operating from 3.4GHz to 3.6GHz with 2xNR100MHz carriers.
+
+
+
+This combination increases the overall power efficiency of the radio and allows for more compact radio designs through the reduction of the size of the heat sink and relaxed thermal design. The power amplifier was tested with a full 1T/1R RF front-end reference design incorporating Qorvo’s industry-leading transmit and receive products. The companies will showcase this solution at Booth 3030 at International Microwave Symposium in Denver on June 19 - 24.
+
+
+
+According to Allied Market Research, the global massive MIMO market size was valued at $1.09 billion in 2019 and is projected to reach $15.79 billion by 2027, growing at a CAGR of 35.3% from 2020 to 2027.
+
+
+
+“At Qorvo, we work to implement full RF end-to-end solutions that can be directly implemented by customers,” said Gangadhar Burra, chief architect of Qorvo’s Infrastructure and Defense business. “Demonstrating our high-efficiency amplifiers with a full radio front end provides a complete solution and 3GPP compliance. Qorvo is excited to be teamed with MaxLinear on their state of the art radio and linearization solutions.”
+
+
+
+“At MaxLinear we engineer customer value into our products,” said Brendan Walsh, MaxLinear’s Vice President, Wireless Infrastructure. “Working with Qorvo to provide a solution for smaller and energy-efficient massive MIMO radios gives our customers an attractive solution to meet site and installation challenges and energy efficiency targets.”
+
+
+
+
+:
+
+MaxLinear’s latest linearization system (MaxLIN), coupled with a companion optimization software MaxLIN Design Studio, delivers excellent efficiency and linearization performance with GaN power amplifiers. MaxLIN Technology includes crest factor reduction (CFR) and digital pre-distortion (DPD), providing adaptive linearization for highly nonlinear power amplifiers.
+
+
+
+MaxLIN Design Studio CAD software provides an automated power amplifier characterization and DPD co-optimization. This reduces the traditionally tedious task of power amplifier linearization from several months to a few weeks by providing a fully automated closed-loop optimization system.
+
+
+
+MaxLIN is integrated into MaxLinear’s single-chip solution, Sierra, for 5G open RAN radio units. 
+
+
+
+Visit 
+ to learn more about MaxLIN Linearization Technology.
+
+
+
+
+
+The QPD0011J is an asymmetric dual-path discrete GaN on SiC HEMT in a DFN package that operates from 3.3 to 3.6 GHz. In each path is a single-stage amplifier transistor. QPD0011J can deliver an average power of 16 W in a Doherty configuration, with Doherty peak power greater than 100W.
+
+
+
+The QPD0006 is a single-path discrete GaN on SiC HEMT in a plastic overmold DFN package that operates from 2.5 to 5.0 GHz. It is a single-stage, unmatched transistor capable of delivering P3dB of 13.5 W at +48 V. It provides excellent gain at P3dB compression of 16.5dB.
+
+
+
+The QPD0011J and QPD0006 are combined on a single, compact reference design board delivering excellent driver and Doherty stage combined efficiency of 55% linearized with MaxLin to -51dBc ACPR and EVM 2.6%. The complete end-to-end RF transmit line up efficiency is 54%.
+
+
+
+Additionally, the PA was demonstrated with an all Qorvo 1T/1R reference design incorporating additional predrivers and gain control. A wide bandwidth Observation path is included to provide feedback to the Digital Predistortion in MaxLIN. A full high gain receiver path, including Qorvo’s industry-leading QPB9348 dual-channel low noise amplifier (LNA) with bypass switch is included. Cascaded Receive chain noise figure (NF) is 1.37dBm in the high gain state (43dB), and 1.46dB in the low gain state (26.6dB). The reference design also includes control circuitry for bias sequencing and safe shutdown with loss of gate supply. Additionally, TX PA_enable allows TDD operation of the TX and RX lineup.
+
+
+
+The combined 1T1R reference board, QPD0011J Doherty PA and driver PA board, and MaxLinear’s Matterhorn Transceiver provide a complete demonstration solution for 32 channel transit mMIMO applications.
+
+
+
+Learn about the Qorvo GaN Advantage here: 
+
+
+
+Learn more about Qorvo here: www.qorvo.com 
+
+
+
+
+
+MaxLinear, Inc. (NASDAQ: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear Sierra, MaxLIN Solution, MaxLIN Linearization Technology or MaxLIN Design Studio, including with respect to anticipated growth in the massive MIMO industry, partnership with Quorvo and integration with Qorvo’s GaN high line up efficiency power amplifiers,and the functionality, performance, integration anad benefits of use of such products. These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new and existing products will affect our future revenues or financial performance. Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expected,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises, such as the Covid-19 pandemic, geopolitical conflicts, such as the military conflict in Ukraine and related sanctions against Russia and Belarus, or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as applicable. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Qorvo.jpg?ext=.jpg
+    Filename: MaxLinear-Qorvo.jpg
+    Filepath: images\MaxLinear-Qorvo.jpg
+    Size: 122776 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Qorvo.jpg?ext=.jpg
+    Filename: MaxLinear-Qorvo.jpg
+    Filepath: images\MaxLinear-Qorvo.jpg
+    Size: 122776 bytes

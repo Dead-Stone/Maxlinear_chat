@@ -1,0 +1,31 @@
+Title: MaxLinear Launches Single Chip for 5G Open RAN Radio Units
+Date: 2024-02-22
+URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-launches-single-chip-for-5g-open-ran-radio-units
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- MaxLinear, Inc. (Nasdaq: MXL), a leader in wireless infrastructure silicon solutions, today announced it has launched the MXL17xxx family of devices (“Sierra”), a highly integrated SoC optimized for 4G/5G Open Radio Access Network (RAN) radio units (RU). Sierra is an innovative single-chip platform that flexibly supports major RU applications including traditional macro, massive MIMO, picocell, all-in-one small cells, and more.
+Sierra integrates the following sub-systems into a single chip, providing a complete software-programmable radio signal processing engine for Open RUs (O-RU):
+RF transceiver supporting up to 8 transmitters, 8 receivers, and 2 feedback receivers
+Digital Front End (DFE) including DPD, crest factor reduction (CFR), and Passive Intermodulation (PIM) cancellation
+Low-PHY baseband processor supporting 5G, 4G, and NB-IoT air interfaces
+O-RAN Alliance Split 7.2x fronthaul interface
+“Infrastructure vendors have been waiting for an open-market silicon solution that can enable them to develop O-RUs without compromise on performance or cost,” said Sean Martin, Senior Director of Wireless Infrastructure. “By integrating our highest performance RF and system technologies in Sierra, MaxLinear is empowering these radio vendors to rapidly and cost effectively develop new O-RUs with reduced size, weight, and power consumption.”
+Sierra’s complete system integration yields a feature-rich, high-performance RU building block with low power consumption, board footprint, and implementation cost that reduces the need for multiple FPGAs/ASICs and massively simplifies new O-RU development. Designers can rapidly build new macro and picocell O-RUs using just a single Sierra device by adding an appropriate RF front end. Massive MIMO O-RU are created by tiling an array of Sierra devices and connecting them to a central beamforming solution. This system modularity and flexibility makes Sierra an ideal radio platform building block to maximize design reuse and dramatically speed up the development of new O-RUs.
+“Open RAN momentum continues to build and is set to account for 20 percent to 30 percent of worldwide RAN revenues by 2028,” said Stefan Pongratz, Vice President and Analyst at the Dell’Oro Group. “New optimized off-the-shelf O-RU silicon solutions like Sierra play an essential role to enable improved radio supplier diversity.”
+At the heart of Sierra is MaxLIN™, MaxLinear’s leading field-proven DPD solution for wideband power amplifier linearization, supporting up to 400MHz of occupied bandwidth. MaxLIN’s linearization performance exceeds the 3rd Generation Partnership Project (3GPP) and U.S. Federal Communications Commission (FCC) unwanted emissions requirements with margin while delivering high PA efficiency, thereby minimizing RU energy consumption, and making radios lighter and more cost-effective. MaxLIN’s advanced algorithms feature enhancements to correct for both long-term and short-term nonlinear dynamics including GaN charge trapping and thermal transients, critical for high-power Macro applications. It optimally supports different power amplifier (PA) architectures, technologies, and power levels for all potential RU applications from macro to picocells. In addition, OEMs also have the option to implement their own DPD using the Sierra on-chip compute resources.
+Sierra’s RF transceiver uses a low power wide band Zero-IF (ZIF) architecture and supports 8 transmitters (TX) and 8 receivers (RX) with 2 feedback receivers (FBRX). Each RX supports wide signal bandwidths up to 400MHz and each TX and FBRX supports signal bandwidths up to 900MHz. It can operate in 8T8R single-band or 2 x 4T4R multi-band configurations.
+The digital front-end (DFE) integrates digital pre-distortion (DPD), crest factor reduction (CFR), passive intermodulation cancellation (PIMC), digital up conversion (DUC), and digital down conversion (DDC) blocks. MaxLinear's advanced DPD/CFR technology, MaxLIN™, linearizes power amplifiers (PA) up to 400MHz of occupied bandwidth and dramatically improves PA energy efficiency while meeting spectral emission masks with margin. The PIMC block cancels passive intermodulation products in the uplink paths to improve receiver sensitivity and relax the specification of expensive RF filters. The DUC/DDC supports up to eight component carriers per transmit and receive path.
+The Low-PHY baseband processor supports 4G, 5G, and NB-IoT air interfaces, including uplink PRACH processing. It can process up to eight component carriers (CC) per transmit and receive path with subcarrier spacing (SCS) of 15kHz, 30kHz, and 60kHz and it is software configurable for different modes and parameters including dynamic spectrum sharing (DSS), bandwidth parts, mixed numerology, and windowing.
+Sierra supports an O-RAN fronthaul Split Option 7.2x Category A interface with up to four 10 or 25 Gbit/s Ethernet interfaces.
+Sierra integrates an embedded CPU for system control. The CPU is an integrated quad-core Arm® A53 processor with Neon™ extensions. Each Arm® core has 1MB of internal SRAM and has access to an additional 8GB of external DRAM through a DDR controller.
+Sierra is available in a 31mm x 31mm Flip-Chip Ball Grid Array (FCBGA) package. Sierra is sampling to first customers in March 2024. Sierra samples are supported by an evaluation platform, software, and tools to facilitate early system development.
+MaxLinear will be conducting briefings on MaxLinear’s radio solutions at Mobile World Congress – Hall 2, meeting rooms 2A54MR and 2A63MR – from February 26 through February 29, 2024.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/fc5e988f-f3b2-4f46-a228-044de2eed304/2024_Sierra-Blog-Image.jpg?width=800&height=456&ext=.jpg
+    Filename: 2024_Sierra-Blog-Image.jpg
+    Filepath: images\2024_Sierra-Blog-Image.jpg
+    Size: 200280 bytes
+  - URL: https://www.maxlinear.com/getmedia/fc5e988f-f3b2-4f46-a228-044de2eed304/2024_Sierra-Blog-Image.jpg?width=800&height=456&ext=.jpg
+    Filename: 2024_Sierra-Blog-Image.jpg
+    Filepath: images\2024_Sierra-Blog-Image.jpg
+    Size: 200280 bytes

@@ -1,0 +1,50 @@
+Title: Centec Partners with MaxLinear for Next-generation Multi-Gigabit Whitebox Switch Solutions 
+Date: 2021-12-16
+URL: https://www.maxlinear.com/news/press-releases/2021/centec-partners-with-maxlinear-for-next-generation-df76d8ef343bb4b018275f587a50ca87
+Content:
+– December 16, 2021 – 
+ (NASDAQ: MXL) announced today that Centec has chosen it as a partner for next generation Multi-Gigabit whitebox switch solutions leveraging the newly released MaxLinear 2.5G Ethernet Quad-port PHY (GPY241). The solution is designed to meet the next generation Metro and Enterprise network requirements and to help customers quickly adopt the speed-upgrade to Multi-Gigabit Ethernet.
+
+The GPY241 was released earlier this year and enables Centec to provide low-power, cost-effective 2.5G ports in high-speed whitebox switch solutions for their customers. Users can easily move from 1G to 2.5G in the most cost-effective and least disruptive manner, taking advantage of the much higher speed.
+
+“With the fast rise in 2.5G enabled devices and end points expected to approach 1 billion deployed ports across enterprise, computing, industrial and home networking markets within the next five years, whitebox solution providers like Centec are upgrading their products to support higher bandwidth,’ said James Lougheed, Vice President of Marketing, High Performance Analog. “Centec is one of the first whitebox switch vendors to release to market a 48-port 2.5G solution that captures this fast-growing trend.”
+
+“Multi-Gigabit Ethernet switches for campus networks have been shipping for more than half a decade. Yet, as of now, Multi-Gigabit comprises only less than 2% of the total campus switch access ports. The lack of 2.5Gbps purpose-built and cost-optimized solutions, to help bring the price point in vicinity of that of 1Gigabit, has been a major inhibitor of this adoption,” said Sameh Boujelbene, Senior Research Director at Dell’Oro Group. “MaxLinear’s 2.5Gigabit Ethernet Quad-port PHY helps address this pain point in the market in order to accelerate the uptake of Multi-Gigabit switch ports.”
+
+MaxLinear is the first to offer a quad-port PHY solution optimized for multiport 2.5GbE applications, supporting a cumulative bandwidth of 10Gb. The cost and power-optimized GPY241 Quad-port PHY product is ideal for the high port count Ethernet switch market which services the Metro and Enterprise markets and looks to optimize cost, PCB space and power consumption. The GPY241 is also ideal for Wi-Fi Ethernet routers, retail switches, and Gateway products.
+
+Samples and evaluation boards are immediately available. For more information and technical specifications, visit 
+.
+
+
+
+
+
+
+
+Centec is an established Ethernet switch silicon vendor founded in Suzhou industrial park, January 2005. Centec has constantly endeavored to provide Ethernet switch silicon and SDN/whitebox solutions and has developed 7 generations of switch silicon and SDN/whitebox solutions that are widely deployed in carrier grade Ethernet, enterprise/campus networks and data center networks around the world.
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s 2.5G Ethernet Quad-port PHY (GPY241), including but not limited to, with respect to the Metro and Enterprise network markets, partnership with Suzhou Centec Communications Co., Ltd. and its Multi-gigabit whitebox switch solutions, potential market opportunity, and the functionality, performance, integration and benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new or existing products will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; and uncertainties concerning how end user markets for our products will develop. Other risks potentially affecting our business include risks relating to our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises, such as the Covid-19 pandemic, or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K for the year ended December 31, 2020, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as applicable. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxlLinear-Centec-Partner-Multi-Gigabit-Whitebox.jpg?ext=.jpg
+    Filename: MaxlLinear-Centec-Partner-Multi-Gigabit-Whitebox.jpg
+    Filepath: images\MaxlLinear-Centec-Partner-Multi-Gigabit-Whitebox.jpg
+    Size: 158151 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxlLinear-Centec-Partner-Multi-Gigabit-Whitebox.jpg?ext=.jpg
+    Filename: MaxlLinear-Centec-Partner-Multi-Gigabit-Whitebox.jpg
+    Filepath: images\MaxlLinear-Centec-Partner-Multi-Gigabit-Whitebox.jpg
+    Size: 158151 bytes

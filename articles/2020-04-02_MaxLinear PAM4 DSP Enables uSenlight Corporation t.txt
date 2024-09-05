@@ -1,0 +1,78 @@
+Title: MaxLinear PAM4 DSP Enables uSenlight Corporation to Develop 400G Optical Modules for Hyperscale Data Centers
+Date: 2020-04-02
+URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-pam4-dsp-enables-usenlight-corporation-t
+Content:
+– April 02, 2020 – MaxLinear, Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications, today announced that uSenlight Corporation, a key OEM developing high speed, high performance, reliable integrated optical modules for datacenter, FTTx, optical networking and CPRI/LTE applications, has selected MaxLinear’s MxL93542, Telluride PAM4 DSP, to develop its next-generation 400G-DR4 and FR4 optical modules.
+
+
+
+The new optical modules build upon the success of uSenlight’s current product offerings of 100G QSFP28 PSM4 and 100G QSFP28 CWDM4 modules for data center connectivity. uSenlight’s experience in data center transceiver design and its manufacturing capabilities enable them to meet the growing demands of hyperscale data center customers.
+
+ 
+
+MaxLinear’s MxL935xx Telluride PAM4 DSPs are key components in the development of high-speed, mega-scale data centers based on 100Gbps single lambda optical interconnects. These SOCs are the world’s first DSPs with integrated electro-absorption modulated laser (EA-EML) drivers for 100/400Gbps optical interconnects and breakout mode clocking support for 400Gbps DR4 optical modules. The MxL93542 400G PAM4 DSP allows companies like uSenlight to develop a 400Gbps optical interconnect module in a compact form factor for intra-datacenter applications with a transmission distance up to 2 kilometers.
+
+ 
+
+“Telluride DSPs offer industry leading integration, power consumption, and link-margin performance,” said Will Torgerson, Vice President and General Manager of MaxLinear’s High-Speed Interconnect Group. "We are pleased to see that these features will enable uSenlight to develop next-generation 400G-DR4 and FR4 optical modules to address the massive demand to deploy higher speed networks in next-generation hyperscale data centers.”
+
+ 
+
+“MaxLinear’s MxL93542 PAM4 DSP with integrated EML driver offers the highest level of integration compared with other DSPs on the market,” said Dr. Charles Wu, President of uSenlight Corporation. “The integration and performance of the MxL93542 PAM4 DSP is enabling us to expand our portfolio by developing 400Gbps optical interconnects for hyperscale datacenters.”
+
+ 
+
+
+
+The Telluride family of low-power, high-performance PAM4 DSP SoCs enable 400Gbps optical modules using a 4x100Gbps optics interface. These SoCs are suitable for use within QSFP-DD, OSFP and COBO module form factors. The MxL93542 400G PAM4 DSP integrate an EA-EML driver with 1.8V PP SE swing. Additional options are available that offer differential 800mV peak-to-peak swing for non EA-EML-based optics.
+
+ 
+
+The integrated laser driver delivers greater than 1.8V of single-ended driver output swing necessary for EA-EML lasers. This output swing easily meets the optical modulation amplitude (OMA) specification requirements across the wide operating temperature and bias ranges of all EA-EML lasers. The chip package also includes all the high frequency components required for driver and modulator biasing.
+
+ 
+
+Asynchronous breakout mode clocking is an essential feature for hyperscale data center customers initiating 400G DR4 deployments. MaxLinear’s 400G Telluride DSPs (MxL9354x) are currently the only PAM4 DSP SoCs that successfully integrate this clocking requirement.
+
+ 
+
+MaxLinear has engineered a very high-performance DSP engine in both the transmit and receive data paths. The resulting superior link-margin enables single-lane 100Gbps optical wavelength technology by mitigating many of the limitations of mass production optical components.
+
+ 
+
+The devices feature a comprehensive digital pre-distortion (DPD) engine in the transmit direction to compensate for laser non-linearity and to cancel packaging limitations that cause reflections and bandwidth degradation at these extremely high signal frequencies. On the receive path, the DSP includes an auto-adaptive signal enhancement engine, which integrates a continuous time linear equalizer (CTLE), automatic gain control (AGC), a feed forward equalizer (FFE), and a decision feedback equalizer (DFE).
+
+ 
+
+For additional information on the MxL93542, visit 
+.
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+uSenlight Corporation was established in April 2015 with headquarters located in Taiwan Hsinchu Science Park. uSenlight is certified to the ISO-9001 standards. The company’s business is focused on developing high speed, high performance, reliable integrated optical components/modules for datacenter, FTTx, optical networking and CPRI/LTE applications. 
+.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s MxL93542, including but not limited to potential market opportunities, functionality, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent the MxL93542 will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expected,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties identified in our Annual Report on Form 10-K for the year ended December 31, 2019. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Blog-Image-2.jpg?ext=.jpg
+    Filename: MaxLinear-Blog-Image-2.jpg
+    Filepath: images\MaxLinear-Blog-Image-2.jpg
+    Size: 167768 bytes

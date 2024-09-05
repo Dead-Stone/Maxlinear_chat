@@ -1,0 +1,41 @@
+Title: MaxLinear Wideband Modem to Enable Backhaul Networks that Accelerate 5G Deployments
+Date: 2022-06-27
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-wideband-modem-to-enable-backhaul-networ
+Content:
+CARLSBAD, CA  - June 27, 2022 - MaxLinear, Inc. (NASDAQ: MXL), announced the next-generation MODEM development within its MxL852xx product line. This fully integrated System on Chip (SoC) is designed for wireless transport networks.  MaxLinear, in collaboration with Aviat Networks (NASDAQ: AVNW), created the single-chip solution to enable network OEMs and operators to deliver ultra-high-capacity payloads, over longer distances, with the lowest possible total cost of ownership (TCO).
+
+
+
+Wireless transport is expected to account for 65% of global backhaul links from 2021 to 2027 (GSMA/ABI, 2021), while the cumulative revenues for the wireless transmission market over the five years from 2022 to 2026 are expected to grow to $17.2B., including the millimeter wave transport market which is estimated to grow at 27% CAGR over the same five year period (Dell’Oro Group, June 2022).
+
+
+
+Operators worldwide are now planning and implementing 5G radio network deployments that are driving a dramatic step in increased capacity requirements in the Radio Access Network. This is pressuring the transport industry to devise more innovative ways to backhaul this sizeable, expected increase in data while relying on existing frequency spectrum resources.  The MxL852xx is a novel SoC from MaxLinear designed to support the full functionality of legacy requirements while at the same time delivering next-generation features to increase spectrum efficiency and wider channel bandwidths to drive more capacity with lower CAPEX and OPEX.  
+
+ 
+
+“The MxL852xx combines MODEM, quality of Service (QoS), and other functionality into a single chip for all products across all frequency bands,” said Gary Croke, Vice President of Marketing for Aviat Networks. “This will allow Aviat to create more integrated microwave, millimeter-wave, and multi-band solutions that increase capacity and lower TCO for wireless transport while simplifying the supply chain and operational complexities. As an industry leader and innovator, we are excited about the complete solution we will be able to offer customers by combining Aviat’s software leadership with this next-generation chip.”
+
+
+
+"The challenge we face is to balance the need to preserve all existing legacy requirements with the new, dramatic shift towards higher capacity and multi-band transport for wireless backhaul and fronthaul applications,” said Brendan Walsh, Vice President of MaxLinear’s Wireless Infrastructure Group. “We achieved this balance through an innovative architecture well-suited to support Aviat’s next-generation product features and TCO goals.” 
+
+
+
+The MxL852xx will integrate MaxLinear’s highest performance capabilities to provide a compact and complete MODEM solution, including:
+
+Multicore MODEM implementation supporting millimeter and microwave transmission
+Multi-band operation support enabling more extended reach, higher throughput greater link availability
+Enhanced IP traffic management
+Leading-edge spectral efficiency, latency and network synchronization
+Embedded processors supporting hosted and hostless applications
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Aviat.jpg?ext=.jpg
+    Filename: MaxLinear-Aviat.jpg
+    Filepath: images\MaxLinear-Aviat.jpg
+    Size: 168148 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Aviat.jpg?ext=.jpg
+    Filename: MaxLinear-Aviat.jpg
+    Filepath: images\MaxLinear-Aviat.jpg
+    Size: 168148 bytes

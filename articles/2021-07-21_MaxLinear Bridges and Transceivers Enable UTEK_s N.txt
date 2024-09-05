@@ -1,0 +1,57 @@
+Title: MaxLinear Bridges and Transceivers Enable UTEK’s Next-Generation Industrial IoT Platforms
+Date: 2021-07-21
+URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-bridges-and-transceivers-enable-utek%E2%80%99s-n
+Content:
+– July 21, 2021 – 
+ (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, announced today that the company’s interface bridges and multi-protocol transceivers are used in UTEK serial port expansion devices and interface converters for Industrial IoT applications.
+
+
+
+Modern Industrial systems leverage the power of the cloud, AI, and edge computing to make real-time decisions that improve performance and reliability.  The Industrial Internet of Things (IIoT) connects digital and physical machines together to create responsive, interconnected systems.  As the number of connected IoT devices is expected to grow to well over 100 billion units in 2030, the ability to connect systems together is more challenging than ever.  MaxLinear’s industry leading bridge and transceiver solutions provide designers the architectural flexibility needed to build these highly interconnected systems. 
+
+
+
+UTEK is a global leader of IIoT interconnect products that expand the data collection capabilities of edge devices.  MaxLinear’s USB bridges (XR21B14xx and XR21V14xx) are the smallest in the world, allowing UTEK to create thin, yet robust, interface conversion cables.  MaxLinear is the leading supplier of PCIe bridges in the market and these XR17V35x UARTs provide the widest serial port expansion capabilities in the industry.  Additionally, MaxLinear is the leading supplier globally for multi-protocol transceivers, which are used across a variety of UTEK’s interconnect platforms.
+
+
+
+The unique needs of Industrial IoT applications weighed heavily in the design of MaxLinear’s bridges and multi-protocol transceivers.  The USB UART and USB Ethernet (XR2280x) bridges offer the industry’s most robust integrated system-level ESD protection of up to ±15kV.  USB and PCIe bridges both offer the highest I/O expansion in their respective product categories with PCIe bridges offering up to 16 independent GPIOs and 8 serial ports per device.  As an industry leader in multi-protocol transceivers, MaxLinear offers the largest portfolio of devices, which includes products offering up to 10 different protocols in a single chip.
+
+
+
+“MaxLinear is delighted to support UTEK’s serial expansion and interface converters with our high-performance bridges and multi-protocol transceivers,” said James Lougheed, Vice President of Marketing, High Performance Analog.  “We’ve been collaborating with UTEK for more than a decade and will continue to innovate closely together to bring leading IIoT connectivity solutions to market.”
+
+
+
+“The unique combination of high ESD tolerance, high signal fanout, and small packages makes these devices the best choice for compact, IIoT applications,” stated Utek’s head of R&D.  “We look forward to working extensively with MaxLinear’s industrial bridges and transceivers on many future programs.”
+
+
+
+Visit 
+ to learn more about MaxLinear’s extensive portfolio of interface products including bridges and serial transceivers.
+
+
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit www.maxlinear.com.
+
+
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s interface bridges and multi-protocol transceivers, including MaxLinear’s XR21B14xx, XR21V14xx USB bridges, XR17V35x UART PCIe bridges and XR2280x USB UART and USB Ethernet bridges, including but not limited to potential market opportunities, including with respect to the Industrial IoT market, collaboration with UTEK, functionality, performance, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new or existing products will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; and uncertainties concerning how end user markets for our products will develop.  Other risks potentially affecting our business include risks relating to acquisition integration; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises such as the Covid-19 pandemic or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K for the year ended December 31, 2020 and Quarterly Report on Form 10-Q for the quarter ended March 31, 2021, in each case as filed with the Securities and Exchange Commission. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-UTEK-Next-Generation.jpg?ext=.jpg
+    Filename: MaxLinear-UTEK-Next-Generation.jpg
+    Filepath: images\MaxLinear-UTEK-Next-Generation.jpg
+    Size: 314460 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-UTEK-Next-Generation.jpg?ext=.jpg
+    Filename: MaxLinear-UTEK-Next-Generation.jpg
+    Filepath: images\MaxLinear-UTEK-Next-Generation.jpg
+    Size: 314460 bytes

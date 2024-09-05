@@ -1,0 +1,73 @@
+Title: MaxLinear Showcases 400G Transceivers for High-Volume Hyperscale Data Center Interconnects
+Date: 2021-09-17
+URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-showcases-400g-transceivers-for-high-vol
+Content:
+CARLSBAD, Calif. – September 17, 2021 – MaxLinear, Inc. (NYSE: MXL) is demonstrating Molex LLC’s 400G-DR4 optical modules based on MaxLinear’s Telluride (MxL9354x) pulse-amplitude-modulation (PAM4) digital signal processors (DSPs) at the China International Optoelectronic Exposition (CIOE).  (Photonteck Booth 6A01, September 16-18)
+
+ 
+
+The demonstrated 400G-DR4 optical modules join Molex’s complete line of data center connectivity products, providing solutions for optical interconnects across all tiers of the data center.
+
+ 
+
+MaxLinear’s MxL9354x Telluride family of SoCs are key components in the deployment of hyper-scale data centers based on 100Gbps single lambda optical interconnects. They enabled Molex to build their high-performance 400Gbps optical modules in a compact QSFP-DD form factor for intra-datacenter applications and meet the strict performance and interoperability requirements of next-generation hyperscale data centers.
+
+ 
+
+"With the exponential growth of data traffic within hyperscale cloud networks driving demand for ever-increasing volumes of high-speed interconnects, 400Gbps Telluride-based transceiver modules are key enablers for current and next-generation hyperscale data centers,” said Drew Guckenberger, Vice President of MaxLinear’s Optical Interconnect Group. "Through our partnership with Molex, the demonstrated Telluride-based optical modules meet all of the stringent link performance metrics demanded by our key hyperscale customers, enabling high-volume deployments and meeting their growing network expansion needs.”
+
+ 
+
+
+
+The Telluride family of high-performance PAM4 DSP SoCs enable 400Gbps optical modules using a 4x100Gbps optics interface. These SoCs are suitable for use within QSFP-DD and OSFP module form factors. The MxL9354x 400G PAM4 DSP integrates an optional EA-EML driver with 1.8V PP SE swing.
+
+ 
+
+Asynchronous breakout mode clocking is an essential feature for hyperscale data center customers initiating 400G DR4 deployments. MaxLinear’s 400G Telluride DSPs (MxL9354x) successfully integrate this clocking requirement.
+
+ 
+
+The devices feature a comprehensive digital pre-distortion (DPD) engine in the transmit direction to compensate for laser non-linearity and to cancel packaging limitations that cause reflections and bandwidth degradation at these extremely high signal frequencies. On the receive path, the DSP includes an auto-adaptive signal enhancement engine, which integrates a continuous time linear equalizer (CTLE), automatic gain control (AGC), a feed forward equalizer (FFE), and a decision feedback equalizer (DFE).
+
+ 
+
+For additional information visit www.maxlinear.com/MxL93543.
+
+ 
+
+MaxLinear’s Telluride family of PAM4 DSPs and Molex’s 400G-DR4 optical interconnect modules will be on display at Photonteck’s booth (6A01) at the CIOE Conference at Shenzhen World Exhibition & Convention Center on September 16-18, 2021. For an appointment, please contact MaxLinear sales at 
+.
+
+ 
+
+
+
+Molex brings together innovation and technology to deliver electronic solutions to customers worldwide. With a presence in more than 40 countries, Molex offers a full suite of solutions and services for many markets, including data communications, consumer electronics, industrial, automotive, commercial vehicle and medical. For more information, please visit 
+.
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit www.maxlinear.com.
+
+
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s Telluride family of PAM4 DSP SOCs, including the MxL9354x, including but not limited to potential market opportunities, including with Molex LLC and hyperscale data centers, functionality, integration, performance, and the benefits of use of such products and technologies.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new or existing products will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; and uncertainties concerning how end user markets for our products will develop.  Other risks potentially affecting our business include risks relating to acquisition integration; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises such as the Covid-19 pandemic or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K for the year ended December 31, 2020 and Quarterly Report on Form 10-Q for the quarter ended June 30, 2021, in each case as filed with the Securities and Exchange Commission. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-PAM4-DSP-400G-QSFP-DD.jpg?ext=.jpg
+    Filename: MaxLinear-PAM4-DSP-400G-QSFP-DD.jpg
+    Filepath: images\MaxLinear-PAM4-DSP-400G-QSFP-DD.jpg
+    Size: 162520 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-PAM4-DSP-400G-QSFP-DD.jpg?ext=.jpg
+    Filename: MaxLinear-PAM4-DSP-400G-QSFP-DD.jpg
+    Filepath: images\MaxLinear-PAM4-DSP-400G-QSFP-DD.jpg
+    Size: 162520 bytes

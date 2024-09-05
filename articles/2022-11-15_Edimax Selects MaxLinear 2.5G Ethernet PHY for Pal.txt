@@ -1,0 +1,56 @@
+Title: Edimax Selects MaxLinear 2.5G Ethernet PHY for Palm Size 5 Port Switch for Retail Markets
+Date: 2022-11-15
+URL: https://www.maxlinear.com/news/press-releases/2022/edimax-selects-maxlinear-2-5g-ethernet-phy-for-pal
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- 
+ (NASDAQ: MXL) announced today a collaboration with 
+ to bring a compact 2.5G high-speed 5 port switch solution to the home and small & medium business (SMB) markets.
+
+
+
+The MaxLinear 
+ and 
+ are used in the Edimax switch design, enabling the company to provide a 158 x 101 x 29 mm small form factor, cost-effective 5 port 2.5G switch solution for the retail market. Edimax offers this palm-size switch under their Acelink brand and provides the switch as a white-label product to OEMs.
+
+
+
+“Faster Ethernet connectivity enables users to make the most of increased speeds available through today’s enhanced broadband access networks. Enhanced gaming and AR/VR, live upstreaming, video conferencing, and whole-home security are pushing the need for upgrading home networks,” said Sameh Boujelbene, Senior Director at 
+. “2.5Gigabit Ethernet (GbE) increases the bandwidth without changing cables, is more cost-effective, and consumes less power than 5GbE or 10GbE. The Ethernet network connection of the MaxLinear products addresses this market need.”
+
+
+
+“Edimax has had proven success with the MaxLinear single PHY (GPY211) solution used in our networking products shipped worldwide under various brands,” said Jack Hung, ODM GM of Edimax. “The MaxLinear 2.5G Quad PHY (GPY241) offers a comprehensive feature set that delivers best-in-class performance and low power consumption and best positions Edimax to offer a new generation of 5 port 2.5G switches. We are pleased to partner with MaxLinear as we expand our presence in the 2.5GbE switch market.”
+
+
+
+“With the proliferation of 2.5GbE in home gateways and desktops as well as the move to Wi-Fi 6E and in the future to Wi-Fi 7, products such as the Edimax switch are in demand,” said James Lougheed, Vice President of Marketing, High-Performance Analog. “MaxLinear focuses on providing partners with advanced solutions that drive faster 
+ from a device so that home and business users can make the most of increased connectivity bandwidth and speed.”
+
+
+
+Samples and evaluation boards are immediately available. For more information and technical specifications, visit 
+.
+
+
+
+
+
+
+
+EDIMAX Technology is dedicated to designing, developing, and manufacturing smart networking solutions for homes and businesses. With 35 years of dedication and a worldwide footprint, the company provides superior solutions that combine the latest and best-fitting technology with customer needs. 20 branch offices worldwide offer direct, real-time services and support to more than 300 partners across 70 countries. With ISO 9000/14000 certification and recognized by Interbrand as one of the top 35 global Taiwanese brands, the company consistently delivers advanced networking solutions and services based on its core values of Quality, Service, Innovation, and Integrity (QSII). For more information, please visit EDIMAX ODM Website:
+ or contact 
+.
+MaxLinear, Inc. (NASDAQ: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s Ethernet products, including but not limited to, with respect to anticipated growth in the potential market opportunities, functionality, performance and the benefits of use of such products. These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new and existing products will affect our future revenues or financial performance. Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expected,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense and increasing competition in our industry and product markets; the global semiconductor supply shortage and high inflation; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises, such as the Covid-19 pandemic, geopolitical conflicts, including those involving the U.S. and other governments such as China and Russia, or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as applicable. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Edimax-Selects-MaxLinear-PHY.jpg?ext=.jpg
+    Filename: Edimax-Selects-MaxLinear-PHY.jpg
+    Filepath: images\Edimax-Selects-MaxLinear-PHY.jpg
+    Size: 149211 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Edimax-Selects-MaxLinear-PHY.jpg?ext=.jpg
+    Filename: Edimax-Selects-MaxLinear-PHY.jpg
+    Filepath: images\Edimax-Selects-MaxLinear-PHY.jpg
+    Size: 149211 bytes

@@ -1,0 +1,31 @@
+Title: MaxLinear announces production availability of Panther III storage accelerator OCP adapter card
+Date: 2023-08-07
+URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-announces-production-availability-of-panther-iii-storage-accelerator-ocp-adapter-card
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- MaxLinear, Inc. (Nasdaq: MXL), a leader in data storage accelerator solutions, today announced the production-release of the OCP 3.0 storage accelerator adapter card for Panther III. The ultra-low latency accelerator is designed to quicken key storage workloads, including database acceleration, storage offload, encryption, compression, and deduplication enablement for maximum data reduction. The Panther III OCP card is ideal for use in modern data centers, including public to edge clouds, enterprise data centers, and telecommunications infrastructure, allowing users to access, process, and transfer data up to 12 times faster than without a storage accelerator. The OCP version of the card is available immediately with a PCIe version available in Q3 2023.
+MaxLinear announces production availability of Panther III storage accelerator OCP adapter card.
+“In an era where the amount of data generated exceeds new storage installations by multiple fold, Panther III helps reduce the massive storage gap while improving TCO per bit stored,” said Dylan Patel, Chief Analyst at SemiAnalysis.
+The increasing adoption of cloud-based services and construction of new hyperscale facilities are leading to strong growth in the market. IDC estimates that the worldwide installed base of data storage capacity will grow nearly 17% this year to 6.8 zettabytes (ZB), and grow at a compound annual growth rate of nearly 18% through 2024. Related forecasts from IDC show that the amount of data being stored – also called “utilized storage” – is expected to grow at a 20.4% CAGR through 2024, topping out at 8.9 ZB that year.
+At the heart of this growth is a significant rise in Internet of Things (IoT) devices, artificial intelligence (AI) applications in high-performance computing (HPC) data centers, an increase in the number of companies offering machine learning (ML), increased demand for consumer-driven data, and increased demand for application performance.
+“Data storage capacity continues to double every three years and with the deployment of higher throughput NVMe drives and optical cabling, the need for hardware offload accelerators for data reduction continues to rise.” said James Lougheed, VP & GM of High Performance Analog & Accelerators at MaxLinear. “We’re seeing high traction of Panther III within our customer base due to its performance improvement versus existing solutions in the market. We’re excited to see this investment move into mass production and be able to add to our infrastructure revenue immediately.”
+Panther III is a highly scalable and flexible solution ideal for unlocking data capital in larger and fast dataset applications like data warehouse and big table. It is designed to ensure data integrity and make data continuously available. Its single pass execution provides faster dataset delivery, enabling high performance analytics with improved workload results. Panther III’s advanced compression algorithms enable simple data temperature transition, optimizing access latency for hot, warm, and cold data, and traffic handling can be prioritized for provisioning, enforcing service agreements or ultrafast access to hot data reads.
+“Panther III is unprecedented in its power and scale – offering 3x better performance than its predecessor - and is poised to set a new standard in storage acceleration,” said Mark Moran, Senior Director of Marketing Acceleration Products for MaxLinear. “This OCP release provides a production-ready solution designed for volume applications and allows for fast integration with fully tested and certified boards and a rich software ecosystem package.”
+Panther III card opens all tiers of storage media, from NVMe, SSD, HDD and tape, to a groundbreaking bandwidth potential with no CPU or software limitations. Key benefits include:
+ Panther III enables 12:1 data reduction, allowing storage solutions to not only store 1/12th the data, but also allow users to access, process, and transfer data 12 times faster even in slower HDD system.
+ MaxLinear MaxHash provides independent hash block size and programmable offset to enhance deduplication hit rates, resulting in improved effective storage capacity and $/GB savings.
+ Advanced encryption capabilities eliminate the need for Self-Encrypting Drives (SED) and removes the cost of and need for security routers.
+ Ultra-low latency enables 200Gbps throughput (scalable to 3.2Tbps cascaded) delivering high performance data analysis and better workload accuracy.
+ Software development kit (SDK) contains API, drivers, and source code for easy incorporation with end application software and software-defined storage (SDS).
+ Built-in, end-to-end data protection, Real Time Verification (RTV) of all transforms, NVMe protection, and in-line CRCs/parity assures data integrity and eliminates data loss.
+Visit 
+ for more information.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/eac143b4-58ad-4419-8afc-df8207f7ef7e/MicrosoftTeams-image-(2).png?width=800&height=456&ext=.png
+    Filename: MicrosoftTeams-image-(2).png
+    Filepath: images\MicrosoftTeams-image-(2).png
+    Size: 87882 bytes
+  - URL: https://mms.businesswire.com/media/20230807363424/en/1860123/4/MicrosoftTeams-image_%281%29.jpg
+    Filename: MicrosoftTeams-image_%281%29.jpg
+    Filepath: images\MicrosoftTeams-image_%281%29.jpg
+    Size: 155071 bytes

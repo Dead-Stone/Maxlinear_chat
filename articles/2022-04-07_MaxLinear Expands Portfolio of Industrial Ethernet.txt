@@ -1,0 +1,49 @@
+Title: MaxLinear Expands Portfolio of Industrial Ethernet Products with a Quad-Port 2.5GBase-T PHY and 1GBase-T Switches
+Date: 2022-04-07
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-expands-portfolio-of-industrial-ethernet
+Content:
+Carlsbad, CA – April 7, 2022 – Today MaxLinear (NASDAQ: MXL) announced the immediate availability of two 1000BASE-T Ethernet Switches (GSW125, GSW145) and a quad-port 2.5GBASE-T PHY (GPY245), expanding its Ethernet product portfolio to better serve the industrial, telecommunications, and networking outdoor markets, where products must perform efficiently in harsh temperature environments.
+
+ 
+
+With the increase of outdoor Wi-Fi access points, Industrial IoT and Industrial PCs used to collect, monitor and control equipment, products must operate in either high heat or frigid cold environments. Extreme temperatures can impact network operation, data transmission, and system reliability, causing interruptions and downtime, leading to security risks and costly emergency repairs.
+
+ 
+
+"MaxLinear has a 40-year history of being a leading supplier in industrial interface devices, having shipped over 1B serial transceivers over the past five years," said James Lougheed, Vice President of Marketing, High Performance Analog. "As the requirements for industrial-grade Ethernet products continue to grow, we continue to invest to remain in a strong position to support these fast-growing markets."
+
+ 
+
+"Verifone, a global FinTech leader and payment solution provider to the world's largest retail brands, recently adopted the MaxLinear GSW145 Quad-port 1G Ethernet switch for its Engage family of payment terminals that provide secure, reliable and flexible payment experiences to merchants around the world," said Henry Wang, Global Commodity Director at Verifone. "This builds on the established relationship we have with MaxLinear as our supplier for our Interface product needs."
+
+ 
+
+"According to our 2022 market research, the Industrial Ethernet market is expected to outpace the overall market and reach $3.5B in 2025.  Factory automation, the extension of Ethernet to support IoT, and additional industrial applications like smart cities and smart payment systems are all driving growth," said Alan Weckel, Founder and Technology Analyst at 650 Group.  "The Industrial Ethernet market is transitioning from fast Ethernet to GigE and mGigEth is creating the need for a new family of Industrial grade IC's. The MaxLinear industrial Ethernet PHY and Switch products will help drive this market transition."
+
+ 
+
+
+
+ 
+
+The GPY245 quad-port 2.5GBASE-T industrial PHY supports
+
+Low power consumption below 3.5W in 2.5GBASE-T mode
+An effective rBOM
+Industrial grade features like MACSec, PTP and SyncE
+Either 4 x 2.5G SGMII or a 10G USXGMII-M MAC interface
+Energy Efficient Ethernet (EEE) to reduce power consumption during low traffic periods
+Two or four twisted-pair interfaces (PHYs)
+Two MAC interfaces which can be 2.5G SGMII and RGMII
+QoS to prioritize switch traffic for different classes of applications, such as VoIP, video, audio, and data based on port ID
+Energy Efficient Ethernet (EEE) to reduce power consumption during low traffic periods
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Industrial-Interenet.jpg?ext=.jpg
+    Filename: MaxLinear-Industrial-Interenet.jpg
+    Filepath: images\MaxLinear-Industrial-Interenet.jpg
+    Size: 175688 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Industrial-Interenet.jpg?ext=.jpg
+    Filename: MaxLinear-Industrial-Interenet.jpg
+    Filepath: images\MaxLinear-Industrial-Interenet.jpg
+    Size: 175688 bytes

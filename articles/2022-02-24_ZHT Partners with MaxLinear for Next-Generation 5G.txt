@@ -1,0 +1,28 @@
+Title: ZHT Partners with MaxLinear for Next-Generation 5G Small Cell Solutions
+Date: 2022-02-24
+URL: https://www.maxlinear.com/news/press-releases/2022/zht-partners-with-maxlinear-for-next-generation-5g
+Content:
+– February 24, 2022 - 
+ (NASDAQ: MXL), today announced that ZHT, a leading provider of wireless network solutions to mobile operators or enterprises worldwide, has selected the MxL1600 family of RF Transceivers for its new 5G radio remote unit (RRU) small cells.
+
+
+
+ZHT’s 5G RRU series is an exciting new product line of 4-port and 2-port small cells for public and private network deployments. With bandwidths up to 200MHz at RF frequencies from 2.6 to 6.0 GHz, ZHT 5G RRUs offer class-leading flexibility in an ultra-compact size and power footprint delivered through MaxLinear’s MxL1600 RF transceiver platform.
+
+
+
+Powered by MaxLinear’s innovative RF architecture and CMOS process capabilities, the MxL1600 transceiver family delivers advanced capability for small cell designs, including:
+
+the highest RF performance in its class by enabling radio bandwidths of up to 400MHz
+support of all RAN air interface standards from 2G to 5G including MC-GSM
+ultra-low power consumption that is up to 50% lower than competitive offerings
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/maxlinear-ZHT-small-cell.jpg?ext=.jpg
+    Filename: maxlinear-ZHT-small-cell.jpg
+    Filepath: images\maxlinear-ZHT-small-cell.jpg
+    Size: 141349 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/maxlinear-ZHT-small-cell.jpg?ext=.jpg
+    Filename: maxlinear-ZHT-small-cell.jpg
+    Filepath: images\maxlinear-ZHT-small-cell.jpg
+    Size: 141349 bytes

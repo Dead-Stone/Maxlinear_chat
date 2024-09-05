@@ -1,0 +1,46 @@
+Title: MaxLinear Unveils Panther III – High-Performing DPU Storage Accelerator
+Date: 2022-08-01
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-unveils-panther-iii-%E2%80%93-high-performing-dp
+Content:
+– August 1, 2022 – MaxLinear Inc. (NASDAQ: MXL) today announced the availability of Panther III, the latest in the company’s Panther series of storage accelerators. The company is showcasing this product at the Flash Memory Summit in Santa Clara, CA, August 2 – 4. Booth 111.
+
+ 
+
+Businesses need immediate access to larger and larger amounts of data and, at the same time, are faced with security and CAPEX costs challenges. With its 16 nanometer (nm) DPU architecture, Panther III provides breakthrough data reduction, encryption, deduplication, and data protection and sets a new standard in storage acceleration with a high throughput of 200Gbps and ultra-low single-pass transformation latency.
+
+ 
+
+Panther III opens new opportunities within the storage market, including all-flash-array and non-volatile memory express (NVMe) systems. As with previous generations of Panther products, Panther III offers powerful data reduction technology that intelligently offloads the CPU to open all tiers of storage to their full bandwidth potential with no CPU or software limitations. These capabilities enable intelligent and faster dataset delivery, high-performance analytics, and improved workload accuracy in fast-growing Edge to disaggregated computing of the public cloud.
+
+ 
+
+“Data center all-flash NVMe SSD storage arrays recently hit 58% shipment growth this past year. NVMe enables faster storage speeds and the need for high-performance storing functionality through hardware acceleration,” said Dennis Hahn, Principal Analyst at Omdia. “The data rates behind NVMe arrays are making software approaches to storing data too expensive. In conjunction with a high-growth 47%, 5-year NVMe SSD array CAGR, Omdia expects storage hardware acceleration to continue to take hold within Enterprise, Cloud, and white box focused data centers.”
+
+ 
+
+“Panther III comes to market at a critical inflection point for enterprise storage appliances and hyperscale data center disaggregated computing storage systems,” said James Lougheed, Vice President of High Performance Analog and Accelerator products. “With the rise of higher speed NVMe SSD drive deployment, software data compression and reduction techniques are no longer viable architectures. Even existing hardware compression offload solutions lack the ability to scale. The release of Panther III elevates the product family into a class of its own, ready to address a data storage market that’s doubling its Zettabytes capacity every three years.”
+
+ 
+
+The scalability and flexibility of the DPU architecture allow the Panther III series to deliver the storage solution with 12:1 data reduction, a full suite of security, and CAPEX cost reduction for use in data centers while providing ultra-reliable data protection. The flexible compression algorithms offered in Panther III enable simple data temperature transition optimizing access latency for hot, warm, and cold data. When combined with Panther class of service (CoS) and decode-only DPU transform engines to prioritize traffic handling for provisioning, service agreements are enforced, and ultra-fast access to super-hot data reads is provided.
+
+ 
+
+Panther III unleashes the true power of data storage through smart engineering and innovation:
+
+ 
+
+ Combining the NVMe SSD drives growth and Panther III 200Gbps throughput with ultra-low latency enable quicker access to larger datasets (big data), allowing higher performance data analysis to deliver better workload accuracy
+The exclusive patent-pending MaxHash provides independent hash block size and programmable offset to enhance deduplication hit rates resulting in improved effective storage capacity and $/GB savings
+Feature-rich software development kit (SDK) contains API, drivers, and source code for easy incorporation with end application software and software-defined storage (SDS)
+ The built-in end-to-end data protection via Real Time Verification (RTV) of all transforms, NVMe protection, and in-line CRCs/parity assures data integrity and eliminates data loss
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Panther-DPU-Storage-Accelerator.jpg?ext=.jpg
+    Filename: Panther-DPU-Storage-Accelerator.jpg
+    Filepath: images\Panther-DPU-Storage-Accelerator.jpg
+    Size: 171940 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Panther-DPU-Storage-Accelerator.jpg?ext=.jpg
+    Filename: Panther-DPU-Storage-Accelerator.jpg
+    Filepath: images\Panther-DPU-Storage-Accelerator.jpg
+    Size: 171940 bytes

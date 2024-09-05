@@ -1,0 +1,30 @@
+Title: MaxLinear and Positron Partner to Accelerate Broadband Deployment with Fiber Speeds to the Home
+Date: 2023-10-16
+URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-and-positron-partner-to-accelerate-broadband-deployment-with-fiber-speeds-to-the-home
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- MaxLinear, Inc. (Nasdaq: MXL), a leader in broadband solutions, today announced that Positron Access Solutions has selected the MaxLinear G.hn chipset for use in its G.hn Access Multiplexers (GAM) products. The Positron GAM solutions extend fiber and fixed-wireless access Gigabit services to legacy properties over the existing coax or twisted pair wiring infrastructures. These solutions allow service providers to connect subscribers in legacy residential, multi-tenant, and hospitality buildings at barely 20% of the cost of deploying fiber to the door. MaxLinear and Positron will showcase these solutions at Network X in Paris, France, October 24 – 26. Booth B1 (MaxLinear) Booth B3 (Positron in the Home Grid Forum). 
+The versatility of the G.hn as a Gigabit access technology standard provides subscribers with ultra-fast and reliable network connectivity. G.hn is robust and works over any wiring infrastructure – coax, telephone wire, powerline or Power-over-Fiber (POF). G.hn achieves very low latency for any user traffic while enforcing comprehensive Quality of Service (QoS) and achieving Gigabit speeds under any packet size. These capabilities translate to greater product reliability, lower equipment development costs, lower deployment costs and quicker time to market as the solution requires no rewiring.
+“Connectivity convergence is becoming increasingly important as consumers demand reliable access at Gigabit speeds,” said Will Torgerson, Vice President, Broadband Group for MaxLinear. “Service providers require solutions that enable quick and cost-effective deployment for legacy MDUs and hotels, and Positron delivers with their advanced GAM solutions.”
+“Over 200 service providers rely on our GAM solutions to connect bypassed buildings and help bridge the digital divide,” Positron Access President and CTO Pierre Trudeau commented. “With the MaxLinear G.hn superior technology and Positron’s engineering excellence, we offer service providers the solution that enables end-to-end flow-through provisioning for advanced Gigabit services to the customer.”
+The G.hn Access baseband processors and analog front-end chipsets are fully ITU compliant and deliver physical data rates up to 2Gbps, the fastest G.hn performance in the industry. When operating over coaxial cabling, each G.hn port can serve up to sixteen (16) subscribers by reusing the existing CATV spitters and taps already in place. Each G.hn subscriber port supports up to 1.7 Gbps with advanced dynamic bandwidth allocation for near-symmetrical Gigabit services over the existing cabling.
+For a complete overview of the MaxLinear G.hn solutions, 
+.
+The Positron GAM product family operates over telephone wiring (1-pair SISO and 2-pair MIMO) with extensive support for VectorBoost™ noise cancellation in multi-pair binders. The GAM offers robust dynamic bandwidth allocation for optimal performances at all times. With 12- and 24-port indoor units and reverse-powered fed (RPF) 4- and 8-port outdoor units, the GAM scales to serve any deployment environment with the same advanced management capabilities.
+Positron’s carrier-grade G.hn solution (GAM) packs carrier-grade Ethernet Switching and management capabilities to extend fiber or wireless services, laying the Gigabit Ethernet foundation for services such as managed Wi-Fi and smart building solutions.
+Positron products are available now. For a complete overview of Positron’s GAM Solution, 
+.
+MaxLinear and Positron will showcase these solutions at Network X in Paris, France, October 24 – 26. Booth B1 (MaxLinear) Booth B3 (Positron in the Home Grid Forum).
+MaxLinear, Inc. (Nasdaq: MXL) is a leading provider of radio frequency (RF), analog, digital, and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+Positron Access Solutions manufactures products that increase the bandwidth delivered by Tier-1 carriers and over 200 Tier- 2/3 Operators. Positron’s G.hn Gigabit Access Multiplexer (GAM) extends fiber or fixed-wireless Gigabit services over the existing in-building wiring in Multi-Dwelling Units (MDU) and Multi-Tenant Units (MTU). With seamless support for XGS-PON and fixed wireless access (FWA) flow-through provisioning, it delivers managed real-time non-blocking Gigabit speeds to each subscriber without the cost and construction disruption of installing fiber to each door (up to 800 feet over existing telephone pairs or 2,600 feet over existing RG6 coaxial cable and splitters). The GAM is developed, manufactured, and supported in North America. Positron is a proud member of the HomeGrid Forum. For more information, visit 
+.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/6833135b-40e2-47d6-83c1-201c16779666/Paositron_PR-1.jpg?width=800&height=456&ext=.jpg
+    Filename: Paositron_PR-1.jpg
+    Filepath: images\Paositron_PR-1.jpg
+    Size: 48694 bytes
+  - URL: https://www.maxlinear.com/getmedia/6833135b-40e2-47d6-83c1-201c16779666/Paositron_PR-1.jpg?width=800&height=456&ext=.jpg
+    Filename: Paositron_PR-1.jpg
+    Filepath: images\Paositron_PR-1.jpg
+    Size: 48694 bytes

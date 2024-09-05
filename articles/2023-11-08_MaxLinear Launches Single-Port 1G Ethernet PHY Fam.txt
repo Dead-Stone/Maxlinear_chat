@@ -1,0 +1,27 @@
+Title: MaxLinear Launches Single-Port 1G Ethernet PHY Family Aimed at Both Consumer and Industrial IOT Applications
+Date: 2023-11-08
+URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-launches-single-port-1g-ethernet-phy-family-aimed-at-both-consumer-and-industrial-iot-appl
+Content:
+Single-port Ethernet gigabit copper PHYs with low power consumption, a small footprint, and low RBOM.
+Ethernet end-market is expected to grow to $15.8B by 2028.
+CARLSBAD, Calif.--(BUSINESS WIRE)-- MaxLinear, Inc. (Nasdaq: MXL), a leader in Ethernet and network solutions, today announced the market availability of its latest generation of single-port 1G Ethernet PHYs, complementing its already robust Ethernet portfolio. The new family is available in consumer and industrial variants and addresses a wide range of applications such as gateways, routers, industrial PCs, media converters, and SGMII to RGMII bridges. The products are available today with full documentation and development kits.
+The new gigabit Ethernet transceivers - MxL86110C, MxL86110I, MxL86111C, and MxL86111I – are tailored to both industrial and consumer needs and meet the market need for robust Ethernet across a variety of applications, including both Industrial IoT (ex. video cameras, motor drives, industrial PC) and consumer IoT (printers, Wi-Fi access points, and all varieties of gateways). High-speed transmission coupled with low-cost implementation make Ethernet a growing connectivity solution, especially within the industrial space. The industrial Ethernet end-market is expected to grow from $11B to $15.8B from 2023 to 2028, according to a report from MarketsandMarkets.
+“This new single port 1G PHY further strengthens our Ethernet portfolio and provides our customers with exceptional choice and value,” said James Lougheed, Vice President & GM, High Performance Analog at MaxLinear. “The size, power consumption, and speed of this family offers OEMs, ODMs, and designers significant flexibility in product design, and a highly competitive bill of materials.”
+The new Ethernet transceivers are highly competitive and offer a wide range of Ethernet speeds and interface options, providing maximum flexibility for specific requirements. Speeds include 10BASE-Te, 100BASE-TX, and 1000BASE-T on twisted pair interfaces. This versatility enables customers to adapt to different network environments. They also support both half- and full-duplex modes for 10BASE-Te and 100BASE-TX, as well as full-duplex mode for 1000BASE-T, optimizing network performance. Interface options include RGMII only or RGMII and SGMII MAC interfaces.
+With this new Ethernet family, MaxLinear focused on providing designers with more flexibility with unit layout and BOM as well as meeting consumers' environmental concerns. Compact packages - include QFN40 5mm x 5mm and QFN56 6mm x 6mm - allow for lower power consumption and efficient design integration. Green power features like EEE, Wake on LAN, and link down power saving align with consumers' environmental concerns by reducing power consumption during idle times. Additionally, features such as support for jumbo frames, auto MDI/MDI-X, auto polarity detection and correction, and Energy Efficient Ethernet (EEE) collectively contribute to a state-of-the-art and power-efficient Ethernet communication solution, giving consumers the confidence to meet their connectivity needs while maintaining design flexibility.
+Furthermore, the extended loop length exceeding the standard 100m specified in IEEE802.3 offers consumers greater reach for their network connections. The single power supply with internal DCDC simplifies power management, and the compatibility with various voltage levels (1.8V, 2.5V, 3.3V) ensures ease of integration into different systems.
+The inclusion of advanced features like SyncE, dual media support, and industrial temperature range further extends the usability of this product family, making it suitable for advanced industrial applications.
+Variscite, a leading System on Module (SoM) designer and manufacturer in the embedded market, selected MaxLinear’s new MXL8611x 1G Ethernet PHYs for deployment in their extensive SoM portfolio. “We’re excited to strengthen our long-standing partnership with MaxLinear by incorporating their 1G PHY. This will allow us to provide our customers with high-quality products based on market-leading components that support industrial-grade requirements at an optimal price point," said Ofer Austerlitz, VP Business Development and Sales at Variscite.
+The PHYs are available immediately. For more information, please visit 
+.
+This new product family complements MaxLinear’s Ethernet portfolio of 1G / 2.5G PHYs and Switches. MaxLinear will extend its 2.5G product portfolio further in the coming months.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/13cbbc2c-3d50-4d59-8356-1ae970563fda/MxL86111-and-MxL86110_Blog-IMG.jpg?width=800&height=456&ext=.jpg
+    Filename: MxL86111-and-MxL86110_Blog-IMG.jpg
+    Filepath: images\MxL86111-and-MxL86110_Blog-IMG.jpg
+    Size: 172026 bytes
+  - URL: https://www.maxlinear.com/getmedia/13cbbc2c-3d50-4d59-8356-1ae970563fda/MxL86111-and-MxL86110_Blog-IMG.jpg?width=800&height=456&ext=.jpg
+    Filename: MxL86111-and-MxL86110_Blog-IMG.jpg
+    Filepath: images\MxL86111-and-MxL86110_Blog-IMG.jpg
+    Size: 172026 bytes

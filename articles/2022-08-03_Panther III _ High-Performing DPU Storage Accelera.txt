@@ -1,0 +1,29 @@
+Title: Panther III – High-Performing DPU Storage Accelerator – Recognized as Best of Show Winner
+Date: 2022-08-03
+URL: https://www.maxlinear.com/news/press-releases/2022/panther-iii-%E2%80%93-high-performing-dpu-storage-accelerator-%E2%80%93-recognized-as-best-of-show-winner
+Content:
+SANTA CLARA, Calif.--(BUSINESS WIRE)-- MaxLinear Inc. (NASDAQ: MXL) today announced it was recognized as a Flash Memory Summit 2022 Best of Show winner. MaxLinear won for Panther III, their next-generation storage accelerator that sets a new standard for this technology and can transform enterprise and hyperscale data centers.
+MaxLinear's new DPU Storage Accelerator, Panther III, receives Flash Memory Summit 2022 Most Innovative Flash Memory Enterprise Business Application. Delivers ultra-low latency, 200Gbps throughput, 12:1 data reduction, and security acceleration for enterprise and hyperscale data centers (Graphic: Business Wire)
+Businesses need immediate access to larger and larger amounts of data and, at the same time, are faced with security and CAPEX costs challenges. Panther III opens new opportunities within the storage market, including all-flash-array and non-volatile memory express (NVMe) systems.
+This product offers powerful data reduction technology that intelligently offloads the CPU to open all tiers of storage to their full bandwidth potential with no CPU or software limitations. These capabilities enable intelligent and faster dataset delivery, high-performance analytics, and improved workload accuracy in fast-growing Edge to disaggregated computing of the public cloud.
+“Applications spanning vertical markets, whether healthcare, financial services or industrial IoT companies, are faced with the growing challenge of needing to access, process, and transfer data faster,” said Jay Kramer, Chairman of the Awards Program and President of Network Storage Advisors Inc. “We are proud to recognize the MaxLinear Panther III DPU Storage Accelerator, as it delivers ultra-low latency, 200Gbps throughput, data reduction and security acceleration for enterprise and hyperscale data centers, resulting in new levels of performance, scalability, high availability, resiliency, and capacity optimization.”
+“MaxLinear, since inception, has focused on making innovative solutions that are faster, better and more integrated than solutions currently on the market, and Panther III is just the latest such example,” said James Lougheed, Vice President of High Performance Analog and Accelerator products. “We are honored to be recognized with this prestigious award from FMS and celebrate the MaxLinear engineering teams for their continued execution.”
+Businesses need immediate access to larger and larger amounts of data and, at the same time, are faced with security and CAPEX costs challenges storage systems. Panther III unleashes the true power of data storage through smart engineering and innovation:
+: Combining the NVMe SSD drives growth and Panther III 200Gbps throughput with ultra-low latency enables quicker access to larger datasets (big data), allowing higher performance data analysis to deliver better workload accuracy
+ The exclusive patent-pending MaxHash provides independent hash block size and programmable offset to enhance deduplication hit rates resulting in improved effective storage capacity and $/GB savings
+ Feature-rich software development kit (SDK) contains API, drivers, and source code for easy incorporation with end application software and software-defined storage (SDS)
+: The built-in end-to-end data protection via Real Time Verification (RTV) of all transforms, NVMe protection, and in-line CRCs/parity assures data integrity and eliminates data loss
+, produced by Conference ConCepts, showcases mainstream applications, key technologies, leading vendors, and innovative startups driving the multi-billion-dollar high-speed memory and SSD markets. FMS is now the world’s largest event featuring trends, innovations, and influencers driving flash memory and high-speed memory technology adoption within demanding enterprise
+MaxLinear, Inc. (NASDAQ: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/b98e93c9-98a3-4e15-bed7-a142c13ce227/Panther-Hero-Award.jpg?width=800&height=456&ext=.jpg
+    Filename: Panther-Hero-Award.jpg
+    Filepath: images\Panther-Hero-Award.jpg
+    Size: 175129 bytes
+  - URL: https://www.maxlinear.com/getmedia/b98e93c9-98a3-4e15-bed7-a142c13ce227/Panther-Hero-Award.jpg?width=800&height=456&ext=.jpg
+    Filename: Panther-Hero-Award.jpg
+    Filepath: images\Panther-Hero-Award.jpg
+    Size: 175129 bytes

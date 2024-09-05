@@ -1,0 +1,58 @@
+Title: MaxLinear to acquire Intel’s Home Gateway Platform Division
+Date: 2020-04-06
+URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-to-acquire-intel%E2%80%99s-home-gateway-platform
+Content:
+Carlsbad, CA, April 6, 2020 (BUSINESS WIRE) – MaxLinear, Inc. (NYSE: MXL) a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications, announced today that MaxLinear and its wholly owned subsidiary have entered into a definitive agreement with Intel Corporation under which MaxLinear would, subject to customary closing conditions, acquire Intel’s Home Gateway Platform Division assets in an all-cash, asset transaction valued at $150 million. The Home Gateway Platform Division comprises Wi-Fi Access Points, Ethernet and Home Gateway SoC products deployed across operator and retail markets.
+
+
+
+The acquisition will enable MaxLinear to complement its existing portfolio, bringing together a complete and scalable platform of connectivity and access solutions for its customers across target end-markets, as well as creating potential new revenue opportunities in adjacent target end-markets. MaxLinear expects initially to add approximately $60 million to $70 million in quarterly revenue, and the acquisition is expected to be accretive to MaxLinear’s non-GAAP earnings, in the first full quarter post close.
+
+
+
+The transaction is expected to close in the third quarter of 2020, subject to customary closing conditions, including regulatory approvals. The transaction is not subject to financing contingencies. Additional information to be discussed in the investor call referenced below is available on our website at https://investors.maxlinear.com.
+
+
+
+“MaxLinear is excited by the strong potential for growth and the ability to enhance our value proposition to our existing customers with the addition of the Intel Home Gateway Platform Division, which includes its Wi-Fi Access Point assets, Ethernet, and Home Gateway SoC products,” said Kishore Seendripu, Ph.D., Chairman and CEO of MaxLinear. “These assets add significant scale to our entire business while enabling us to provide a compelling WiFi product offering with tremendous growth opportunities inside and outside of the Connected Home, including expanding the portfolio to include IoT solutions. We are excited to welcome a world class engineering team with best in class technology competency that will greatly expand MaxLinear’s significant analog/RF mixed-signal portfolio with large scale SoC product capabilities, software expertise, and comprehensive networking competencies spanning our target markets.”
+
+
+
+“Intel and MaxLinear have a strong track record of collaboration to deliver gateway platforms for the home, and I’m confident this will be a seamless transition for our mutual customers and employees,” said Weng Kuan Tan, general manager of the Home Gateway Platform Division and corporate Vice President of the Client Computing Group at Intel. “It will also allow Intel’s Client Computing Group to focus on our vision of delivering PC platforms that power every person’s greatest contribution while having no impact on Intel’s Internet of Things Group or Intel’s Network Platform Group.”
+
+
+
+GCA Advisors, LLC is acting as exclusive financial advisor to MaxLinear, and Wilson Sonsini Goodrich & Rosati, P.C. is acting as counsel for MaxLinear.  MUFG and Wells Fargo are providing committed debt financing for the transaction.
+
+ 
+
+
+
+MaxLinear will host a conference call today, April 6, 2020 at 5:30 a.m. Pacific Time (8:30 a.m. Eastern Time). To access this call, dial US toll free: 1-877-407-3109 / International: 1-201-493-6798. A live webcast of the conference call will be accessible from the investor relations section of the MaxLinear website at https://investors.maxlinear.com, and will be archived and available after the call at https://investors.maxlinear.com until April 20, 2020. A replay of the conference call will also be available until April 20, 2020 by dialing US toll free: 1-877-660-6853 / International: 1-201-612-7415 and Conference ID#: 13701707.
+
+
+
+
+
+This press release contains forward-looking statements within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995, including statements with respect to the anticipated timing of the proposed acquisition; opportunities and prospects for MaxLinear if the acquisition is completed, including (without limitation) expectations with respect to addressable markets, opportunities within those markets, and the ability of MaxLinear to serve those markets; the growth strategies of MaxLinear generally and expectations with respect to the impact of the acquisition on MaxLinear’s growth strategies; expectations with respect to the products and customers of MaxLinear following the acquisition; and strategic and financial synergies, including projected incremental 2020 revenue and non-GAAP operating profit accretion anticipated to be realized from the proposed acquisition. These statements are based on management’s current expectations and beliefs and are subject to a number of factors and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: failure to receive regulatory approvals in connection with the transaction; the challenges and costs of closing, integrating, restructuring, and achieving anticipated synergies following the acquisition; the ability to retain key employees, customers and suppliers; substantial competition in the home gateway platform market; risks and uncertainties arising from the global Covid-19 pandemic; and other factors affecting the business, operating results, and financial condition of either MaxLinear or the acquired business, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K, Quarterly Report on Form 10-Q, and Current Reports on Form 8-K, as applicable, as filed with the Securities and Exchange Commission (the “SEC”). All forward-looking statements are based on the estimates, projections, and assumptions of MaxLinear management, as applicable, as of the date hereof, and MaxLinear is under no obligation (and expressly disclaims any such obligation) to update or revise any forward-looking statements whether as a result of new information, future events, or otherwise.
+
+
+
+
+
+This communication and the investor presentation contained on our website may contain certain non-GAAP financial measures, which management believes are useful to investors and others in evaluating business combinations. Further information concerning these non-GAAP financial measures, including a description of the basis for MaxLinear’s use and calculation of non-GAAP financial measures, is contained in the presentation on our website.  Because of the inherent uncertainty associated with our ability to project future charges, particularly related to stock-based compensation, its related tax effects, potential impairments, and certain other non-recurring costs arising from the proposed acquisition, the presentation on our website does not provide a reconciliation for non-GAAP for future periods. 
+
+
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Blog-Image-2.jpg?ext=.jpg
+    Filename: MaxLinear-Blog-Image-2.jpg
+    Filepath: images\MaxLinear-Blog-Image-2.jpg
+    Size: 167768 bytes

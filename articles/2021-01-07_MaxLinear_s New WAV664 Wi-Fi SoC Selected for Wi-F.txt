@@ -1,0 +1,53 @@
+Title: MaxLinear’s New WAV664 Wi-Fi SoC Selected for Wi-Fi Alliance ® Wi-Fi 6E Certification Test Bed
+Date: 2021-01-07
+URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear%E2%80%99s-new-wav664-wi-fi-soc-selected-for-wi-f
+Content:
+– January 8, 2021 – MaxLinear Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, today announced that Wi-Fi Alliance
+ has selected the MaxLinear WAV664 as an official Wi-Fi 6E test bed device. The second MaxLinear device to hold such an honor, the Home Wi-Fi Chipset WAV600 Series is part of the Wi-Fi Alliance Wi-Fi CERTIFIED 6™ test bed.
+
+ 
+
+The WAV664 delivers speeds up to 4.8Gbps in the 6GHz band enabling routers and gateways to deliver multi-gigabit Wi-Fi speeds and provide higher-quality user experiences for applications in Ultra HD, 4k and 8k video streaming especially in dense environments.  In addition, the WAV664 SoC supports up to 256 clients simultaneously and optimizes transmission on each device for enhanced total network efficiency allowing access points to meet the accelerating demand for high bandwidth and low latency.
+
+ 
+
+Wi-Fi 6E is a new certification from Wi-Fi Alliance
+ for Wi-Fi CERTIFIED 6 devices that support the new 6GHz spectrum. Wi-Fi 6E certification enables worldwide interoperability of Wi-Fi 6E devices. The 6GHz band adds 1.2GHz of spectrum, a threefold increase in capacity over combined spectrum available in 2.4GHz and 5GHz bands.  It enables support of up to seven contiguous 160MHz channels for bandwidth-intensive applications. Wi-Fi 6E enables better user experience with reduced latency for gaming, video conferencing and time sensitive applications while improving the aggregate network performance.
+
+ 
+
+“As the unencumbered 6GHz spectrum becomes available, MaxLinear is proud to be an ecosystem enabler of this new Wi-Fi technology,” said Doron Tal, General Manager of Broadband Access at MaxLinear. “As part of the WAV600 series of products, the WAV664 is the next advanced building block that enables the full potential of high data rates and low latency our customers need to extend their solutions into new applications.”
+
+ 
+
+“People demand matching capabilities of their Wi-Fi as they do from new 10Gbps access technologies like 5G and 10G DOCSIS 4.0,” said German Laryczower, Senior Vice President, Broadband Home Solutions, CommScope. “With the use of 7x160MHz Wi-Fi 6E channels of multi gigabit, low latency capacity now available to the home, we can build new ultra-immersive and lowest latency services on the Wi-Fi 6E platform. These platforms will accelerate adoption of AR/VR services.”
+
+ 
+
+“Wi-Fi 6E certified devices help promote rapid adoption and innovation in 6GHz,” said Kevin Robinson, SVP of Marketing, Wi-Fi Alliance. “As one of our interoperability test bed devices for Wi-Fi 6E certification, MaxLinear is playing an important role in ensuring users are delivered a secure and interoperable experience with Wi-Fi 6E products.”
+
+ 
+
+
+
+ 
+
+MaxLinear’s WAV664 Wi-Fi 6E SoC offers fast and consistent connectivity for Wi-Fi 6E devices on the 6GHz spectrum in routers and gateways as well as intelligent range extenders in cable, xDSL, fiber and consumer retail infrastructure. WAV664 key features include:
+
+IEEE 802.11ax Compliant
+Wi-Fi Alliance 
+ Wi-Fi 6E certification
+Supports operation in 6GHz Spectrum from U-NII-5 to U-NII-8 (Total: 1.2GHz)
+4.8 Gbps PHY Rate
+Up to 160MHz
+Up to four Spatial Streams
+OFDMA
+Mu-MIMO
+Service Provider Gateways
+Routers, Access Points, Extenders & Repeaters
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Blog-Image-3.jpg?ext=.jpg
+    Filename: MaxLinear-Blog-Image-3.jpg
+    Filepath: images\MaxLinear-Blog-Image-3.jpg
+    Size: 245345 bytes

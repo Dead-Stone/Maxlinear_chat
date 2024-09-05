@@ -1,0 +1,25 @@
+Title: MaxLinear Launches Product Design Kit for Active Electrical Cables Using Keystone PAM4 DSP
+Date: 2024-02-01
+URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-launches-product-design-kit-for-active-electrical-cables-using-keystone-pam4-dsp
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- MaxLinear, Inc. (Nasdaq: MXL), a leading provider of high-speed interconnect ICs enabling data center, metro, and wireless transport networks, today announced the availability of a comprehensive product design kit (PDK) to optimize performance and accelerate the time to market for high-speed Active Electrical Cables (AEC) using MaxLinear’s 5nm PAM4 DSP, Keystone. The PDK is a cost-cutting and time-saving tool for cable manufacturers who want to quickly integrate Keystone into their active electrical cables.
+
+
+
+MaxLinear’s Keystone PAM4 DSP offers a significant power advantage in AEC applications, which is increasingly becoming a critical factor for hyperscale data centers. The use of 5nm CMOS technology enables designers and manufacturers to build high-speed cables that meet the need for low power, highly integrated, high performance interconnect solutions that will drive the next generation of hyperscale cloud networks.
+Manufacturers taking advantage of MaxLinear’s PDK to optimize cable designs using Keystone PAM4 DSP will gain a distinct advantage over competitor solutions when trying to maximize reach and minimize power consumption. The PDK makes Keystone easy to integrate with strong applications support, multiple tools to optimize and monitor performance, and reference designs (SW and HW) to accelerate integration. Sophisticated software allows for quick design optimization for the lowest possible power consumption and maximizing cable reach. Cable designers can constantly monitor performance, route signals from any port to any port, and take advantage of hitless firmware upgrades.
+“MaxLinear is focused on providing not only industry-leading interconnect technologies but also a comprehensive suite of tools to support our manufacturing and design partners,” said Drew Guckenberger, Vice President of High Speed Interconnect at MaxLinear. “Our development kit for our Keystone products provides them with a path to take products to market more quickly and more cost-effectively.”
+Active electrical cables (AECs) are revolutionizing data center connections. Unlike passive cables, they actively boost signals, allowing for longer distances (up to 7 meters for 400G), higher bandwidth, and thinner, lighter cables. This makes them ideal for high-speed applications like top-of-rack connections (connecting switches to servers within the same rack); direct digital control (enabling flexible interconnectivity within racks and across rows); and breakout solutions (splitting high-speed connections into multiple lower-speed channels). The high-speed interconnect market – which includes active optical cables, active electrical cables, direct attach copper cables, and others – is expected to grow to $17.1B by 2028, up from $10.7B in 2021 according to a market forecast report from The Insight Partners.
+The Keystone 5nm DSP family caters to 400G and 800G applications, featuring a groundbreaking 106.25Gbps host side electrical I/O, aligning with the line side interface rate. Available variants support single-mode optics (EML and SiPh), multimode optics (VCSEL transceivers and AOCs), and Active Electrical Cables (AECs), offering comprehensive solutions with companion TIAs.
+Host side interfaces cover ethernet rates of 25G, 50G, and 100G per lane over C2M, MR, and LR host channels. The line side interfaces, tailored for 100G/λ DR, FR, and LR applications, also support these rates. These devices boast extensive DSP functionality, encompassing line-side transmitter DPD, TX FIR, receiver FFE, and DFE.
+With exceptional performance and signal integrity, these DSPs occupy a compact footprint (12mm x 13mm), ideal for next-gen module form-factors like QSFP-DD800 and OSFP800. Additionally, they are available as Known Good Die (KGD) for denser applications, such as OSFP-XD.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/aa29a0c6-fecc-45da-bba3-6e6aa5319b8c/Keystone-AEC-Market-Blog-Image.jpg?width=800&height=456&ext=.jpg
+    Filename: Keystone-AEC-Market-Blog-Image.jpg
+    Filepath: images\Keystone-AEC-Market-Blog-Image.jpg
+    Size: 159997 bytes
+  - URL: https://www.maxlinear.com/getmedia/aa29a0c6-fecc-45da-bba3-6e6aa5319b8c/Keystone-AEC-Market-Blog-Image.jpg?width=800&height=456&ext=.jpg
+    Filename: Keystone-AEC-Market-Blog-Image.jpg
+    Filepath: images\Keystone-AEC-Market-Blog-Image.jpg
+    Size: 159997 bytes

@@ -1,0 +1,28 @@
+Title: RFHIC and MaxLinear Achieve Breakthrough Linearization Performance for Ultra-Wideband 5G New Radio
+Date: 2021-08-10
+URL: https://www.maxlinear.com/news/press-releases/2021/rfhic-and-maxlinear-achieve-breakthrough-lineariza
+Content:
+– August 10, 2021 – 
+ (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, and RFHIC (KOSDAQ: 218410), a leader in the design and manufacture of high-performance active RF and microwave components and hybrid modules recently verified that RFHIC’s Gallium Nitride (GaN) transistor for 5G macro base stations and hybrid power amplifier module (PAM) for 5G massive MIMO base stations achieved breakthrough linearization performance when combined with MaxLinear’s MaxLIN linearization technology, exceeding 3
+ Generation Partnership Project (3GPP) requirements for ultra-wideband 5G New Radio (5G NR).
+
+
+
+RFHIC and MaxLinear are collaborating to optimize the combined performance of power amplifiers, transceivers, and linearization at key 5G bands (3.4 to 3.8GHz and 3.7 to 3.98GHz). The collaboration entails RFHIC’s highly efficient GaN solutions for 5G telecom infrastructure, MaxLinear’s high-performance transceivers, and MaxLinear’s ultra-wideband linearization solution (MaxLIN), achieving outstanding efficiency and linearity performance.
+
+
+
+MaxLinear’s transceiver portfolio includes:
+
+MxL16xx, a 4T4R family supporting full wideband with 400MHz of instantaneous bandwidth (IBW) for a wide variety of Macro and small cell applications
+MxL155x, a high density 8T8R family supporting full wideband with 400MHz of instantaneous bandwidth (IBW) optimized for high antenna count massive MIMO applications
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-RFHIC-Breakthrough-Linearization.jpg?ext=.jpg
+    Filename: MaxLinear-RFHIC-Breakthrough-Linearization.jpg
+    Filepath: images\MaxLinear-RFHIC-Breakthrough-Linearization.jpg
+    Size: 191866 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-RFHIC-Breakthrough-Linearization.jpg?ext=.jpg
+    Filename: MaxLinear-RFHIC-Breakthrough-Linearization.jpg
+    Filepath: images\MaxLinear-RFHIC-Breakthrough-Linearization.jpg
+    Size: 191866 bytes

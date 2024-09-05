@@ -1,0 +1,114 @@
+/* Color Palette based on the image */
+:root {
+    --background-color: #F2E8C6; /* Light Beige */
+    --user-bg-color: #982B1C;    /* Red */
+    --assistant-bg-color: #DAD4B5; /* Beige */
+    --input-bg-color: #FFFFFF;   /* White */
+    --button-color: #800000;     /* Dark Red */
+    --button-hover-color: #982B1C; /* Red */
+    --text-color: #333333;
+    --input-border-color: #DAD4B5; /* Beige */
+}
+
+/* Global styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    background-color: var(--background-color);
+    border-radius: 10px;
+}
+
+/* Chat container */
+.chat-container {
+    flex: 1;
+    width: 100%;
+    max-height: 80vh;
+    overflow-y: scroll;
+    padding: 20px;
+    background-color: var(--input-bg-color);
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+}
+
+/* Chat message styles */
+.chat-message {
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 20px;
+    max-width: 80%;
+    word-wrap: break-word;
+    font-size: 16px;
+}
+
+/* User message */
+.chat-message.user {
+    align-self: flex-end;
+    background-color: var(--user-bg-color);
+    color: #FFFFFF;
+    text-align: right;
+}
+
+/* Assistant message */
+.chat-message.assistant {
+    align-self: flex-start;
+    background-color: var(--assistant-bg-color);
+    color: #333333;
+    text-align: left;
+}
+
+/* Input container */
+.input-container {
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    background-color: var(--input-bg-color);
+    border-top: 1px solid var(--input-border-color);
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Input field */
+input {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid var(--input-border-color);
+    border-radius: 20px;
+    outline: none;
+    background-color: var(--input-bg-color);
+}
+
+/* Send button */
+button {
+    margin-left: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: var(--button-color);
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+/* Send button hover */
+button:hover {
+    background-color: var(--button-hover-color);
+}

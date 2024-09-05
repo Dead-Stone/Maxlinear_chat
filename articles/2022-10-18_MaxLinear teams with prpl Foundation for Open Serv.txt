@@ -1,0 +1,49 @@
+Title: MaxLinear teams with prpl Foundation for Open Service Platform featuring its AnyWAN™ Broadband Chips running prplOS
+Date: 2022-10-18
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-teams-with-prpl-foundation-for-open-serv
+Content:
+– October 18, 2022 – MaxLinear, Inc. (NASDAQ: MXL) today announced the availability of the MaxLinear AnyWAN™ Open Service Platform running prplOS. The company will showcase its powerful capability at the prpl Summit held on 20 October and at Broadband World Forum (BBWF) in Amsterdam (18 – 20 October – Exhibition Stand B-16.)
+
+ 
+
+Based on the company’s newest generation of broadband SoCs - the AnyWAN™ series - and prpl Foundation’s latest prplOS middleware, this combined solution gives a ready-made platform for prpl members to develop robust carrier-grade gateway solutions that are highly scalable, independent, and highly adaptable to numerous WAN and LAN technologies. 
+
+ 
+
+Operators in the prpl Foundation strive to get a common middleware enabling their innovative apps and services to run on multiple hardware platforms. The MaxLinear Open Service Platform is a development kit for operators as well as for hardware and software developers. It streamlines various target applications onto a single platform, simplifies development, thereby providing more flexibility in design and a faster time to market. Developers and operators will now have the ability to easily test multiple services before customizing their own AnyWAN™-based platform.
+
+ 
+
+“The focus of the prpl Foundation and all of our contributors is to provide reliable and secure CPE devices that drive innovative in-home services to the consumer through industry collaboration on an open-source platform,” said Randy Zimler, member of the prpl Foundation Board of Directors. “MaxLinear serves as a significant prpl community contributor and SoC provider that values the portability and power of an open-sourced software solution.”
+
+ 
+
+“With prplOS we are able to abstract gateway platforms and focus on the services we are offering to our customers,” said Wojtek Makowski, Director CPE Ecosystem at Orange and a member of the Board of Directors of the prpl Foundation. “The time to deploy new services and hardware is thus significantly reduced. We are happy to have MaxLinear integrating and releasing their Open Service Platform as an additional next-gen solution to prplOS.”
+
+ 
+
+“MaxLinear is dedicated to partnering with our customers to revolutionize how people connect through engineering innovation,” said Will Torgerson, vice president and general manager, Broadband group for MaxLinear. “The challenge for the telecommunications industry is bringing that innovation to market quickly. Working with the prpl Foundation on this powerful open-source hardware development platform gives developers and operators the tools they need to easily develop and test multiple services.”
+
+ 
+
+
+
+ 
+
+The AnyWAN™ Open Service Platform is a Hardware Design Kit (HDK) that comprises a ready-made broadband gateway for both ethernet gateways as well as XGS-PON fiber home gateway units (HGU). The hardware includes:
+
+XGS-PON
+10G Ethernet WAN and LAN
+2.5G Ethernet
+Triple Band Wi-Fi 6E
+USB 3.2 Gen2 Type-C
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-teams-with-prpl.jpg?ext=.jpg
+    Filename: MaxLinear-teams-with-prpl.jpg
+    Filepath: images\MaxLinear-teams-with-prpl.jpg
+    Size: 115568 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-teams-with-prpl.jpg?ext=.jpg
+    Filename: MaxLinear-teams-with-prpl.jpg
+    Filepath: images\MaxLinear-teams-with-prpl.jpg
+    Size: 115568 bytes

@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+six
+weaviate-client
+python-dotenv
+cachetools

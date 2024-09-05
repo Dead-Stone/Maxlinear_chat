@@ -1,0 +1,23 @@
+Title: MaxLinear and Jabil Announce Silicon Photonics-Based Pluggable 800G Optical Module Production Availability
+Date: 2024-03-25
+URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-and-jabil-announce-silicon-photonics-based-pluggable-800g-optical-module-production-availa
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- MaxLinear, a leading provider of high-speed interconnect ICs enabling data center, metro, and wireless transport networks, and Jabil, a global leader in design, manufacturing, and supply chain solutions, today announced the production availability of a family of 800G silicon photonics-based optical transceiver modules aimed at enabling the AI/ML revolution. The state-of-the-art modules leverage Jabil’s recently-announced collaboration with Intel and their highly reliable silicon photonics solutions. Jabil (Booth 1731), Intel (Booth 1501) and MaxLinear (Booth 4501) will all be exhibiting at the Optical Fiber Communication (OFC) Conference in San Diego from March 26-28, 2024.
+
+A groundbreaking advancement in optical interconnect technology, the new 800G optical interconnect leverages Intel's cutting-edge silicon photonics platform, renowned for its manufacturing efficiency and high reliability. Combined with Jabil's world-class manufacturing capabilities, the interconnect promises unparalleled performance and scalability. At its core lies MaxLinear's state-of-the-art 5nm 800G PAM4 DSP, pushing the boundaries of data transmission with its advanced signal processing capabilities. Together, these industry leaders have crafted a solution that not only meets the demands of today's data-intensive applications but also paves the way for future innovations in high-speed connectivity. With its seamless integration of innovative technologies, the new 800G optical interconnect sets a new standard for speed, efficiency, and reliability in data transmission.
+“Our collaboration with Jabil brings a completely unique supply chain to the exploding AI/ML ecosystem,” said Drew Guckenberger, VP of High Speed Interconnect at MaxLinear. “The unique supply chains and geodiversity that Jabil and Intel bring are incredibly important for successfully scaling up networks in an accelerating demand environment like we are currently in.”
+Jabil’s corporate scale, wide supply chain engagement, extensive manufacturing footprint and strong manufacturing expertise make them an ideal partner in the exploding AI/ML ecosystem. Based on the high-volume, high-reliability platform from Intel and MaxLinear, Jabil will supply 800G-DR8, 2x400G-FR4 and 2x400G-LR4 optical modules to the market.
+“Jabil is excited to enter the optical module space as a direct supplier to many of our existing customers,” said Matt Crowley, SVP of Cloud and Enterprise Infrastructure at Jabil. “We are committed to this space long-term and to providing our customers with a unique value proposition they just cannot get anywhere else.”
+Intel’s volume-proven silicon photonics platform leverages Intel’s high-volume silicon manufacturing technologies, and includes on-chip laser sources fabricated, tested, and burned-in at wafer-scale to provide unsurpassed reliability at component level, as well as simplicity and efficiency in module integration.
+“Intel is pleased to collaborate with Maxlinear and Jabil to support the ramp in next-generation optical pluggable modules for cloud networking and AI infrastructure,“ said Amit Nagra, VP/GM of the Silicon Photonics Product Division at Intel. “Our goal is to enable and accelerate widespread adoption of our highly integrated and scalable silicon photonics components to support the exploding demand for bandwidth “
+Jabil (Booth 1731), Intel (Booth 1501) and MaxLinear (Booth 4501) will all be exhibiting at the Optical Fiber Communication (OFC) Conference in San Diego from March 26-28, 2024. Come visit and learn more.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/fec394c1-c359-40ce-97f4-6b64d7646fd3/MaxLinear-Jabil-(1).jpg?width=1280&height=720&ext=.jpg
+    Filename: MaxLinear-Jabil-(1).jpg
+    Filepath: images\MaxLinear-Jabil-(1).jpg
+    Size: 512518 bytes
+  - URL: https://www.maxlinear.com/getmedia/fec394c1-c359-40ce-97f4-6b64d7646fd3/MaxLinear-Jabil-(1).jpg?width=1280&height=720&ext=.jpg
+    Filename: MaxLinear-Jabil-(1).jpg
+    Filepath: images\MaxLinear-Jabil-(1).jpg
+    Size: 512518 bytes

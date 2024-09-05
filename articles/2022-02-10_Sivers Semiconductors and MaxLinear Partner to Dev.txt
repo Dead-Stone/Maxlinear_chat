@@ -1,0 +1,74 @@
+Title: Sivers Semiconductors and MaxLinear Partner to Develop Point-to-Point Radio Solution
+Date: 2022-02-10
+URL: https://www.maxlinear.com/news/press-releases/2022/sivers-semiconductors-and-maxlinear-partner-to-dev
+Content:
+– February 10, 2022 – MaxLinear, Inc. (NASDAQ: MXL), and Sivers Wireless, a subsidiary of Sivers Semiconductor AB, announced today the joint development of a V-Band RF/Modem solution that enables disruptive unlicensed point-to-point microwave radios in the 57-71 GHz band.
+
+
+
+Because of the increased demand for 5G and broadband connectivity, the need for backhauling data traffic from and between base stations and Fixed Wireless Access points has grown. Sivers and MaxLinear have joined forces with a leading microwave radio OEM customer to develop an unlicensed point-to-point radio solution that enables long reach. This project is now in execution mode with initial plans for a reference design and then the first joint product and customer deployments, expected to be on the market in late 2022 or early 2023.
+
+
+
+This solution is ideal for Wireless Internet Service Providers (WISPs) that do not own spectrum, as well as for Mobile Operators that need backhaul from high speed 5G-NR installations. The Sivers V-Band RF and MaxLinear MxL85110 mmWave baseband modem-based radio solution not only transmits at 10Gbps and beyond but is also the lowest cost solution compared to what’s available today.
+
+
+
+According to 
+ 5G mobile subscriptions are expected to grow by 41.2%. And, in 
+ published in 
+, microwave backhaul will account for the majority of global backhaul links from 2027 and small cell backhaul links will increase from 1.6 million links in 2021 to 6.l million in 2027 at a CAGR of 25.8%.
+
+
+
+“Currently, we are jointly working on a first joint customer project and appreciate doing this with a world-leading point-to-point supplier like MaxLinear. We are honored to be working with them and the customer in a project like this. It is proof of our capabilities to be in the front seat of millimeter wave development. This project will result in a disruptive approach to designing 60 GHz point-to-point solutions, enabling WISP and Mobile operators around the world to meet the growing demand for backhaul capacity at a lower cost.” says Anders Storm, Group CEO of Sivers Semiconductors.
+
+
+
+“As wireless networks require more bandwidth to support 5G applications, service providers will need new tools to transport the massive amount of data with minimal latency,” said Brendan Walsh, VP, Wireless Infrastructure, MaxLinear, Inc. “The combination of Sivers and our market-leading technologies finally unlocks an ultra-high bandwidth and high-performance solution in the unlicensed 60GHz band, providing operators with a cost-effective and attractive solution.”
+
+
+
+MaxLinear will be conducting briefings on its next-generation solutions portfolio for millimeter wave devices at MaxLinear’s meeting space at Mobile World Congress, located in Fira Gran Via Hall 2, Stands 2B13MR and 2B17MR from February 28 through March 3, 2022. For an appointment, please contact 
+.
+
+
+
+Sivers Semiconductors will demonstrate its millimeter wave capabilities at Sivers’ stand at Mobile World Congress located at Fira Gran Via Hall 5, Stand 5E2 from February 28 through March 3, 2022. For an appointment, please contact 
+.
+
+ 
+
+ 
+
+
+
+MaxLinear, Inc. (NASDAQ: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+Sivers Semiconductors AB is a leading and internationally recognized technology company that, through its two business areas Wireless and Photonics, supplies chips and integrated modules. Wireless develops RF chips and antennas for advanced 5G systems for data and telecommunications networks. Photonics develops and manufactures semiconductor-based optical products for optical fiber networks, sensors and optical fiber communications (Li-Fi). The company is listed on Nasdaq Stockholm under SIVE. The head office is located in Kista, Sweden. For more information: 
+
+
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear and the MaxLinear MxL85110 mm Wave baseband modem-based radio solution, including but not limited to anticipated demand for 5G and broadband connectivity and the related need for backhauling data traffic between base stations and fixed wireless access points, anticipated demand for microwave transmission equipment, anticipated benefits of the partnership with Sivers Semiconductors, the potential of the joint customer project to result in a disruptive approach to designing 60 GHz point-to-point solutions and to meet growing backhaul demand at a lower cost, potential market opportunities, functionality, and the benefits of use of such products. These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these or existing products will affect our future revenues or financial performance. Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises, such as the Covid-19 pandemic, or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including 
+ All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-Sivers-Reference-Design.jpg?ext=.jpg
+    Filename: Maxlinear-Sivers-Reference-Design.jpg
+    Filepath: images\Maxlinear-Sivers-Reference-Design.jpg
+    Size: 187389 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-Sivers-Reference-Design.jpg?ext=.jpg
+    Filename: Maxlinear-Sivers-Reference-Design.jpg
+    Filepath: images\Maxlinear-Sivers-Reference-Design.jpg
+    Size: 187389 bytes

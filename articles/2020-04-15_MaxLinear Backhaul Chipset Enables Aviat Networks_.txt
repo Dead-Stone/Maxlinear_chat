@@ -1,0 +1,83 @@
+Title: MaxLinear Backhaul Chipset Enables Aviat Networks' New WTM 4800 E-Band & MicroWave Radio Platform with Multiband Capability
+Date: 2020-04-15
+URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-backhaul-chipset-enables-aviat-networks
+Content:
+– April 15, 2020 – MaxLinear, Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications, today announced that Aviat Networks (NASDAQ: AVNW) has selected the MxL1105 CMOS transceiver along with the MxL85652 and MxL85110 modems for its new line of WTM 4800 Multi-Band radios.
+
+ 
+
+The Aviat WTM 4800 is a unique new radio platform for E-Band and Multi-Band 5G transport applications. WTM 4800 Multi-Band is the industry’s simplest Multi-Band solution which significantly lowers total cost of ownership (TCO) compared to alternative Multi-Band solutions that rely on two, three and even four separate boxes. The highly integrated WTM 4800 includes single-channel 80GHz plus a single or dual-channel microwave (6-42GHz) in one self-contained outdoor unit.
+
+ 
+
+The Aviat WTM has been recognized by the Wireless Backhaul Project Group as the first TIP-compliant wireless backhaul multi-band (E-Band + Microwave) solution with open netconf/yang interfaces.
+
+ 
+
+"Multi-Band is a powerful tool for building reliable high capacity wireless links essential to 5G”, stated Shaun McFaul Aviat’s Senior Vice President, Corporate Development. “Multi-Band involves combining E-Band (70-80 GHz) with traditional microwave (6-42 GHz) on a single link to improve capacity typically achieved by microwave alone by up to 20 times at a much lower total cost of ownership.”
+
+ 
+
+“MaxLinear is bringing to market cutting-edge transceiver and modem solutions that solve key challenges faced in wireless backhaul systems supporting 5G service rollouts,” said Brendan Walsh, Vice President of MaxLinear’s Wireless Infrastructure Group.
+
+ 
+
+MaxLinear’s backhaul chipset includes the MxL1105 microwave transceiver, MxL85652 microwave modem, and the MxL85110 millimeter-wave modem. This IC chipset supports microwave and millimeter-wave transmission and is the market leader in terms of integration and performance.
+
+ 
+
+The MxL1105 is a single-chip broadband microwave transceiver that supports all licensed and unlicensed bands from 5GHz to 44GHz, including channel spacing options from 5MHz to 112MHz. With built-in Full Spectrum Capture
+ (FSC
+) technology, the device supports channel aggregation mode which enables a second channel of any channel spacing to be processed within the same IC. The MxL1105 incorporates a full receive, transmit, feedback path, and all synthesizer components on a single chip, and can support code rates up to 4096 QAM. The closed-loop digital pre-distortion provides power amplifier (PA) linearization for a wide variety of PAs.
+
+ 
+
+The MxL85652 is a fifth-generation SoC for broadband wireless transmission systems. The MxL8565x family supports high integration with two modems (e.g., full XPIC in a single chip), embedded programmable DSP for add-on features and differentiation, multiple high-speed AFE for I/Q and IF interface, auxiliary AFE for RF circuitry and board control, packet fragmentation and header compression, synchronous Ethernet, and IEEE 1588 support.
+
+ 
+
+The MxL85110 provides up to 20Gbps Ethernet capacity, ultra-low latency, and adaptive code modulation ranging from BPSK to 1024 QAM. The device can be programmed for flexible bandwidth from 25MHz to 2GHz, with independent asymmetric transmit and receive configuration. It also delivers the highest spectral and payload efficiency for productive utilization of wireless spectrum with no MAC-layer overhead. Additional features include carrier-grade synchronous Ethernet and IEEE 1588v2 synchronization and an integrated management channel.
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+Aviat Networks, Inc. is the leading expert in wireless transport solutions and works to provide dependable products, services and support to its customers. With more than one million systems sold into 170 countries worldwide, communications service providers and private network operators including state/local government, utility, federal government and defense organizations trust Aviat with their critical applications. Coupled with a long history of microwave innovations, Aviat provides a comprehensive suite of localized professional and support services enabling customers to drastically simplify both their networks and their lives. For more than 70 years, the experts at Aviat have delivered high performance products, simplified operations, and the best overall customer experience. Aviat Networks is headquartered in Austin, Texas. For more information, visit 
+ or connect with Aviat Networks on Twitter, Facebook and LinkedIn.
+
+ 
+
+Media Contact: Gary Croke, Aviat Networks, Inc., gary.croke@aviatnet.com
+
+ 
+
+
+
+TIP is a Facebook-backed open-source hardware and software group of over 450 telecom stakeholders, coming together to build a vibrant, collaborative telecom ecosystem: the telecom infrastructure of the future. The Wireless Backhaul Project Group’s goal is to build the next generation of  modular wireless backhaul systems for 3G/4G and upcoming 5G networks.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s MxL1105, MxL85652 and MxL85110, including but not limited to potential market opportunities, functionality, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent the MxL1105, MxL85652 and MxL85110 will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expected,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties identified in our Annual Report on Form 10-K for the year ended December 31, 2019. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/maxLinear-Enables-Aviat-New-WTM.jpg?ext=.jpg
+    Filename: maxLinear-Enables-Aviat-New-WTM.jpg
+    Filepath: images\maxLinear-Enables-Aviat-New-WTM.jpg
+    Size: 274029 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/maxLinear-Enables-Aviat-New-WTM.jpg?ext=.jpg
+    Filename: maxLinear-Enables-Aviat-New-WTM.jpg
+    Filepath: images\maxLinear-Enables-Aviat-New-WTM.jpg
+    Size: 274029 bytes

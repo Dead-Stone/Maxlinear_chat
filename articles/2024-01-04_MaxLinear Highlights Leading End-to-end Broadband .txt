@@ -1,0 +1,28 @@
+Title: MaxLinear Highlights Leading End-to-end Broadband Access and Connectivity Solutions with Low Power, High Throughput CES Demos
+Date: 2024-01-04
+URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-highlights-leading-end-to-end-broadband-access-and-connectivity-solutions-with-low-power
+Content:
+DOCSIS 4.0, XGS-PON, Wi-Fi 7 –
+service providers
+CARLSBAD, Calif.--(BUSINESS WIRE)-- MaxLinear, Inc. (Nasdaq: MXL), a global leader in broadband access and gateway solutions, today announced that it will demonstrate three innovative pieces of its end-to-end access and connectivity solution at CES 2024. The demos will involve: A speed test of its new DOCSIS 4.0 platform, Puma™ 8; a performance test of its new ultra-high split upstream programmable gain amplifier (PGA); and a demonstration of the power efficiency of its Wi-Fi 7 platform. The demos showcase MaxLinear’s technological leadership in developing a complete low power, high performance broadband access and connectivity platform that provides ultimate flexibility for service providers.
+“Service providers can reap significant benefits from these innovative broadband platforms for the latest PON and DOCSIS technologies,” said Will Torgerson, VP/GM Broadband Group. “Our platforms offer the benefits of increased speed, reduced costs, improved performance, and lower power consumption making them highly attractive for service providers seeking to enhance their broadband offerings.”
+ MaxLinear will demonstrate greater than 9Gbps speeds for its Puma 8 platform using ESD/FDD technology and based on 5 x OFDMs channels. This throughput level rivals that of XGS-PON fiber connectivity solutions. The solution showcases complete silicon, hardware, and software functionality and can be cost and power optimized for Ultra DOCSIS 3.1, allowing service providers to upgrade 4.0 at their pace.
+ MaxLinear will showcase the performance of its ultra-high split upstream PGA for its Puma 8 platform. The low-power PGA achieves upstream speeds of up to 7Gbps based on 6 x OFDMA channels in the 108MHz to 684MHz band and 1 x OFDMA channel on the legacy 5MHz to 85MHz band.
+ MaxLinear will demonstrate how its Wi-Fi 7 platform consumes no more than 5.7 watts of power while idling and less than 7.4 to 9 watts in typical usage scenarios, such as video streaming over an XGS-PON fiber link to a Wi-Fi client. At these levels, power consumption is reduced by half of comparable products on the market. The reference platform used in this demonstration features the AnyWAN URX851 – MaxLinear’s universal, ultra-scalable broadband SoC - and the MxL31712 Wi-Fi 7 radio, which integrates the tri-band 4+4+4 MAC plus RF in a single chip.
+Puma 8 and Wi-Fi 7 SoCs are part of MaxLinear’s optimized home broadband access and connectivity ecosystem that offers highly integrated single-chip gateway and router solutions. The chipsets are discrete components that are each optimized for performance, and further cost- and performance-optimized when grouped as a platform solution.
+: This revolutionary technology breaks down the dependency on a single access technology, enabling service providers to offer multi-gigabit services through a seamless aggregation of various access mediums like fiber, coax, and cellular. This ensures the best possible user experience regardless of the underlying infrastructure limitations.
+: Building off the previous Puma SoCs, this cutting-edge platform delivers the next generation of cable technology, supporting speeds exceeding 10 Gbps downstream and 6 Gbps upstream, with our new ultra-high split upstream PGA. The PGA's ultra-high split upstream capability is pivotal for optimizing network performance as it enables a more efficient allocation of upstream frequency spectrum, facilitating increased upstream data capacity. This results in improved network responsiveness, reduced latency, and enhanced overall user experiences.
+: MaxLinear leads the way in Wi-Fi 7 technology with its single-chip SoC, boasting unparalleled performance and efficiency. This solution delivers multi-gigabit speeds, lower latency, and increased reliability, enabling a new era of wireless connectivity for demanding applications like the metaverse, home security, and remote monitoring.
+: MaxLinear's MoCA and G.hn solutions offer robust in-home networking, extending gigabit speeds throughout the entire premises. MoCA leverages existing coax cabling, while G.hn utilizes existing phone lines, eliminating the need for additional wiring and offering a seamless solution for multi-story buildings or areas with limited Wi-Fi coverage.
+: MaxLinear’s high-performance Ethernet solutions provide the backbone for reliable and scalable wired connectivity within the home and data centers. The company’s extensive portfolio includes Gigabit Ethernet, 2.5 Gigabit Ethernet, 10 Gigabit Ethernet, and emerging technologies like 25 Gigabit Ethernet and 100 Gigabit Ethernet, ensuring seamless data transfer across various applications.
+The MaxLinear demos will be shown from January 9-12 at CES 2024 in Las Vegas.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/1de707ec-aeee-456f-92be-bd21d393dd27/Linkedin-PR-CES2024-Demo.jpg?width=800&height=456&ext=.jpg
+    Filename: Linkedin-PR-CES2024-Demo.jpg
+    Filepath: images\Linkedin-PR-CES2024-Demo.jpg
+    Size: 78751 bytes
+  - URL: https://www.maxlinear.com/getmedia/1de707ec-aeee-456f-92be-bd21d393dd27/Linkedin-PR-CES2024-Demo.jpg?width=800&height=456&ext=.jpg
+    Filename: Linkedin-PR-CES2024-Demo.jpg
+    Filepath: images\Linkedin-PR-CES2024-Demo.jpg
+    Size: 78751 bytes

@@ -1,0 +1,69 @@
+Title: DustPhotonics and MaxLinear Announce New Level of Silicon Photonics Integrated Solution Based on Keystone 5nm DSP
+Date: 2022-08-10
+URL: https://www.maxlinear.com/news/press-releases/2022/dustphotonics-and-maxlinear-announce-new-level-of
+Content:
+August 10, 2022 – Modiin, Israel and Carlsbad, CA - Today, 
+, a leading developer of silicon photonics technology and solutions and 
+, a leading semiconductor company for communication applications, announced that they have partnered to demonstrate a silicon photonics chipset with integrated lasers directly driven from a DSP without the use of any external driver chip, providing exceptional total system performance.
+
+ 
+
+The MaxLinear Keystone DSP (Digital Signal Processor) and DustPhotonics Carmel Silicon Photonics chip were shown together to support direct-drive operation, which reduces the overall cost and power dissipation of optical transceivers for data communication. This combined solution is ideal for applications such as 400Gb/s and 800Gb/s pluggable modules and on-board optics. 
+
+ 
+
+The DustPhotonics chip includes an integrated DFB (Distributed-feedback) laser and DustPhotonics revolutionary Low Loss Laser Coupling technology (L3C), achieving a very efficient coupling of light into the Photonic Integrated Circuit (PIC). This unique technology enables the use of 1 laser for every 4 channels.
+
+ 
+
+The MaxLinear Keystone chip is part of a family of DSPs capable of both 400Gb/s and 800Gb/s operation, based on TSMC’s 5nm process.  The Keystone DSP provides a rich set of features for transceivers, CPO (Co-Packaged Optics) modules and on-board optics while achieving significantly lower power than competitive solutions. The integrated drivers are optimized for silicon photonics direct-drive and provide the best industry performance for this application. 
+
+ 
+
+The combined solution enables performance that significantly exceeds all IEEE specifications. In terms of power consumption, 400Gb/s transceivers can now be designed to reach sub 7W.
+
+ 
+
+“DustPhotonics is focused on enabling best-in-class Silicon Photonics chips to simplify the efforts of transceiver and systems designers,” said Yoel Chetrit, Vice President R&D of DustPhotonics.  “Not only can our Carmel chip simplify the overall system design by reducing the total number of lasers to a single laser for 4 channels, but it also eliminates the external driver, which reduces the cost, power and complexity of the overall system.”
+
+ 
+
+“The combination of our Keystone 5nm integrated driver DSPs with DustPhotonics’ silicon photonics demonstrates the significant power and performance advantages achievable with our integrated drivers,” said Drew Guckenberger, Vice President of Optical Interconnect at MaxLinear. “With double-digit year-on-year growth in market demand for 400Gb/s and 800Gb/s transceivers, this integrated solution can create tremendous value for our customers. We look forward to seeing full transceiver deployments in the near future.”
+
+ 
+
+
+
+DustPhotonics develops silicon photonics chips (PICs) and technology for optical communications.
+
+Our PIC product powers 400Gb/s and 800Gb/s transceiver solutions, and our unique Low Loss Laser Coupling (L3C) Technology offers improvements in performance, power consumption and cost.
+
+All products and technologies utilize standard components, processes and manufacturing to enable the quality and scale required for high volume manufacturing. Please visit 
+ for more information.
+
+
+
+
+
+MaxLinear, Inc. (NASDAQ: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s partnership with DustPhotonics and MaxLinear’s Keystone Digital Signal Processor products, including but not limited to, with respect to partnership with anticipated growth in the potential market opportunities, functionality, performance, integration, and the benefits of use of such products. These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new and existing products will affect our future revenues or financial performance. Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expected,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises, such as the Covid-19 pandemic, geopolitical conflicts, such as the military conflict in Ukraine and related sanctions against Russia and Belarus, or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as applicable. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Dustphotonics-400G-800G-Trans.jpg?ext=.jpg
+    Filename: MaxLinear-Dustphotonics-400G-800G-Trans.jpg
+    Filepath: images\MaxLinear-Dustphotonics-400G-800G-Trans.jpg
+    Size: 150882 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Dustphotonics-400G-800G-Trans.jpg?ext=.jpg
+    Filename: MaxLinear-Dustphotonics-400G-800G-Trans.jpg
+    Filepath: images\MaxLinear-Dustphotonics-400G-800G-Trans.jpg
+    Size: 150882 bytes

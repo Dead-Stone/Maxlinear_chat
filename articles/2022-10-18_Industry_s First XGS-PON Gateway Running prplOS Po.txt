@@ -1,0 +1,37 @@
+Title: Industry’s First XGS-PON Gateway Running prplOS Powered By MaxLinear’s AnyWAN™ SoC
+Date: 2022-10-18
+URL: https://www.maxlinear.com/news/press-releases/2022/industry%E2%80%99s-first-xgs-pon-gateway-running-prplos-po
+Content:
+– October 18, 2022 – MaxLinear, Inc. (NASDAQ: MXL) today announced the industry’s first XGS-PON home gateway unit (HGU) running prplOS. Using the URX851 SoC from MaxLinear’s AnyWAN™ family that integrates the company’s proven XGS-PON solution, the novel HGU is set to usher in a new era of interoperabililty for a wide array of access and gateway products based around prplOS middleware.
+
+ 
+
+“With MaxLinear’s XGS-PON solution fully integrated into prplOS, home broadband product developers now have an easier path to market,” said Doron Tal, VP Broadband Access for MaxLinear. “The prpl operating system combined with our powerful AnyWAN™ SoCs - which support any WAN and any LAN - allows device designers to focus on feature, function, and cost innovations rather than compatibility and system integration issues.”
+
+ 
+
+prplOS is an open-source solution managed by the prpl Foundation, which seeks to drive scalability in the connectivity industry that is dogged by fragmentation and limited interoperability. prplOS enables product developers to create unique services and hardware platforms that operate on standardized middleware, ensuring seamless compatibility.
+
+ 
+
+“The prpl Foundation is very excited to partner with MaxLinear to bring a full-scale gateway solution that will help expand the fiber connectivity universe,” said Leonard Dauphinee, president of the prpl Foundation. “We are dedicated to partnerships and solutions that open up our industry to ever-increasing rates of innovation, creativity, and collaboration, all with the goal of benefitting every member of the supply chain, and ultimately the consumer.”   
+
+ 
+
+The MaxLinear AnyWAN
+ SoCs - MxL25641, URX850, and URX851 - deliver unprecedented integration to enable power- and cost-efficient high-performance home connectivity products. The universal broadband SoCs support all high-speed data access and in-home connectivity technologies, including Fiber-to-the-Home, Fixed Wireless Access, DOCSIS and Ethernet Broadband Access. While the main use case is telco service provider and cable MSO gateways with dual-band and tri-band Wi-Fi 6E or Wi-Fi 7 configurations, the SoCs can be used in applications such as SMB gateways, NAS storage devices, distribution point units, and cellular small cells. The SoCs:
+
+Ensure faster time to market and reduces R&D costs
+Enable wirespeed Wi-Fi 7 throughput
+Scale power consumption to performance needs via adaptive power management
+Allow differentiated services due to quad-core CPUs
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/First-XGS-PON-Gateway.jpg?ext=.jpg
+    Filename: First-XGS-PON-Gateway.jpg
+    Filepath: images\First-XGS-PON-Gateway.jpg
+    Size: 116444 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/First-XGS-PON-Gateway.jpg?ext=.jpg
+    Filename: First-XGS-PON-Gateway.jpg
+    Filepath: images\First-XGS-PON-Gateway.jpg
+    Size: 116444 bytes

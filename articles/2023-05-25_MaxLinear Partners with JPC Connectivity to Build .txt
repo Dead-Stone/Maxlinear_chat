@@ -1,0 +1,27 @@
+Title: MaxLinear Partners with JPC Connectivity to Build Active Electrical Cables Using Keystone PAM4 DSP
+Date: 2023-05-25
+URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-partners-with-jpc-connectivity-to-build
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- MaxLinear, Inc. (Nasdaq: MXL), a leader in connectivity solutions for hyperscale datacenters, today announced a partnership with JPC Connectivity to produce active electrical cables using MaxLinear’s 5nm Keystone PAM4 DSP. The chip-embedded cables are a key component in ensuring maximum data transfer speeds in hyperscale datacenters. JPC Connectivity will demonstrate the new cables at Computex 2023 in Taipei, Taiwan from May 30 – June 2.
+JPC Connectivity’s new 800G active electrical cables will be powered by MaxLinear’s 5nm PAM4 DSPs, which leverage the advantages of 5nm CMOS technology to address the critical needs for low power, highly integrated, high performance interconnect solutions in next generation hyperscale cloud networks. Used in active electrical cables, MaxLinear’s Keystone can yield up to a 40% power saving over competitor solutions.
+“We’re excited to partner with JPC Connectivity on these new active optical cables,” said Drew Guckenberger, Vice President of High Speed Interconnect at MaxLinear. “Our Keystone DSPs offer a significant power advantage in this type of application, which is increasingly becoming a critical factor with hyperscale data centers.”
+One of the fastest-growing technologies in the IT infrastructure space, hyperscale datacenters offer computing, networking, and storage solutions to the enterprise market. The global hyperscale datacenter market was valued at $59.0 billion in 2020, and is projected to reach $585.0 billion by 2030, growing at a CAGR of 25.9% from 2021 to 2030, according to Allied Market Research. Sitting at the heart of the performance of these datacenters are active electrical cables, connecting individual servers together to form blocks and transferring huge amounts of data. The cable market mirrors the growth of data centers. The high-speed electrical market - which includes active optical cables, direct attach copper cables, fiber optics cables, and others – is expected to grow to $17.1B by 2028, up from $10.7B in 2021 according to a market forecast report from The Insight Partners.
+“Our new 800G cables using the low power, high performance Keystone DSP is designed to meet the market’s need for next-gen interconnect solutions as datacenters transition from passive DAC cables,” said Jessica Chang CEO at JPC Connectivity. “We are happy to have MaxLinear as a partner for this innovative new product.”
+The Keystone 5nm DSP family has been designed to address both 400G and 800G applications and is the first generation to provide 106.25Gbps host side electrical I/O to match the line side 106.25Gbps interface rate. Variants supporting single mode optics (EML and SiPh), multimode optics (VCSEL transceivers and AOCs), and Active Electrical Cables (AECs) are all available and can be paired with companion TIAs to provide complete solutions.
+The Keystone family’s host side interfaces support 25.78125/25.5625/53.125/106.25Gbps signaling per lane over C2M, MR and LR host channels. The line side interfaces also support the same rates and are targeted for 100G/λ DR, FR, and LR applications. All devices provide extensive DSP functionality, including line-side transmitter digital pre-distortion (DPD), transmit pre-emphasis (TX FIR), receiver feed forward equalization (FFE) and decision feedback equalization (DFE).
+These DSPs offer exceptional performance and signal integrity in a compact (12mm x 13mm) footprint suitable for next generation optical module form-factors such as QSFP-DD800 and OSFP800 and are also offered as Known Good Die (KGD) for higher density applications, such as OSFP-XD.
+JPC Connectivity will demonstrate the new cables at Computex 2023 in Taipei, Taiwan from May 30 – June 2. The cables are expected be available in Q4 2023.
+MaxLinear, Inc. (Nasdaq: MXL) is a leading provider of radio frequency (RF), analog, digital, and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+JPC Connectivity was established since 1992 and specializes in Integrated design and production services for electronic components. Applications include 5G Telecom, servers, new energy vehicles, aircraft, smart connection industry, high performance computing products, and Internet of things (loT).
+JPC Connectivity is headquartered in Taipei with offices in Japan, the US, China, Vietnam, and Thailand.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/JPC-Active-Electrical_Blog-IMG.jpg?ext=.jpg
+    Filename: JPC-Active-Electrical_Blog-IMG.jpg
+    Filepath: images\JPC-Active-Electrical_Blog-IMG.jpg
+    Size: 152756 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/JPC-Active-Electrical_Blog-IMG.jpg?ext=.jpg
+    Filename: JPC-Active-Electrical_Blog-IMG.jpg
+    Filepath: images\JPC-Active-Electrical_Blog-IMG.jpg
+    Size: 152756 bytes

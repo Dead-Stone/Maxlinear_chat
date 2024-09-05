@@ -1,0 +1,27 @@
+Title: MaxLinear Expands Its Ethernet Family with 2.5G 7 & 10 Port Switches as Well as 2.5G Octal-port Ethernet PHYs
+Date: 2024-05-21
+URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-expands-its-ethernet-family-with-2-5g-7-10-port-switches-as-well-as-2-5g-octal-port-ethe
+Content:
+MxL86282 s
+CARLSBAD, Calif.--(BUSINESS WIRE)-- MaxLinear, Inc. (Nasdaq: MXL), a leader in consumer and industrial Ethernet solutions, today announced the launch of a new family of 2.5G Ethernet switches and PHYs. Launching today will be both 7-and 10-port switches and 8-port PHYs, with variants for consumer and industrial applications. The single-chip solutions offer a large packet buffer, low power consumption, and the broadest feature set available on the market today. The new family further enriches MaxLinear’s already robust Ethernet product line, which includes 10/100, 1G, and 2.5G bridges, PHYs and switches.
+“As the need for higher data rates and increased bandwidth intensifies, 2.5G technology emerges as a crucial solution, providing a balance between performance and cost-effectiveness,” said Vikas Choudhary, VP & GM of Ethernet/Storage Accelerators at MaxLinear. “Our new single-chip 2.5G Ethernet switches and PHYs are built on MaxLinear’s legacy of industry-leading power efficiency, a robust feature-set, and unmatched functional integration. Our solution allows equipment manufacturers maximum versatility, yielding smaller, more versatile design that use less energy while providing superior performance.”
+Increased digital data traffic across existing Ethernet networks, fast-rising bandwidth demand, a growing data center industry, and increased cloud storage used by Internet of Things (IoT), machine learning, and Artificial Intelligence (AI) industries are driving the need for more efficient, flexible, and powerful Ethernet solutions. Adding to this pressure of escalating data demands is a more recent focus on energy efficiency, compact designs, versatility in deployments, and compliance with environmental standards for both industrial and consumer Ethernet applications. MaxLinear’s 2.5G Ethernet solutions address this challenge by offering a significant boost in data rates without the complexity and cost associated with migrating to cost-prohibitive 10G networks.
+MaxLinear’s new family of 2.5G switches and PHYs meets a critical need in the industry offering a compact single-chip solution, the industry’s lowest power consumption and wire-speed switching as well as a feature-rich design encompassing IGMPv3, MLPv1,2, LACP, PTP, SyncE, and MACsec.
+This innovative product line introduces a range of key features designed to enhance networking capabilities. At its core are single-chip 2.5G switch solutions seamlessly integrated with PHYs, offering a streamlined and efficient solution for various networking scenarios. Noteworthy options include the availability of 10G SERDES uplink ports, providing additional flexibility for network configurations.
+On the PHY front, the product showcases eight 2.5GBASE-T PHYs characterized by remarkably low power consumption, operating at just 600mW per port and a total of 4.8W for all eight PHYs. The product's energy efficiency is further emphasized by its ability to operate at 3.6W for 5 PHYs, demonstrating its commitment to sustainable and cost-effective networking solutions. Versatility is a defining feature, with support for unmanaged, web-smart, cloud-managed, and industrial switches, ensuring adaptability to a diverse range of networking needs.
+"We are excited about MaxLinear's innovative 2.5G Ethernet solutions, which provide the high data rates we require while maintaining cost-effectiveness and energy efficiency,” said Andy Yang, GM of switch BU of Tenda. “The inclusion of advanced features like IGMPv3, LACP, HTTPS, ACL, and LLDP in a single-chip design simplifies our network deployments and enhances overall functionality."
+"MaxLinear's new 2.5G Ethernet switches and PHYs offer a feature-rich and compact solution that aligns perfectly with our need for efficient and versatile networking equipment,” said Jack Hung, ODM GM of Edimax. “The industry-leading low power consumption combined with a robust feature set enables us to design smaller, energy-efficient devices without compromising on performance."
+MaxLinear, Inc. (Nasdaq: MXL) is a leading provider of radio frequency (RF), analog, digital, and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+MaxLinear, the MaxLinear logo, any other MaxLinear trademarks are all property of MaxLinear, Inc. or one of MaxLinear's subsidiaries in the U.S.A. and other countries. All rights reserved.
+All third-party marks and logos are trademarks or registered trademarks of their respective holders/owners.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/b08cdc80-a7cf-4dd7-ab56-91fddfcbb238/Swancreek_PR-Linkedin-1-(1).jpg?width=1280&height=720&ext=.jpg
+    Filename: Swancreek_PR-Linkedin-1-(1).jpg
+    Filepath: images\Swancreek_PR-Linkedin-1-(1).jpg
+    Size: 477364 bytes
+  - URL: https://www.maxlinear.com/getmedia/b08cdc80-a7cf-4dd7-ab56-91fddfcbb238/Swancreek_PR-Linkedin-1-(1).jpg?width=1280&height=720&ext=.jpg
+    Filename: Swancreek_PR-Linkedin-1-(1).jpg
+    Filepath: images\Swancreek_PR-Linkedin-1-(1).jpg
+    Size: 477364 bytes

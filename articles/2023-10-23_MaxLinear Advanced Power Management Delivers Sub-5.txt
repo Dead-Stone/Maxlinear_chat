@@ -1,0 +1,36 @@
+Title: MaxLinear Advanced Power Management Delivers Sub-5-Watt for Wi-Fi 7 XGS-PON Home Routers and Gateway Platforms
+Date: 2023-10-23
+URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-advanced-power-management-delivers-sub-5-watt-for-wi-fi-7-xgs-pon-home-routers-and-gateway
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- MaxLinear, Inc. (Nasdaq: MXL), a leader in home connectivity solutions, today announced that it has achieved substantial improvements for idle and active power modes using its Wi-Fi 7 XGS-PON reference platform, setting the stage for more environmentally sustainable home networking using sub-5-watt home routers and gateways. Empowering network operators to be able to meet a 55% CO
+ reduction goals by 2030, MaxLinear has optimized power consumption for numerous use cases for high-performance home gateway units (HGU). MaxLinear will demonstrate the power savings at Network X in Paris October 24-26 at booth B1 using MaxLinear’s W-Fi 7, tri-band 4+4+4, XGS-PON home gateway platform.
+At its demonstration at Network X, MaxLinear will show how its Wi-Fi 7 platform consumes no more than 5.7 watts of power while idling and less than 7.4 to 9 watts in typical usage scenarios, such as video streaming over an XGS-PON fiber link to a Wi-Fi client. At these levels, power consumption is reduced by half of comparable products on the market. The reference platform used in this demonstration features the AnyWAN URX851 – MaxLinear’s universal, ultra-scalable broadband SoC - and the MXL31712 Wi-Fi 7 radio, which integrates the tri-band 4+4+4 MAC plus RF in a single chip.
+“Power efficiency need not translate to lower SoC performance,” said Will Torgerson, VP/GM Broadband Group at MaxLinear. “Being able to offer high-performance technology with advanced power management is one of the most critical design factors for the new generation of home gateways. With the demonstrated power management on the MaxLinear Wi-Fi 7 reference platforms, we are paving the way for commercial sub-5 watt tri-band Wi-Fi 7 home gateways – taking energy efficiency to a new level to help our customers become carbon neutral.”
+The growth in power hungry, always-on HGUs has prompted many operators to find ways to increase energy efficiency of their products. Many service providers are targeting a 55% CO
+ reduction by 2030 and 100% carbon neutrality by or before 2050. To achieve these greenhouse gas (GHG) emission targets, many companies are optimizing their operations, sourcing greener products, and reducing energy use of “always on” equipment in consumer homes.
+“With global fixed broadband subscribers projected to grow from 1.21 billion in 2023 to 1.34 billion by 2028, even small improvements in the energy efficiency of Wi-Fi CPE could deliver significant reductions in global greenhouse gas emissions,” said Andrew Spivey, Senior Analyst, ABI Research. “The number of Wi-Fi CPE shipped annually is also expected to rise, with a forecasted increase from 273.1 million in 2023 to 397.4 million by 2028. Wi-Fi 7 CPE is also expected to see an exponential jump from 11 million in 2024 to 258.9 million in 2028. Clearly, with the number of Wi-Fi CPE shipped to consumers expected to grow, reducing their energy consumption is becoming more important than ever. And with sustainability now at the top of everyone’s mind, this could prove to be a key differentiator for Wi-Fi CPE of the future.”
+The MaxLinear Wi-Fi 7 platforms feature numerous power domains for dynamic voltage and clock scaling adapting to the current performance needs. System-wide power scaling, such as advanced Wi-Fi performance scaling and band steering, is software configurable easily through standard (Linux) APIs.
+MaxLinear's Wi-Fi 7 SoCs offer a world’s-first single chip solution that helps to reduce board complexity, size, and BOM cost. Further, the single chip affords a seamless, coordinated view of multiple bands for an optimal Multi-Link Operations experience. With multi-gigabit speeds, low latency, and support for a massive number of connected devices, MaxLinear’s Wi-Fi 7 SoCs are poised to revolutionize wireless communication, enabling next-generation applications such as augmented reality and ultra-high-definition streaming. MaxLinear's commitment to innovation ensures that these SoCs will play a pivotal role in shaping the future of wireless connectivity.
+For more information on the MaxLinear total Wi-Fi 7 solution, visit our 
+. To learn more about our CSR and ESG focus, 
+.
+The MaxLinear AnyWAN
+ SoCs - MxL25641, URX850, and URX851 - deliver high levels of integration to enable power- and cost-efficient high-performance home connectivity products. The universal broadband SoCs support all high-speed data access and in-home connectivity technologies, including Fiber-to-the-Home, Fixed Wireless Access, DOCSIS and Ethernet Broadband Access. While the main use case is telco service provider and cable MSO gateways with dual-band and tri-band Wi-Fi 6E or Wi-Fi 7 configurations, the SoCs can be used in applications such as SMB gateways, NAS storage devices, distribution point units, and cellular small cells.
+The SoCs:
+Ensure faster time to market and reduces R&D costs
+Enable wirespeed Wi-Fi 7 throughput
+Scale power consumption to performance needs via adaptive power management
+Allow differentiated services due to quad-core CPUs
+MaxLinear, Inc. (Nasdaq: MXL) is a leading provider of radio frequency (RF), analog, digital, and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+MaxLinear, the MaxLinear logo, any other MaxLinear trademarks are all property of MaxLinear, Inc. or one of MaxLinear's subsidiaries in the U.S.A. and other countries. All rights reserved. All third-party marks and logos are trademarks or registered trademarks of their respective holders/owners.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/f6bc7196-03ac-4637-96a9-704fee81aca5/Wi-Fi-7-Power-Efficiency-Blog-Image.jpg?width=800&height=456&ext=.jpg
+    Filename: Wi-Fi-7-Power-Efficiency-Blog-Image.jpg
+    Filepath: images\Wi-Fi-7-Power-Efficiency-Blog-Image.jpg
+    Size: 171278 bytes
+  - URL: https://www.maxlinear.com/getmedia/f6bc7196-03ac-4637-96a9-704fee81aca5/Wi-Fi-7-Power-Efficiency-Blog-Image.jpg?width=800&height=456&ext=.jpg
+    Filename: Wi-Fi-7-Power-Efficiency-Blog-Image.jpg
+    Filepath: images\Wi-Fi-7-Power-Efficiency-Blog-Image.jpg
+    Size: 171278 bytes

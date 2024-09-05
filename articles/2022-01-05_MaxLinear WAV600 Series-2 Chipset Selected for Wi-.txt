@@ -1,0 +1,49 @@
+Title: MaxLinear WAV600 Series-2 Chipset Selected for Wi-Fi Alliance Wi-Fi 6 Release 2 Certification Test Bed
+Date: 2022-01-05
+URL: https://www.maxlinear.com/news/press-releases/2022/centec-partners-with-maxlinear-for-next-generation
+Content:
+– January 5, 2021 – MaxLinear Inc. (NYSE: MXL) today announced their WAV600 Series-2 Chipset SoCs have been selected as access point test bed devices for the Wi-Fi Alliance® Wi-Fi CERTIFIED 6™ Release 2 certification. The test bed uses a MaxLinear WAV615 and two MaxLinear WAV665 Wi-Fi Transceiver SoCs to enable tri-band interoperability testing at 2.4GHz, 5GHz, and 6GHz.  
+
+ 
+
+This chipset delivers on the major features across three bands of the IEEE 802.11ax release 2 standard which further increases the reach, network capacity per user, and battery life of connected client devices. Designed to bring both fast and consistent connectivity in home Wi-Fi routers, gateways, and intelligent range extenders for cable, xDSL, fiber, and consumer retail infrastructure, this solution delivers improvements that benefit residential users.
+
+ 
+
+In today’s related 
+, recent research from IDC Research states that nearly two billion Wi-Fi 6 devices will enter the market just in 2022.
+
+ 
+
+“New disruptive, untethered real-time immersive experiences such as multi-gigabit video, gaming and the demand for low-latency services are driving market demand,” said Doron Tal, vice president, Broadband Access. “MaxLinear continues to lead by engineering chipsets that are easily incorporated into the design for broadband access products and have the features required to enable the full potential of Wi-Fi 6.”  
+
+ 
+
+“With 
+ by 2025 and billions of devices shipped each year, Wi-Fi is one of the greatest success stories of the technology era,” said Kevin Robinson, Senior Vice President of Marketing, Wi-Fi Alliance. “Users depend on Wi-Fi more than ever for streaming services, video conferencing, and online gaming, and as a result there is a significant increase in both downlink and uplink data traffic on Wi-Fi networks. Wi-Fi Alliance is evolving Wi-Fi 6 certification to meet the needs of advanced applications and power management enhancements as well as expanded multi-user MIMO capabilities in Wi-Fi CERTIFIED 6 Release 2 that will help further Wi-Fi’s legacy of success, interoperability, and security.”
+
+ 
+
+The MaxLinear WAV600 Series-2 Chipset empowers next generation broadband platforms to serve this growing market.
+
+ 
+
+ which allows enhanced network access in the presence of narrow-band interferers
+ which reduces management and signaling overhead when supporting multiple networks (BSS)
+
+	 
+
+	The WAV600 Series-2 supports new low power and sleep mode enhancements, including the new Wi-Fi Certified 6 Release 2 feature Target Wake Time (TWT), Broadcast Target Wake Time and Extended Sleep Time which allows for more optimized sleep/wake schedules for power-critical devices.
+WAV615 – up to 1.14Gbps PHY Throughput, 2.4GHz
+WAV665 - up to 4.8Gbps PHY Throughput, 5-7GHz
+WAV655 - up to 3Gbps PHY Throughput, 2.4GHz + 5GHz (Concurrent Dual Band)
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-WI-Fi6-Cert.jpg?ext=.jpg
+    Filename: Maxlinear-WI-Fi6-Cert.jpg
+    Filepath: images\Maxlinear-WI-Fi6-Cert.jpg
+    Size: 178591 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-WI-Fi6-Cert.jpg?ext=.jpg
+    Filename: Maxlinear-WI-Fi6-Cert.jpg
+    Filepath: images\Maxlinear-WI-Fi6-Cert.jpg
+    Size: 178591 bytes

@@ -1,0 +1,24 @@
+Title: MaxLinear announces 5nm CMOS PAM4 DSP with integrated VCSEL drivers for 800G and 400G Multimode short-reach optical modules and Active Optical Cables (AOC)
+Date: 2023-09-28
+URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-announces-5nm-cmos-pam4-dsp-with-integrated-vcsel-drivers-for-800g-and-400g-multimode-shor
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- 
+ (Nasdaq: MXL), a leading provider of high-speed interconnect ICs enabling data center, metro, and wireless transport networks, today announced a new member of its Keystone 5nm PAM4 DSP family (KeystoneMM – MxL93684). The announced KeystoneMM variant monolithically integrates VCSEL drivers with the DSP supporting best-in-class power consumption, high-performance, and reduced cost for AOCs and multimode links. KeystoneMM is available to sample to key customers and will be released to full production in Q1 2024.
+Multimode fiber is a type of low-cost optical fiber used for active optical cables or connecting short-reach optical modules in data centers, AI and Machine Learning platforms, and high-performance computing applications. Multimode Fiber is extensively deployed in short reach applications such as fiber-optic cable infrastructure in data centers and other large networks– for example, between individual servers, within racks, or within rows. Multimode optical links prove to be the more economical option compared to single-mode optical solutions for short reach applications. These shorter reach links dominate the interconnect volume for most AI/ML deployments.
+According to Straits Research, the active optical cable market was valued at $2.3 billion
+in 2021 and is anticipated to generate $19 billion by 2030, with market growth at a CAGR of 28% over this period. Applications include data center, high-performance computing, personal computing, digital signage, consumer electronics, and others. The data center segment held the largest market share, with an anticipated value of $9.4 billion by 2030.
+“With the explosion in deployments of AI clusters, the demand for multimode transceivers and AOCs continues to accelerate for 100G/lane 400G and 800G interconnects. These applications needed integrated, low-power, high-performance, cost-effective solutions to support the massive scale of these networks,” said Drew Guckenberger, Vice President of High Speed Interconnect at MaxLinear. “Our 5nm Keystone PAM4 DSP with integrated VCSEL drivers addresses the demands of this key market, enabling best-in-class power consumption of <10W for 800G short reach optical transceivers and AOCs.”
+MaxLinear will be exhibiting at the European Conference on Optical Fiber Communication (ECOC) in Glasgow, Scotland October 2-4. Please visit us in booth 776 for more information.
+The Keystone 5nm DSP family has been designed to address both 400G and 800G applications and is the first generation to provide 106.25Gbps host side electrical I/O to match the line side 106.25Gbps interface rate. Variants supporting single mode optics (EML and SiPh), multimode optics (VCSEL transceivers and AOCs), and Active Electrical Cables (AECs) are all available and can be paired with companion TIAs to provide complete solutions.
+The Keystone family’s host side interfaces support 25G, 50G, and 100G per lane ethernet rates over C2M, MR and LR host channels. The line side interfaces also support the same rates and are targeted for 100G/λ DR, FR, and LR applications. All devices provide extensive DSP functionality, including line-side transmitter digital pre-distortion (DPD), transmit pre-emphasis (TX FIR), receiver feed forward equalization (FFE) and decision feedback equalization (DFE).
+These DSPs offer exceptional performance and signal integrity in a compact (12mm x 13mm) footprint suitable for next generation optical module form-factors such as QSFP-DD800 and OSFP800 and are also offered as Known Good Die (KGD) for higher density applications, such as OSFP-XD.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/f407534c-1ecf-4594-be02-cc4135f47a16/Keystone_PR-Blog-1.jpg?width=800&height=456&ext=.jpg
+    Filename: Keystone_PR-Blog-1.jpg
+    Filepath: images\Keystone_PR-Blog-1.jpg
+    Size: 190765 bytes
+  - URL: https://www.maxlinear.com/getmedia/f407534c-1ecf-4594-be02-cc4135f47a16/Keystone_PR-Blog-1.jpg?width=800&height=456&ext=.jpg
+    Filename: Keystone_PR-Blog-1.jpg
+    Filepath: images\Keystone_PR-Blog-1.jpg
+    Size: 190765 bytes

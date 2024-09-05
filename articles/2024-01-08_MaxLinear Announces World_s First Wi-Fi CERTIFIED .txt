@@ -1,0 +1,15 @@
+Title: MaxLinear Announces World’s First Wi-Fi CERTIFIED 7 Tri-band Single Chip Solutions and Wi-Fi CERTIFIED 7 Tri-band Access Point
+Date: 2024-01-08
+URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-announces-world%E2%80%99s-first-wi-fi-certified-7tm-tri-band-single-chip-solutions-and-wi-fi-cert
+Content:
+
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/1bc37f64-68c9-4c4c-ac92-4a8c0f2f0e24/PR-Linkedin_Wi-Fi7_v2b.jpg?width=1280&height=720&ext=.jpg
+    Filename: PR-Linkedin_Wi-Fi7_v2b.jpg
+    Filepath: images\PR-Linkedin_Wi-Fi7_v2b.jpg
+    Size: 450902 bytes
+  - URL: https://www.maxlinear.com/getmedia/1bc37f64-68c9-4c4c-ac92-4a8c0f2f0e24/PR-Linkedin_Wi-Fi7_v2b.jpg?width=1280&height=720&ext=.jpg
+    Filename: PR-Linkedin_Wi-Fi7_v2b.jpg
+    Filepath: images\PR-Linkedin_Wi-Fi7_v2b.jpg
+    Size: 450902 bytes

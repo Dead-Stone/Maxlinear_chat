@@ -1,0 +1,50 @@
+Title: MaxLinear Announces Three New High-Current DC/DC Power Modules that Simplify FPGA, DSP and SoC Power Management Designs in Infrastructure Applications
+Date: 2020-12-01
+URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-announces-three-new-high-current-dc-dc-p
+Content:
+– December 01, 2020 – MaxLinear, Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, announced today the extension of its dual-output power module family with the release of a dual 18A (MxL7218) and two dual 25A (MxL7225 and MxL7225-1) power modules.  These newly released products add to the existing family of power modules that include dual 4A (MxL7204) and dual 13A (MxL7213) versions and address industrial applications such as medical and test equipment.  In addition, these power modules complement our industry leading infrastructure products such as 5G transceivers and modems, long haul optical TIAs and drivers, and cable infrastructure SoCs.
+
+ 
+
+The dual 18A and two dual 25A power modules allow outputs to be paralleled for up to 36A or 50A per module, respectively. In addition, the power modules may be paralleled for single power rails up to 300A.  The MxL7225-1 provides added flexibility to fine tune the control loop in cases where optimal transient performance is required. 
+
+ 
+
+Focused on powering FPGA, DSP and SoC high-current core and memory rails, these modules operate from a 4.5V to 15V input voltage while providing set output voltages from 0.6V to 1.8V.  Using an industry standard pinout, designers can easily scale the power levels to match the required load.  As power levels increase, efficiency and thermal performance becomes key.  Not only do these modules have excellent thermal conductivity to the board, but by placing inductors externally and minimizing mold compound thickness, the case temperature can be as much as 13°C cooler without the complex internal heat-sinking structures found in competing modules.
+
+ 
+
+“Power modules are used by designers to save space and simplify the design process by integrating a plethora of discrete components at densities generally not achievable on their own circuit boards,” said James Lougheed, Vice President of Marketing for MaxLinear’s High Performance Analog business unit. “These new releases advance our position in the fast-growing billion-dollar Power Supply in Package (PSiP) market.” 
+
+ 
+
+The MxL7218, MxL7225 and MxL7225-1 are available now in a thermally enhanced 16mm x 16mm x 5.01mm BGA package with RoHS compliant terminal finish and feature an industry standard pinout. The MxL7218, MxL7225 and MxL7225-1 are priced at $33.30, $44.40 and $44.40, respectively in 1,000-piece quantities.  Samples and evaluation boards are available.  For more information, visit 
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s MxL7204, MxL7213, MxL7218, MxL7225, and MxL7225-1 power modules, including but not limited to potential market opportunities, functionality, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new or existing products will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; and uncertainties concerning how end user markets for our products will develop.  Other risks potentially affecting our business include risks relating to acquisition integration; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises such as the Covid-19 pandemic or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K for the year ended December 31, 2019 and Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, in each case as filed with the Securities and Exchange Commission. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MxL7225-Conquers-Thermal-Challenges.jpg?ext=.jpg
+    Filename: MxL7225-Conquers-Thermal-Challenges.jpg
+    Filepath: images\MxL7225-Conquers-Thermal-Challenges.jpg
+    Size: 109996 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MxL7225-Conquers-Thermal-Challenges.jpg?ext=.jpg
+    Filename: MxL7225-Conquers-Thermal-Challenges.jpg
+    Filepath: images\MxL7225-Conquers-Thermal-Challenges.jpg
+    Size: 109996 bytes

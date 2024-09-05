@@ -1,0 +1,59 @@
+Title: MaxLinear Partners with MACOM and II-VI to Showcase 100Gbps per Lane Multi-Mode Links at OFC
+Date: 2022-03-08
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-partners-with-macom-and-ii-vi-to-showcas
+Content:
+SAN DIEGO, Calif. – March 8, 2022 – This week at OFC 2022 MaxLinear (NASDAQ: MXL), in cooperation with MACOM and II-VI, will be showcasing 100G/lane multi-mode links targeted for 800G optical modules. These links incorporate the MaxLinear Keystone 5nm 800G DSP, MACOM 100G/lane TIAs and VCSEL drivers and II-VI latest 850nm VCSELs and photodetectors. Bringing these products together provides the capability to support long multi-mode links for cloud and data center applications.
+
+ 
+
+As data center server and switch speeds move to 100G/lane to support the ever-increasing bandwidth requirements of hyperscale data centers, multi-mode transceiver and active optical cable (AOC) solutions are critical to support the scale out of these networks.
+
+
+
+MaxLinear's Keystone family of 5nm PAM4 DSPs includes 400G and 800G variants with and without integrated laser drivers. This demonstration uses the 800G DSP, in conjunction with the MACOM four-channel VCSEL drivers (MALD-39435) and four-channel TIAs (MATA-39434), along with II-VI VCSELs and photodiodes.
+
+ 
+
+"We are excited to demonstrate the use of our Keystone 800G DSP for multi-mode links," said Drew Guckenberger, Vice President of Optical Interconnect at MaxLinear. "The market demand for 100G/lane multi-mode solutions is projected to exceed one million units by 2024, and we're demonstrating the ability to provide solutions now for customers in this market."
+
+ 
+
+"The combined MACOM and MaxLinear IC solutions for 8x100G multi-mode links can provide the ability for customers to achieve 800G QSFP-DD and OSFP optical modules at a total power consumption under 11Watts," said Marek Tlalka, Senior Director of Product Marketing at MACOM. "This is a significant reduction over single-mode solutions for these power-sensitive data center applications."
+
+ 
+
+"Today, we are demonstrating the high-performance capability of our latest short-reach optical components and how we exceed the challenging performance requirements of next-generation 100G/lane short-reach optical links," said Vipul Bhatt, Vice President of Marketing, Datacom Vertical, at II-VI. "Demonstrating interoperability with products by MaxLinear and MACOM shows our commitment to serve the market at all levels of the value chain."
+
+ 
+
+Components from all three companies are now available to make 100G/lane multi-mode links a reality.
+
+ 
+
+For additional information on MaxLinear's data center solutions and the Keystone DSP family, visit: 
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit www.maxlinear.com.
+
+
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+This press release contains "forward-looking" statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to the MaxLinear's Keystone family of 5nm PAM4 DSPs, including but not limited to anticipated benefits from collaboration with MACOM and II-IV, and integration in 100G/lane multi-mode links targeted for 800G optical modules, potential market opportunities, including projections of market demand for 100G/lane multi-mode solutions, functionality, and the potential benefits of use of such products. These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new and existing products will affect our future revenues or financial performance. Forward-looking statements are based on management's current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as "will be," "will," "expect," "anticipate," "continue," or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises, such as the Covid-19 pandemic, or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear's filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear's most recent Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as applicable. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Macom-IIVI.jpg?ext=.jpg
+    Filename: MaxLinear-Macom-IIVI.jpg
+    Filepath: images\MaxLinear-Macom-IIVI.jpg
+    Size: 216294 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Macom-IIVI.jpg?ext=.jpg
+    Filename: MaxLinear-Macom-IIVI.jpg
+    Filepath: images\MaxLinear-Macom-IIVI.jpg
+    Size: 216294 bytes

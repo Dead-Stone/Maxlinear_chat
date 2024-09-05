@@ -1,0 +1,28 @@
+Title: MaxLinear Announces Single-Chip Solution for 5G Open RAN Radio Units
+Date: 2022-02-23
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-announces-single-chip-solution-for-5g-op
+Content:
+– February 23, 2022 – 
+ (NASDAQ: MXL), today announced Sierra, a fully integrated System on Chip (SoC) for 4G/5G Open RAN (Radio Access Network) radio units (RU). This complete silicon and software solution provides RU designers with a flexible system building block to deliver Macro, Massive MIMO, and Small Cell radios for Open RAN applications with high performance, low power consumption, and short time-to-market. MaxLinear began work last year in a collaboration with Meta Connectivity to design the single-chip solution.
+
+
+
+Sierra integrates the following sub-systems into a single chip to provide a compact and complete software-programmable radio signal processing engine for Open RAN RUs:
+
+RF Transceiver supporting up to 8 transmitters, 8 receivers, and 2 feedback receivers
+Digital Front End (DFE), powered by MaxLIN™ the industry’s leading digital pre-distortion (DPD) and crest factor reduction (CFR) solution, and supporting digital up-conversion (DUC) and digital down-conversion (DDC) of component carriers
+Low PHY Baseband Processor supporting 5G, 4G, and NB-IoT air interfaces
+Fronthaul Interface compliant with O-RAN Alliance Split 7.2x
+Its linearization performance exceeds the 3rd Generation Partnership Project (3GPP) and Federal Communications Commission (FCC) unwanted emissions requirements with margin while delivering high PA efficiencies of >50%.
+The MaxLIN platform is software configurable to optimally support different PA architectures, technologies, and power levels for all potential RU applications from macro to pico cells.
+Its advanced machine learning algorithms feature variable delay memory banks, flexible logic and MaxLinear enhancements to correct for both long term and short-term nonlinear dynamics including GaN charge trapping and thermal transients.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Single-Chip-Solution.jpg?ext=.jpg
+    Filename: Single-Chip-Solution.jpg
+    Filepath: images\Single-Chip-Solution.jpg
+    Size: 166222 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Single-Chip-Solution.jpg?ext=.jpg
+    Filename: Single-Chip-Solution.jpg
+    Filepath: images\Single-Chip-Solution.jpg
+    Size: 166222 bytes

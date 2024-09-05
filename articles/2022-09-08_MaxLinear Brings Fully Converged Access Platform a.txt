@@ -1,0 +1,37 @@
+Title: MaxLinear Brings Fully Converged Access Platform and Unprecedented Scalability to Home Gateway Design
+Date: 2022-09-08
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-brings-fully-converged-access-platform-a
+Content:
+– September 8, 2022 – MaxLinear, Inc. (NASDAQ: MXL) today announced the immediate availability of the first three products in its newest generation of AnyWAN™ broadband SoCs. The company will showcase these products at IBC 2022 in Amsterdam, September 9 - 12. Hall 8 – Stand 8.A53.
+
+ 
+
+The MaxLinear AnyWAN™ MxL25641, URX850, and URX851 deliver the highest level of silicon integration to enable power- and cost-efficient high-performance home gateways and routers and bring the scalability that supports all high-speed data access and in-home connectivity technologies and software platforms:
+
+ 
+
+Fiber: GPON, XGS-PON, 10G EPON, Active Ethernet
+Copper: xDSL, G. Fast
+Cable: DOCSIS
+Wireless: 5G FWA
+Ethernet 2.5G and 10G
+Wi-Fi 6, Wi-Fi 6E, Wi-Fi 7
+Ethernet 2.5G and 10G
+G.hn
+MoCA
+Voice FXS
+prplOS (formerly prplWRT)
+RDK-B
+MaxLinear UGW
+
+	The AnyWAN series features the most advanced adaptive power management capabilities built into the silicon hardware. The onboard solution is designed to conserve energy by dynamically adapting power consumption to constantly changing performance requirements, ensuring rapid mode transition.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/AnyWAN-Broadband-SoCs.jpg?ext=.jpg
+    Filename: AnyWAN-Broadband-SoCs.jpg
+    Filepath: images\AnyWAN-Broadband-SoCs.jpg
+    Size: 133804 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/AnyWAN-Broadband-SoCs.jpg?ext=.jpg
+    Filename: AnyWAN-Broadband-SoCs.jpg
+    Filepath: images\AnyWAN-Broadband-SoCs.jpg
+    Size: 133804 bytes

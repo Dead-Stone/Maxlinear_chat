@@ -1,0 +1,78 @@
+Title: MaxLinear Linearization and Cree GaN on SiC Power Amplifiers Combine to Efficiently Power New Ultra-Wideband 5G
+Date: 2021-06-23
+URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-linearization-and-cree-gan-on-sic-power
+Content:
+– June 23, 2021 – 
+ (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, and Cree, Inc. (NASDAQ: CREE), the global leader in Silicon Carbide (SiC) technology through its Wolfspeed business, announced breakthrough performance when combining MaxLinear’s ultra-wideband linearization solution (MaxLin) and Cree’s Wolfspeed® Gallium Nitride (GaN) on SiC mid-band power amplifiers. The new solution increases wireless capacity of a 5G base station, supporting more simultaneous users and increasing the speed of data transmissions.
+
+
+
+The use of GaN on SiC with effective linearization accelerates the rollout of 5G by enabling significant power, thermal, and cost savings through more efficient wireless transmission. The power savings from combining Cree’s highly efficient GaN on SiC power amplifiers with a highly effective linearization solution implemented by MaxLinear can be hundreds of watts for the massive MIMO radios that 5G demands.
+
+
+
+“Our GaN on silicon carbide power amplifiers are designed to achieve high efficiency with extremely wide instantaneous bandwidth in a very small form factor at the newly released 5G spectrum,” said Gerhard Wolf, senior vice president and general manager of RF at Cree | Wolfspeed. “Working with MaxLinear’s solution, this technology demonstrates a significant step forward in achieving outstanding linearity performance and will help wireless providers deliver a superior level of performance and service to mobile customers.”
+
+ 
+
+The new solution tackles a substantial industry challenge: implementing radio units with 5G massive MIMO arrays such as 64x64 or 32x32, while maintaining a reasonable size, weight, and power. The newer 5G spectrum is at a higher carrier frequency and has wider bandwidths, making it more challenging to achieve high power efficiency for radio units.
+
+
+
+“We are solving a substantial challenge of 5G radios,” said Helen Kim, vice president of MaxLinear’s Wireless Technologies & IP. “Customers need to find a way to deliver mid-band 5G capacity without a commensurate increase in cost and power. Our wideband, power-efficient linearization solution and our low power 400MHz transceivers significantly reduce the heat dissipated by massive MIMO arrays, resulting in a substantially slimmer, lower cost radio solution.”
+
+
+
+Using GaN on SiC, MaxLinear’s solution delivers breakthrough linearization performance for a 280 MHz channel to support US 5G spectrum (3.7-3.98GHz) and a 400 MHz channel to support Asian and European 5G mid-band spectrum (3.4-3.8GHz). At 280MHz of instantaneous bandwidth, Cree’s WS1A3940 power amplifier achieves ~50% efficiency for the average output power of 39.5dBm, MaxLinear’s MxL1600 transceiver provides a sampling rate of 983MSPS, and MaxLin improves linearity by >20dB to exceed 3
+ Generation Partnership Project (3GPP) and Federal Communications Commission (FCC) requirements with margin. Using the Wolfspeed WS1A3640 power amplifier, MaxLin also demonstrates a >20dB linearization improvement at 400MHz of instantaneous bandwidth.
+
+
+
+Cree’s WS1A3940 and WS1A3640 GaN on SiC power amplifier modules, MaxLinear’s MxL15xx and MxL16xx 400MHz transceivers, and MaxLinear’s MaxLin linearization technology are solutions that enable both traditional and Open RAN innovations.
+
+
+
+To learn more about Cree | Wolfspeed and its products, please visit 
+. To learn more about MaxLinear and its products, please visit 
+.
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit www.maxlinear.com.
+
+
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+For more than 30 years, the company has served as the global leader in silicon carbide technology and production, leading the worldwide transition from silicon to silicon carbide. Customers leverage the Wolfspeed® product portfolio for disruptive technology solutions that support a more efficient, sustainable future including electric vehicles, fast charging, 5G, power supplies, renewable energy and storage, as well as aerospace and defense. Our people are dedicated to driving a significant shift in the technology sector and creating a global semiconductor powerhouse. For additional product and Company information, please refer to 
+.
+
+Cree® and Wolfspeed® are registered trademarks of Cree, Inc.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s ultra-wideband linearization solution (MaxLin) and MxL15xx and MxL16xx 400MHz transceivers, including but not limited to potential market opportunities, combinations with Cree, Inc., including with its Wolfspeed Gallium Nitride on Silicon Carbide mid-band power amplifiers, functionality, efficiency, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new or existing products will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; and uncertainties concerning how end user markets for our products will develop.  Other risks potentially affecting our business include risks relating to acquisition integration; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises such as the Covid-19 pandemic or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K for the year ended December 31, 2020 and Quarterly Report on Form 10-Q for the quarter ended March 31, 2021, in each case as filed with the Securities and Exchange Commission. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+ 
+
+
+
+This press release contains forward-looking statements involving risks and uncertainties, both known and unknown, that may cause actual results to differ materially from those indicated. Actual results may differ materially due to a number of factors, including the risk that we may be unable to manufacture these new products with sufficiently low cost to offer them at competitive prices or with acceptable margins; the risk we may encounter delays or other difficulties in ramping up production of our capacity to supply these products; customer acceptance of our products; the rapid development of new technology and competing products that may impair demand or render Cree’s products obsolete; and other factors discussed in Cree’s filings with the Securities and Exchange Commission, including its report on Form 10-K for the year ended June 28, 2020, and subsequent filings.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Linearization-Cree-GaN.jpg?ext=.jpg
+    Filename: MaxLinear-Linearization-Cree-GaN.jpg
+    Filepath: images\MaxLinear-Linearization-Cree-GaN.jpg
+    Size: 150865 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Linearization-Cree-GaN.jpg?ext=.jpg
+    Filename: MaxLinear-Linearization-Cree-GaN.jpg
+    Filepath: images\MaxLinear-Linearization-Cree-GaN.jpg
+    Size: 150865 bytes

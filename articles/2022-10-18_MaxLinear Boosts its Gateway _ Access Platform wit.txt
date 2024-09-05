@@ -1,0 +1,53 @@
+Title: MaxLinear Boosts its Gateway & Access Platform with Wi-Fi 7 Family of SoCs 
+Date: 2022-10-18
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-boosts-its-gateway-access-platform-with
+Content:
+– October 18, 2022 – MaxLinear Inc. (NASDAQ: MXL) today announced the seventh generation of its Wi-Fi SoC solution targeting service provider gateways, Wi-Fi routers, and access points. The highly-integrated Wi-Fi 7 family of chips offers an industry-first single-SoC solution that delivers more than 70% higher tri-band throughput verses Wi-Fi 6. The chips are currently sampling to selected partners and MaxLinear-enabled products are expected in 2023.
+
+ 
+
+“Our Wi-Fi 7 single-chip solution enables fast, robust, and reliable connectivity elevating the user experience,” said Will Torgerson, vice president and general manager, Broadband group for MaxLinear. “We help our partners reduce complexity, drive form-factor innovation, and spend less time designing next generation gateways, routers and access points.”
+
+ 
+
+Wi-Fi 7 - also called Extremely High Throughput (EHT) - is one of the most significant Wi-Fi upgrades to date. Built on the IEEE 802.11be standard, it delivers 11.5Gbps of peak throughput on the 6GHz spectrum. This makes the throughput more than twice as fast as the previous generation, Wi-Fi 6. This increase is accomplished by doubling the bandwidth to 320MHz and enhancing the modulation to 4096 QAM.
+
+ 
+
+Making the untethered experience more robust, Multi-Link Operation (MLO) is another marquee Wi-Fi 7 feature which enables channel aggregation to deliver lower latency and higher throughput in congested environments.
+
+MaxLinear Wi-Fi 7 advantages include:
+
+ 
+
+ Single chip reduces total Bill of Material (BOM) and board complexity, with less time spent on thermal, mechanical, and PCB designs. Single chip also drives smaller form-factor which enables system integrators to build more elegant product designs.
+ Single chip has one coordinated view of data flows across multiple channels in dual- and tri-band configurations for faster recovery from retransmissions during interference. This improves link robustness and client efficiency, enables deterministic latency and higher throughput for demanding high-bandwidth applications in heavily congested environments like Multi-Dwelling Units.
+MaxLinear’s improved proprietary “on-the-fly MAC” architecture optimizes large and small packet scheduling and performance. It reduces the overheads in the data path and enables quick recovery from data retransmissions during interference.
+Provides seamless operations in DFS channels while adhering to stringent DFS (re)entry rules. Delivers uncompromised 4x4 range and performance reducing dead spots while offering best-in-class user experience.
+Single chip WFA Wi-Fi 7 R1 certifiable
+Based on IEEE 802.11be (EHT); backward compliant to IEEE 802.11a/b/g/n/ac/ax
+Support Key Wi-Fi 7 features such as:
+	
+Bandwidth up to 320MHz
+4096 QAM modulation
+Multi-Link Operation (MLO)
+Multi Resource Unit (MRU)
+
+	
+Dedicated antenna for Zero Wait DFS (ZWDFS)
+Enhanced Network Efficiency
+DPD
+Automatic Frequency Coordination (AFC) support
+Fully offloaded Wi-Fi traffic
+Coexistence support for PAN radios
+Interface(s): PCIe Gen4
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Boosts-Gateway-Access-Platform.jpg?ext=.jpg
+    Filename: MaxLinear-Boosts-Gateway-Access-Platform.jpg
+    Filepath: images\MaxLinear-Boosts-Gateway-Access-Platform.jpg
+    Size: 148756 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Boosts-Gateway-Access-Platform.jpg?ext=.jpg
+    Filename: MaxLinear-Boosts-Gateway-Access-Platform.jpg
+    Filepath: images\MaxLinear-Boosts-Gateway-Access-Platform.jpg
+    Size: 148756 bytes

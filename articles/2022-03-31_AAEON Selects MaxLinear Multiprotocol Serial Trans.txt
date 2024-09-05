@@ -1,0 +1,27 @@
+Title: AAEON Selects MaxLinear Multiprotocol Serial Transceivers for Ruggedized Tablet Computers
+Date: 2022-03-31
+URL: https://www.maxlinear.com/news/press-releases/2022/aaeon-selects-maxlinear-multiprotocol-serial-trans
+Content:
+Carlsbad, CA – March 31, 2022 – Today MaxLinear (NASDAQ: MXL) announced that AAEON, a leading designer and manufacturer of advanced industrial and embedded computing platforms, is using the company's multiprotocol transceivers in their ruggedized tablet computers.
+
+ 
+
+These tablets are multifunctional, military-grade products built to ensure reliable operation in harsh work environments, whether indoors or outdoors, in cold freezers or hot weather. The applications for such products include fleet management, construction sites, factory automation, parking management, field inspection, logistics and warehouse management, military and law enforcement. ReporterLinker Consulting reports that the rugged mobile applications market will reach $2.9B by 2027.
+
+ 
+
+The MaxLinear multiprotocol transceivers provide design flexibility and other benefits such as,
+
+Industrial temperature range and high ESD and voltage protection to ensure reliable operation in most demanding environments
+A suite of I/O ports in a compact form factor that allows tablets to connect directly to machinery, sensors and other devices when needed.
+Software configurability of COM ports as RS-232, RS-485 or RS-422
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/AAEON-Selects-MaxLinear.jpg?ext=.jpg
+    Filename: AAEON-Selects-MaxLinear.jpg
+    Filepath: images\AAEON-Selects-MaxLinear.jpg
+    Size: 184859 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/AAEON-Selects-MaxLinear.jpg?ext=.jpg
+    Filename: AAEON-Selects-MaxLinear.jpg
+    Filepath: images\AAEON-Selects-MaxLinear.jpg
+    Size: 184859 bytes

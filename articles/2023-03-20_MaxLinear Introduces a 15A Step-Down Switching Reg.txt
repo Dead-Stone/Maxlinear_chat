@@ -1,0 +1,37 @@
+Title: MaxLinear Introduces a 15A Step-Down Switching Regulator With 2-Bit VID to Power High-Speed Digital and RF Systems
+Date: 2023-03-20
+URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-introduces-a-15a-step-down-switching-reg
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- 
+, Inc. (Nasdaq: MXL) today announced the release of MXL76125, a 15 Amp Step-Down Switching regulator with 2-Bit VID designed and qualified to provide power to the digital core of MaxLinear’s Wi-Fi 7 SoCs. With this release, MaxLinear further leverages its extensive power management expertise to provide solutions that simplify system architecture.
+
+
+
+With the integration of a 2-Bit VID into the MXL76125, the Wi-Fi 7 SoC can communicate to the power supply, adjusting its core voltage depending on the power needs of the system. This level of system operability across MaxLinear chipsets allows end users to implement power savings modes and meet stringent market requirements without additional cost or complexity.
+ 
+Customer Premise Equipment (CPE) and enterprise networking manufacturers face significant challenges during Wi-Fi FCC qualification testing in designing and building Wi-Fi 7-enabled home gateways and wireless networks. One key example is passing Wi-Fi FCC qualification where the quality of power delivery can directly impact the results. The MXL76125 has been designed to meet the needs of MaxLinear Wi-Fi 7 SoCs, the MXL31712 and MXL31708, providing a fast and stable power supply with low noise. By offering a complete and proven solution, customers can be assured that the power delivery is optimized for their system needs.
+“With the release of the MXL76125, we’re able to offer CPE developers a reliable and complete Wi-Fi 7 networking and power solution,” said James Lougheed, Vice President & General Manager, High Performance Analog & Accelerators. “MaxLinear is able to leverage expertise across numerous technology groups to produce highly integrated solutions that can give our customers a clear advantage in the marketplace.”
+The MXL76125 is a 15Amp Step-Down Switching Regulator designed and qualified to provide power to the digital core of MaxLinear’s Wi-Fi 7 SoCs. Key features include:
+2-Bit VID interface designed for MaxLinear’s Wi-Fi 7 SoCs optimizes performance and saves power
+Operating from 5V or 12V inputs, a Constant On-Time (COT) control scheme ensures excellent transient performance, line and load regulation
+Qualified as core power supply for MaxLinear’s Wi-Fi 7 SoCs
+New generation FETs allows the solution to fit into a 4 x 5mm QFN package and improves efficiency for excellent thermal performance
+Our Wi-Fi 7 SoCs offer a world’s-first single SoC solution with best-in-class throughput, coverage, and performance. The Wi-Fi 7 Family consists of two chips: The MXL31712 and the MXL31708. The MXL31712 is targeted for premium segment 4x4 tri-band market targeting throughput up to 18.6Gbps. The MxL31708 is targeted for mid- to high-range 4x4 dual-band market targeting throughput up to 17Gbps. MaxLinear Wi-Fi 7 advantages include:
+Lowers total system cost and development time
+Provides seamless, coordinated view of multi-bands for optimal MLO experience
+Enhances network efficiency with “On-the-fly MAC”
+Reduces dead spots with dedicated chain for ZWFDS
+Learn more: 
+MaxLinear, Inc. (Nasdaq: MXL) is a leading provider of radio frequency (RF), analog, digital, and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s power and Wi-Fi products such as MXL76125, including but not limited to, with respect to anticipated growth in the potential market opportunities, functionality, performance and the benefits of use of such products. These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new and existing products will affect our future revenues or financial performance. Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expected,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense and increasing competition in our industry and product markets; the global semiconductor supply shortage and high inflation; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises, such as the Covid-19 pandemic, geopolitical conflicts, including those involving the U.S. and other governments such as China and Russia, or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as applicable. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/15A-Step-Down-Switching-Regulator.jpg?ext=.jpg
+    Filename: 15A-Step-Down-Switching-Regulator.jpg
+    Filepath: images\15A-Step-Down-Switching-Regulator.jpg
+    Size: 85690 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/15A-Step-Down-Switching-Regulator.jpg?ext=.jpg
+    Filename: 15A-Step-Down-Switching-Regulator.jpg
+    Filepath: images\15A-Step-Down-Switching-Regulator.jpg
+    Size: 85690 bytes

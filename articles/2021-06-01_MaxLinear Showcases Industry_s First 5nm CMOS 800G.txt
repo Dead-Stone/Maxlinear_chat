@@ -1,0 +1,45 @@
+Title: MaxLinear Showcases Industry’s First 5nm CMOS 800G PAM4 DSP on TSMC Advanced Process at OFC 2021
+Date: 2021-06-01
+URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-showcases-industry%E2%80%99s-first-5nm-cmos-800g
+Content:
+– June 01, 2021 – 
+ (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, announced today that the company will showcase the industry’s first 5nm CMOS 800Gbps PAM4 DSP for data center applications at the Optical Fiber Communication Conference and Exhibition (OFC) from June 6 to June 11, 2021. This 800G DSP is part of MaxLinear’s new Keystone family of 5nm CMOS PAM4 DSPs available for customers.
+
+
+
+Keystone represents MaxLinear’s third generation of PAM4 DSPs. It enables small form factors, offers high integration and best-in-class power consumption, and has the flexibility to address multiple optical transceiver use cases and end markets. Keystone DSPs can address both 400G and 800G optical module applications. The extremely low power consumption and small form factor of Keystone enables both sub-8Watt 400G optical module designs (QSFP112 and QSFP-DD) and sub-15Watt 800G designs (QSFP-DD800 and OSFP). Similar to MaxLinear’s previous generation Telluride PAM4 DSP family (MxL9351x and MxL9354x), the Keystone family (MxL9364x, MxL9368x) also includes a monolithically integrated single-ended driver ideally suited for optical transceiver module implementations using electro-absorption modulated lasers (EMLs). Additionally, it features an optional monolithically integrated high-swing differential driver that can be used for direct drive of silicon photonics (SiPh) based modulators.
+
+
+
+“With the exponential growth of data traffic within hyperscale cloud networks, the needed increase in interconnect bandwidth in those networks requires lower-power, higher-density optical modules that support higher lane rates,” said Drew Guckenberger, Vice President of Optical Interconnect at MaxLinear. “We are extremely excited to announce the availability of our Keystone family of 5nm CMOS PAM4 DSPs, specifically designed to address these requirements. With our third generation Keystone DSP design, and the power advantages of 5nm CMOS technology, we are directly addressing our customers’ critical needs for low power, highly integrated, high performance interconnect solutions in next generation hyperscale cloud networks.”
+
+
+
+“We’re pleased to see the result of our collaboration with MaxLinear, a strategic technology partner of TSMC, in developing and manufacturing its leading PAM4 DSPs on TSMC’s 5nm technology to address the rapidly growing cloud datacenter network infrastructure market,” said Alex You, Vice President of Business Management, TSMC North America. “The Keystone family of SoCs are amongst the first radio-frequency mixed-signal digital SoCs leveraging TSMC’s 5nm CMOS process. The excellent power, seamless integration, and performance benchmarks set by Keystone are a testament to the advanced capabilities of our process technology, and also to MaxLinear’s design expertise in the most advanced processes.”
+
+ 
+
+ 
+
+Keystone is a family of highly integrated PAM4 DSP SoCs that enable 400G/800G optical interconnects. This is the first generation to provide 106.25Gbps host side electrical I/O to match the line side 106.25Gbps interface rate. This is a crucial capability for next generation 25.6T switch interfaces.
+
+The Keystone family’s host side interfaces support 25.78125/25.5625/53.125/106.25Gbps signaling per lane over C2M host channels. The line side interfaces also support the same rates and are targeted for 100G/λ DR, FR, and LR applications. All devices provide extensive DSP functionality, including line-side transmitter digital pre-distortion (DPD), transmit pre-emphasis (TX FIR), receiver feed forward equalization (FFE) and decision feedback equalization (DFE).
+
+
+
+The Keystone family (MxL9364x, MxL9368x) includes both standalone DSPs and DSPs with monolithically integrated drivers that offer high-swing differential and single-ended output driver options to address both SiPh and EML direct drive applications.  The following channel configurations are available in each case:
+
+8x50G to 8x50G
+8x50G to 4x100G
+4x100G to 4x100G
+8x100G to 8x100G
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Showcases-Industry-First.jpg?ext=.jpg
+    Filename: MaxLinear-Showcases-Industry-First.jpg
+    Filepath: images\MaxLinear-Showcases-Industry-First.jpg
+    Size: 198054 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Showcases-Industry-First.jpg?ext=.jpg
+    Filename: MaxLinear-Showcases-Industry-First.jpg
+    Filepath: images\MaxLinear-Showcases-Industry-First.jpg
+    Size: 198054 bytes

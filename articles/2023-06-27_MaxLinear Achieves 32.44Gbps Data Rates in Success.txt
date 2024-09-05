@@ -1,0 +1,72 @@
+Title: MaxLinear Achieves 32.44Gbps Data Rates in Successful JESD204C Interoperability Testing
+Date: 2023-06-27
+URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-achieves-32-44-gbps-data-rates-in-succes
+Content:
+Key advancement with Intel Agilex FPGAs enables designers to rapidly deliver next-generation 5G Radio Units (RU) that support instantaneous bandwidths up to 400 MHz
+CARLSBAD, CA – (BUSINESS WIRE) – MaxLinear, Inc. (Nasdaq: MXL), a leading provider of high-performance radio frequency (RF) and mixed-signal semiconductor solutions, announce MaxLinear's MxL1550 RF transceiver and Intel's Agilex(R) 7 FPGA F-series device have successfully achieved 32.44 Gbps data rates during JESD204C interoperability testing, unleashing 400MHz instantaneous bandwidth RU applications.
+
+
+
+JESD204C is a multi-lane, multi-gigabit serial interface for high-throughput digital communications between RF transceivers and logic devices. MaxLinear’s JESD204C conforming implementation is based upon best-in-class SerDes innovations and delivers industry-leading 32.44032 Gbps lane speeds. Such JESD204C interface speeds are required to support the development of new ultra-wideband radio units (RU) for the 5G Radio Access Network (RAN). According to 2023 research by Research and Markets, the global 5G RAN market was valued at $12.4B billion in 2022, and is projected to reach $57.1 billion by 2030, growing at a CAGR of 21.1% from 2022 to 2030.
+
+
+
+“Implementing high-speed JESD204C SerDes interconnect between RF transceivers and FPGAs is a significant new design challenge for RF engineers delivering next-generation 5G radios,” said Gerry Leavey, Senior Director in MaxLinear’s Wireless Infrastructure Group. “By achieving 32.44 Gbps JESD204C interoperability in advance with a leading FPGA product from Intel, MaxLinear is facilitating the rapid development of right-first-time 400 MHz RU designs based upon our MxL1550 Octal RF transceivers.”
+
+
+
+The MxL1550 is a state-of-the-art, low power octal RF transceiver that supports up to 400MHz instantaneous bandwidth for next-generation 5G Macro, Massive MIMO, and Small Cell radio applications. Coupled with ultra-low power consumption, this multi-channel RF transceiver is a key component for meeting the power consumption, size, performance, and cost requirements of next generation 5G radios.
+
+ 
+
+“Intel Agilex 7 SoC FPGAs deliver ~2x performance per watt compared to competing 7nm FPGAs , making it an optimal and scalable product family for thermally constrained RU environments. Combined with MaxLinear’s RF transceivers, we unleash 400MHz instantaneous bandwidth efficiently supporting wideband/multi-band RU applications,” said Christian Lanzani, Director of the Wireless Business Division, Intel Programmable Solutions Group. “This collaboration, along with Intel’s cutting-edge suite of radio IP and ORAN/Low-PHY enablement solutions, helps our wireless clients drastically reduce development time and costs while enhancing the feature sets and delivery of power-efficient RU solutions.” 
+
+
+
+MaxLinear provide a range of development platforms and tools based upon the HiTek Systems Agilex eSOM module and carrier board to allow developers to evaluate these solutions and speed up development. 
+
+
+
+
+
+The successful 32.44 Gbps JESD204C interoperability test was successfully confirmed using an RU reference design platform consisting of a MxL1550 evaluation board connected to an Intel Agilex 7 FPGA F-Series device with F-Tile on a Hitek Systems’ eSOM evaluation system. This RU hardware platform, combined with MaxLinear’s ultra-wideband digital pre-distortion (DPD) IP and Intel’s O-RAN and Low-PHY IP suite, delivers a complete programmable pre-verified software-defined radio (SDR) with the highest integration and lowest power consumption for Macro and Massive MIMO RU applications. The RU reference platform includes the following technical components from Intel and MaxLinear:
+
+
+
+•    Intel's Agilex 7 SoC FPGA devices use heterogeneous 3D system-in-package (SiP) technology to integrate Intel's first FPGA fabric built on 10nm SuperFin technology. Leveraging this advanced process technology and 2nd Gen Intel® Hyperflex™ FPGA Architecture enables these FPGAs to deliver ~2X better fabric performance per watt when compared to competitive 7nm FPGA portfolios. Agilex SoC FPGAs offer an integrated quad-core Arm Cortex-A53 processor and a custom logic migration path from FPGA to structured eASIC for cost and power benefits in high-volume production.
+
+
+
+•    Intel’s JESD204C FPGA IP is a high-speed point-to-point serial interface for digital-to-analog (DAC) or analog-to-digital (ADC) converters to transfer data to FPGA devices. This unidirectional serial interface runs at a maximum data rate of 32.44032 Gbps. This protocol offers higher bandwidth, low I/O count, and supports scalability in both number of lanes and data rates.
+
+
+
+•    Intel's O-RAN and Low-PHY FPGA enablement package is a complete set of integrated building blocks required to implement an O-RAN Alliance Split 7.2x compliant O-RU in an Agilex FPGA. Intel also offers FlexRAN software stack, an O-RAN compliant Split 7.2x software covering High-PHY functionality for O-DU running on Intel Xeon processors.
+
+
+
+•    MaxLinear's MaxLIN is the industry's leading DPD linearization solution. Its advanced machine learning algorithms exceed the 3rd Generation Partnership Project (3GPP) and Federal Communications Commission (FCC) unwanted emissions requirements with margin while delivering high PA efficiencies of >50%. This capability dramatically reduces power consumption for an 8-transceiver macro implementation by >10% compared with competitive DPD offerings.
+
+
+
+To allow developers to evaluate these solutions and speed up development, Intel and MaxLinear provide a range of development platforms and tools based upon the Hitek Systems’ Agilex eSOM module and carrier board. To learn more about the Hitek Agilex evaluation systems, visit hiteksys.com.
+
+
+
+Intel, the Intel logo and Xeon are trademarks of Intel Corporation or its subsidiaries. 
+
+
+
+
+
+MaxLinear, Inc. (Nasdaq: MXL) is a leading provider of radio frequency (RF), analog, digital, and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit https://www.maxlinear.com/.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/ff313c87-4c32-4733-98e1-99bb048dd915/MxL1550-Blog-Image.jpg?width=800&height=456&ext=.jpg
+    Filename: MxL1550-Blog-Image.jpg
+    Filepath: images\MxL1550-Blog-Image.jpg
+    Size: 122112 bytes
+  - URL: https://www.maxlinear.com/getmedia/ff313c87-4c32-4733-98e1-99bb048dd915/MxL1550-Blog-Image.jpg?width=800&height=456&ext=.jpg
+    Filename: MxL1550-Blog-Image.jpg
+    Filepath: images\MxL1550-Blog-Image.jpg
+    Size: 122112 bytes

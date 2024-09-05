@@ -1,0 +1,56 @@
+Title: MaxLinear and NI Collaborate to Simplify Validation of Wideband Power Amplifiers for 5G Networks
+Date: 2021-02-23
+URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-and-ni-collaborate-to-simplify-validatio
+Content:
+– February 23, 2021 – 
+ (NYSE: MXL) and 
+ (NASDAQ: NATI) today announced the integration of MaxLinear’s dual-band RF power amplifier (PA) linearization algorithms into NI’s RFIC test software. This integration empowers extensive validation of new wideband, cellular infrastructure PA designs leading to increased power efficiency and lower non-linear effects. NI’s integrated and highly synchronized RF testbench coupled with MaxLinear’s new best-in-class linearization IP gives design validation engineers a streamlined test and measurement approach, providing substantial ACLR reduction, EVM improvements, and power efficiency advantages.
+
+
+
+The rollout of 5G networks has triggered a rapid increase in deployed multi-band radios requiring support for contiguous and non-contiguous wideband carrier aggregation configurations. These new RF front-end designs share a single, high-bandwidth PA and signal path, resulting in significant cost and size savings.  However, to achieve maximum energy efficiency, engineers need to drive these wideband PAs into non-linear operation and understand how to minimize the undesired effects of RF energy leaking into adjacent channels.
+
+
+
+To address this challenge, 
+ integrates MaxLinear’s cutting-edge, wideband linearization techniques with the latest DC, Digital, Analog, and 
+,  enabling consolidated, more efficient, single transmit radio chain architectures while minimizing leakage into adjacent channels.
+
+
+
+"The integration of our linearization IP with NI’s platform brings rapid innovation to a very difficult, but core challenge of wideband cellular systems," said Helen Kim, Vice President of Wireless Technologies & IP at MaxLinear. "Giving engineers the tools to simplify power amplifier validation complements our goal to dramatically reduce the enormous amounts of power consumed by 4G and 5G RF radio units today.”
+
+
+
+"We’re enabling our customers to accelerate the pace of product development through automated device validation. And it’s clear that energy-efficient 5G deployments require more capable validation solutions," said Jesse Lyles, Sr. Director, Semiconductor Business Unit at NI. “Together with MaxLinear, we can provide the validation solutions our customers need to accelerate their time to market. We’re thrilled to enhance NI’s RFIC application with MaxLinear’s linearization algorithms to create greater RF device performance.”
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+At NI, we bring together the people, ideas and technology so forward thinkers and creative problem solvers can take on humanity’s biggest challenges. From data and automation to research and validation, we provide the tailored, software-connected systems engineers and enterprises need to Engineer Ambitiously™ every day. 
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s dual-band RF power amplifier (PA) linearization algorithms, including but not limited to potential market opportunities, future collaborations with NI Inc., integration into NI’s RFIC test software, functionality, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new or existing products will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; and uncertainties concerning how end user markets for our products will develop.  Other risks potentially affecting our business include risks relating to acquisition integration; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises such as the Covid-19 pandemic or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K for the year ended December 31, 2020, as filed with the Securities and Exchange Commission. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-and-NI-Collaborate.jpg?ext=.jpg
+    Filename: MaxLinear-and-NI-Collaborate.jpg
+    Filepath: images\MaxLinear-and-NI-Collaborate.jpg
+    Size: 151504 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-and-NI-Collaborate.jpg?ext=.jpg
+    Filename: MaxLinear-and-NI-Collaborate.jpg
+    Filepath: images\MaxLinear-and-NI-Collaborate.jpg
+    Size: 151504 bytes

@@ -1,0 +1,56 @@
+Title: MaxLinear 20Gbps Millimeter MxL85110 Modem Fuels Backhaul Connectivity for Siklu EtherHaul™ Product Family
+Date: 2020-04-21
+URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-20gbps-millimeter-mxl85110-modem-fuels-b
+Content:
+– April 21, 2020 – MaxLinear, Inc. (NYSE: MXL), MaxLinear, Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications, today announced the MxL85110 baseband system on-chip (SoC) is being deployed in the Siklu EtherHaul product family.
+
+ 
+
+With its exceptional millimeter band (V-Band and E-Band) throughput of up to 20Gbps, the MxL85110 provides a flexible solution that meets the evolving demands for 5G backhaul networks, supporting both all outdoor unit (AODU) and pure IP transport implementations for 5G cellular networks.
+
+ 
+
+Siklu’s EtherHaul products are part of the industry’s most comprehensive portfolio of V-Band (60GHz), E-Band (70/80GHz), point-to-point, and point-to-multipoint solutions on the market. Siklu, with more than 100,000 mmWave units sold and more than 250 Smart City deployments, is recognized as a leading mmWave vendor in the rapidly growing Gigabit Wireless sector. In combination with Siklu’s ExtendMM
+ feature, throughputs of 10Gbps full duplex on mmWave links up to 10km can be supported. This is a capacity and distance combination attractive for 5G deployments.
+
+ 
+
+The MxL85110 includes a complete processing chain, from the various user IP interface technologies to analog baseband signals. The MxL85110 supports large channel-spacing spans of between 50MHz and 2GHz, modulation rates from binary phase-shift keying (BPSK) to 1024 QAM, and high spectral efficiency supporting multiple-input and multiple-out (MIMO) transceivers and cross pole interference cancellation (XPIC).
+
+ 
+
+"As wireless networks require more bandwidth to support 5G applications, service providers will need new tools to transport the massive amount of data that is aggregated at the base station with minimal latency,” said Brendan Walsh, Vice President of MaxLinear’s Wireless Infrastructure Group. “Siklu’s product line meets these requirements and offers an exciting combination of innovation and performance.”
+
+ 
+
+“Leveraging millimeter bands to support bandwidth requirements for backhaul networks is a very attractive option due to larger blocks of available spectrum and lower licensing costs,” said Dave Sumi, VP of Marketing at Siklu. “Using the MxL85110 we are able to take full advantage of these benefits.”
+
+ 
+
+
+
+The MXL85110 provides a complete processing chain from the various interface technologies of user’s data to analog baseband signals. The MxL85110 is characterized by these main features:
+
+Glueless connectivity to the RF/IF analog circuitry via integrated AFE DACs and ADCs
+Synchronous Ethernet (SyncE)
+1588v2, transparent clock (TC) mode
+Full-duplex, single carrier, FDD modem
+XPIC
+Bit rates up to 10Gbps
+Modulation from BPSK to 1024 QAM
+Channels spacing of 50MHz to 2GHz
+Baud rate up to 1600 Mbaud
+Configurable LDPC or RS FEC channel codes
+High phase noise immunity
+Ethernet and GPI interfaces
+In-band management link
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Backhaul-Connectivity-Siklu.jpg?ext=.jpg
+    Filename: MaxLinear-Backhaul-Connectivity-Siklu.jpg
+    Filepath: images\MaxLinear-Backhaul-Connectivity-Siklu.jpg
+    Size: 122083 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Backhaul-Connectivity-Siklu.jpg?ext=.jpg
+    Filename: MaxLinear-Backhaul-Connectivity-Siklu.jpg
+    Filepath: images\MaxLinear-Backhaul-Connectivity-Siklu.jpg
+    Size: 122083 bytes

@@ -1,0 +1,24 @@
+Title: MaxLinear Enables MWave’s Ultra-Flexible G.hn Module for Industrial Applications
+Date: 2023-05-10
+URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-enables-mwave%E2%80%99s-ultra-flexible-g-hn-modu
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- MaxLinear, Inc. (Nasdaq: MXL), a world leader in connectivity technologies, today announced that MWave Consulting, Ltd. (a UK-based RF & Microwave design facility) has selected the MaxLinear G.hn technology for use in its industrial IoT (IIoT) devices. G.hn technology is well suited for a full range of industrial IoT networks and connects any device through Ethernet PHY, MII, SGMII or RGMII interfaces.
+According to a 2023 MarketsandMarkets™ research report, the industrial communications market is predicted to grow to US$26.8B by 2027 as companies increasingly turn to technology to deliver significant business improvements. With its products, MWave addresses the expanding demand for machine-to-machine (M2M) connectivity that requires resilience and real-time synchronization – applications for smart buildings, autonomous robots, and factory automation processes such as smart lighting control, smart elevators, smart traffic lights, charging stations, airport navigation systems and fire alarms.
+“With G.hn's capability to handle real-time two-way traffic and high bandwidth, this technology is naturally well-suited as a backhaul for a complete range of smart buildings and automated factory devices,” said Richard Welland, Director, International Sales & Marketing of MWave. “Partnering with MaxLinear provides a modular G.hn solution that we can easily embed into our products that provide superior IIoT solutions, allowing the transport of multi-gigabit-per-second IP data reliably over any existing wire.”
+“MaxLinear is committed to bringing our customers a competitive advantage through engineering excellence. Our solutions, such as the high-speed G.hn networking solution, make our customers more competitive by enabling shorter design cycles and significant design flexibility,” said Will Torgerson, Vice President of the Broadband Group at MaxLinear.
+“Most new products must be connected to the Internet or a network to boost efficiency and productivity,” said ShengYang Electronics General Manager Robert Xu. “Providing products to meet this global market demand for IIoT offers new growth market opportunities for our organization. We are pleased to have MaxLinear as our partner for G.hn technology.”
+MaxLinear, Inc. (Nasdaq: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+For more information on the MaxLinear Industrial IoT evaluation platform combining G.hn Gigabit capability with common industrial interfaces, click 
+.
+For more information on G.hn and IIoT use cases, download the 
+.
+MWave Consulting Ltd is a world leader in the design of RF & Microwave solutions with its facility based in the UK, spearheading the launch of a range of G.hn products in Europe. Shengyang Electronics (SY-E) is the latest new division of and wholly owned by Zhejiang Shengyang Science & Technology, a publicly-traded company listed on the Shanghai Stock Exchange. Shengyang Electronics manufactures high-quality, cost-effective, advanced electronics solutions for the most demanding customers, including many of the world’s largest satellite broadcast and mobile operators and their associated OEM suppliers. For more information on MWave Consulting and Shengyang Electronics, please visit their websites at 
+ and
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Blog-Image-3.jpg?ext=.jpg
+    Filename: MaxLinear-Blog-Image-3.jpg
+    Filepath: images\MaxLinear-Blog-Image-3.jpg
+    Size: 245345 bytes

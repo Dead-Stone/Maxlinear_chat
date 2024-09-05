@@ -1,0 +1,25 @@
+Title: Optomind and MaxLinear Demonstrate 800G LRO Optical Modules and AOCs at OFC2024
+Date: 2024-03-21
+URL: https://www.maxlinear.com/news/press-releases/2024/optomind-and-maxlinear-demonstrate-800g-lro-optical-modules-and-aocs-at-ofc2024
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- MaxLinear, Inc., a leading provider of high-speed interconnect ICs enabling data center, metro, and wireless transport networks, and Optomind (headquartered in Korea, with high-volume manufacturing in Vietnam), today announce the demonstration of 800G half re-timed linear receive optics (LRO) optical modules and AOCs leveraging Optomind’s patented optical assembly capabilities and MaxLinear’s Keystone Multimode 5nm 800G Tx-ONLY DSP with integrated VCSEL drivers. The technology will be demonstrated at the Optical Fiber Communication (OFC) Conference in San Diego from March 26-28, 2024 at MaxLinear’s booth (4501).
+800G half re-timed LRO optical modules and AOCs play a crucial role in enabling ultra-high-speed data transmission over optical fiber networks, meeting the growing demand for bandwidth in modern communication and computing systems. The LRO design involves a partial re-timing of the received optical signal to improve its quality and reliability. In active optical cables, this eliminates the need for separate transceivers and optical connectors, providing a cost-effective and robust solution for short-reach optical connections. The demonstration at OFC2024 will showcase an LRO optical module/AOC solution with significantly reduced latency and best-in-class power consumption for an 800G transceiver.
+“The AI/ML market demands solutions with lowest possible power and latency to scale effectively,” said Drew Guckenberger, VP of High Speed Interconnect at MaxLinear. “LRO solutions are one vehicle to achieve those goals. Through our continued, strong partnership with Optomind, we are pleased to be able to quickly provide a volume capable LRO solution for our key customers, addressing their real, immediate needs in the space.”
+Optomind's groundbreaking optical engine solution integrates optics and mechanics seamlessly, boasting distinctive designs and a simplified structure for enhanced efficiency. With its patented prealigned OSA architecture, Optomind revolutionizes manufacturing processes, eliminating the need for complex alignment equipment. This innovative approach promises to be a game-changer in ultra-high volume production, offering significant cost reductions and streamlining operations with its nimble and straightforward methodology.
+“Today we are pleased to show our leadership in the burgeoning AI/ML market,” said Yung Son, Chief Marketing Officer at Optomind. “Leveraging our existing partnership with MaxLinear to build LRO optical modules and AOCs allows us to, once again, provide best-in-class solutions for our customers.”
+Optomind (booth 5822) and MaxLinear (booth 4501) will both be exhibiting at the Optical Fiber Communication (OFC) Conference in San Diego from March 26-28, 2024.
+Optomind, Inc. is the most advanced optical interconnect solution provider in data center including AI and HPC network. Our advanced optical engine and innovative O-EBO optical connector enabled 800Gbps and 400Gbps Gearbox transceiver for AI/ML system to meet the requirements. We are supplying the product in volume to support increasing demand. Sophisticated OSA assembly is conducted in Suwon, South Korea where its headquarters is located and downstream production is done at the facility in Hanoi, Vietnam.
+MaxLinear, Inc. (Nasdaq: MXL) is a leading provider of radio frequency (RF), analog, digital, and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+MaxLinear, the MaxLinear logo, any other MaxLinear trademarks are all property of MaxLinear, Inc. or one of MaxLinear's subsidiaries in the U.S.A. and other countries. All rights reserved.
+All third-party marks and logos are trademarks or registered trademarks of their respective holders/owners.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/c8a9fe0f-e0ad-424a-80f4-8d3270dc3ea6/Linkedin-PR-Optomind-MaxLinear-(1).jpg?width=1280&height=720&ext=.jpg
+    Filename: Linkedin-PR-Optomind-MaxLinear-(1).jpg
+    Filepath: images\Linkedin-PR-Optomind-MaxLinear-(1).jpg
+    Size: 456641 bytes
+  - URL: https://www.maxlinear.com/getmedia/c8a9fe0f-e0ad-424a-80f4-8d3270dc3ea6/Linkedin-PR-Optomind-MaxLinear-(1).jpg?width=1280&height=720&ext=.jpg
+    Filename: Linkedin-PR-Optomind-MaxLinear-(1).jpg
+    Filepath: images\Linkedin-PR-Optomind-MaxLinear-(1).jpg
+    Size: 456641 bytes

@@ -1,0 +1,65 @@
+Title: MaxLinear’s 88LX5152+88LX2720 G.hn Chipset Selected by Comtrend for its New Family of PowerGrid Devices
+Date: 2020-08-25
+URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear%E2%80%99s-88lx5152-88lx2720-g-hn-chipset-selecte
+Content:
+– August 19, 2020 – MaxLinear Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, today announced that Comtrend has selected MaxLinear G.hn technology for use in three new PowerGrid broadband connectivity products.
+
+ 
+
+“Comtrend selected MaxLinear G.hn technology many years ago with the key objective of providing the most stable home network backbone for operators’ deployments,” said Frank Chuang, Vice President of Marketing for Comtrend. “G.hn powerline technology eliminates the need to install wired Ethernet cables or Wi-Fi backhaul devices, reducing costs for network operators. By utilizing the G.hn Wave-2 networking chipset, our new family of PowerGrid products offers the best performance with data rates four times higher than legacy powerline technologies and we continue to be at the forefront of the technology that powers the home networking experience.”
+
+ 
+
+“Broadband to the home and connectivity around the home are of extreme importance to broadband operators and their customers, especially as demand for low-latency and high-bandwidth access are of paramount importance while everyone continues to work from home.  We are proud to continue our successful partnership with Comtrend and excited to see their new PowerGrid products utilize our G.hn Wave-2 devices to enable all the performance and power efficiency capabilities needed to meet and exceed the needs of these operators and their customers,” said Will Torgerson, Vice President & General Manager of MaxLinear’s Broadband Group.
+
+
+
+For more information on MaxLinear's G.hn technology, visit  
+
+  
+
+
+
+ 
+
+
+ delivers a 2-in-1 solution with a Direct Current (DC) output of 30W for a multitude of home gateways, set-top box (STB) and Wi-Fi Access Points. It is available in EU and US plug versions and has been granted CE, FCC and UL certifications. Eliminating the need for additional wiring, the adapter comes pre-configured to allow convenient installation in a matter of minutes. 
+
+
+ is designed for IP security surveillance, featuring two integrated 802.3at PoE ports efficiently providing both data and power to IP cameras and other PoE devices. Furthermore, the Wi-Fi host spot and LTE/5G access is for 802.3at with a shared 30W power budget. It also supports TR-069 for remote management allowing Internet Service Providers (ISPs) to remotely monitor and reset PoE outputs to promptly resolve any issues with the subscribers’ home network, resulting in increased customer satisfaction and reduced operational costs for the ISP.
+
+
+ provides a single concentration of wired servers in one place, including Network Attached Storage (NAS), Media Servers, Network Video Recorder (NVR) and Printer servers, and supports G.hn Wave2 technology with 100MHz MIMO operation. Offering quick and easy installation, it can be used with two fully- programmable reception and transmission paths to achieve up to 2Gbps over powerline.
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+Comtrend, with 30 years of experience, has become one of the leading global providers of advanced networking solutions. Comtrend designs, manufactures, and markets a wide range of networking equipment and software. Service providers, VARs, businesses and consumers look to Comtrend for ACS managing system, as well as broadband gateways, latest Wi-Fi, Power-line, Coax and surveillance technologies. People in businesses and homes around the world trust Comtrend to make their technology easier and more dependable. For more information, including Comtrend’s full lineup of networking solutions, please visit 
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s 88LX5152 and 88LX2720, including but not limited to potential market opportunities, functionality, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent the 88LX5152 and 88LX2720 will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expected,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as applicable. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Gigabit-Connectivity-Power-Line.jpg?ext=.jpg
+    Filename: MaxLinear-Gigabit-Connectivity-Power-Line.jpg
+    Filepath: images\MaxLinear-Gigabit-Connectivity-Power-Line.jpg
+    Size: 117998 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Gigabit-Connectivity-Power-Line.jpg?ext=.jpg
+    Filename: MaxLinear-Gigabit-Connectivity-Power-Line.jpg
+    Filepath: images\MaxLinear-Gigabit-Connectivity-Power-Line.jpg
+    Size: 117998 bytes

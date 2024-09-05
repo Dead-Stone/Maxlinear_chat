@@ -1,0 +1,67 @@
+Title: MaxLinear Announces Industry’s First Quad-Port PHY Optimized for 2.5GBASE-T Enabling Cost-Effective 2.5G Ethernet Multiport Applications 
+Date: 2021-03-03
+URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-announces-industry%E2%80%99s-first-quad-port-phy
+Content:
+– March 3, 2021 – MaxLinear, Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, announced today the extension of its Ethernet portfolio with the GPY241, a quad-port 2.5GBASE-T Ethernet PHY. The new device adds to the Company’s existing portfolio of 1 Gigabit PHYs, 2.5 Gigabit PHYs and 1 Gigabit switches. The GPY241 is the industry’s first quad-port PHY optimized for 2.5GBASE-T Ethernet and adds USXGMII interface capability.  It enables switch and gateway manufacturers to provide multiple cost-effective 2.5G ports in High-Speed Switches, Gateways, and Routers.
+
+ 
+
+The market has recently seen a rapid adoption of 2.5GBASE-T, mostly driven by new and growing broadband applications with bandwidth requirements above 1G such as 10GPON modems, DOSCIS 3.1 cable modems, Wi-Fi 6 (802.11 ax) routers, etc.  The adoption of 2.5G Ethernet will continue to grow as more PCs offer 2.5G Ethernet ports and the demand for 2.5G speeds expands into enterprise and industrial single and multiport applications. 2.5GBase-T Ethernet is clearly emerging as the mainstream, mass-market technology, and as a natural successor to 1Gb Ethernet.
+
+ 
+
+“The market transition from 1G to 2.5G is well underway, with 50 million ports in the market today. It is expected to approach 1 billion ports within the next 5 years,” said James Lougheed, Vice President of Marketing for High Performance Analog at MaxLinear.  “Being the first to offer a quad-port PHY solution optimized for multiport 2.5GbE applications, supporting a cumulative bandwidth of 10Gb, puts us in a unique position to support this fast-growing market.”
+
+ 
+
+
+
+Like MaxLinear’s existing single-port 2.5GbE PHYs (GPY211, GPY212, and GPY215), the quad-port GPY241 is a feature-rich, cost-performance optimized Ethernet transceiver solution. The GPY241 supports IEEE802.3 modes 2.5GBASE-T, 1000BASE-T, 100BASE-TX and 10BASE-Te. It provides great interoperability for both high data rate connections and connections to legacy 100BASE-TX and 10BASE-T devices. In addition, the GPY241 supports timestamp insertion and retrieval according to the IEEE 1588v2 standard to support industrial, transportation and mobile networking applications that require time synchronization.
+
+ 
+
+This new Ethernet PHY can be connected to a switch or gateway MAC interface by either a single four-pin 10G USXGMII-4×2.5G interface or four SGMII+ interfaces. It includes an on-board low EMI line driver with integrated termination that simplifies PCB design. The device requires only 2 (using SGMII+) or 3 (using USXGMII) power supply rails. It features an integrated Smart-AZ module to support Energy Efficient Ethernet (EEE, IEEE802.3az) with legacy MACs and a smart LED brightness control for link status display.
+
+ 
+
+The GPY241 includes all typical PHY features such as jumbo frames up to 10kB, cable diagnostics, Wake-on-LAN (WoL) support, auto MDI/MDIX, auto polarity reversal and auto down speed for CAT3 or poor cables. It also features a typical power consumption of 1W per port in 2.5GBASE-T mode. For reduced power consumption during periods of low traffic, Energy Efficient Ethernet (EEE) is supported for 2.5GBASE-T, 1000BASE-T and 100BASE-TX. Additional power saving can be achieved by using the SoCs Wake-on-LAN (WoL) functionality.
+
+ 
+
+The GPY241 is available now in a compact RoHS compliant 12mm x 12mm FC-BGA-256 package. An industrial grade version, the GPY245, will be available later in 2021.
+
+ 
+
+Samples and evaluation boards are available.  For more information, visit 
+.
+
+ 
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s GPY241 and its Ethernet portfolio, including but not limited to potential market opportunities, including with respect to the 2.5GbE market, functionality, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new or existing products will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; and uncertainties concerning how end user markets for our products will develop.  Other risks potentially affecting our business include risks relating to acquisition integration; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises such as the Covid-19 pandemic or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K for the year ended December 31, 2020, as filed with the Securities and Exchange Commission. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Industry-1st-Quad-Port-PHY-2-5G.jpg?ext=.jpg
+    Filename: MaxLinear-Industry-1st-Quad-Port-PHY-2-5G.jpg
+    Filepath: images\MaxLinear-Industry-1st-Quad-Port-PHY-2-5G.jpg
+    Size: 103055 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Industry-1st-Quad-Port-PHY-2-5G.jpg?ext=.jpg
+    Filename: MaxLinear-Industry-1st-Quad-Port-PHY-2-5G.jpg
+    Filepath: images\MaxLinear-Industry-1st-Quad-Port-PHY-2-5G.jpg
+    Size: 103055 bytes

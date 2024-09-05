@@ -1,0 +1,65 @@
+Title: MaxLinear Partners with Advantech for PCIe UARTs and Multiprotocol Serial Transceivers for High-Performance Modular Industrial PCs
+Date: 2022-04-13
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-partners-with-advantech-for-pcie-uarts-a
+Content:
+Carlsbad, CA –April 13, 2022 – Today MaxLinear (NASDAQ: MXL) announced that Advantech (TWSE: 2395), a global leader in Industrial IoT, is using the company's multiprotocol transceivers and PCIe UARTs in Industrial PCs (IPC) built for a wide range of manufacturing and process control applications.  
+
+ 
+
+The high demand for resource optimization in the manufacturing process drives the move to industrial IoT and digitalization. According to a 2021 report by MarketsandMarkets
+, the Industrial PC market is projected to reach USD 6.1 billion by 2026.
+
+ 
+
+Global manufacturers must upgrade their systems for better production efficiency while meeting safety and security requirements for production plants. The Advantech solution features high computing power, legacy compatibility and a modularized design that supports change/upgrade add-on cards and adds new functions as production needs require. 
+
+ 
+
+"We are proud to have a strong, long-term partnership with Advantech, who is at the cutting edge of high-performance industrial automation solutions," said James Lougheed, Vice President of Marketing, High-Performance Analog for MaxLinear. "Their Industrial PCs exemplify the power of combining PCIe UARTs with multiprotocol transceivers for modern production lines."
+
+ 
+
+Companies turn to leaders such as Advantech for a high-end IPC solution. And Advantech has turned to MaxLinear for PCIe UARTs and multiprotocol serial transceivers because of the software configurability and architectural flexibility that MaxLinear enables for serial connectivity in modern IPCs.
+
+ 
+
+ "The current industrial automation market is trending towards increasingly compact form factors and intelligent designs that offer space savings and boost efficiency," said Carol Huang, Advantech’s Senior Director Procurement. "The MaxLinear serial transceivers and PCIe UARTs provide the flexibility and features needed for the new generation of Industrial PCs that serve our customers."
+
+ 
+
+Visit the MaxLinear website for more information on 
+ and 
+
+ 
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit www.maxlinear.com.
+
+
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+Advantech, a global leader in industrial IoT, has been ranked fourth place on the Best Global Taiwan Brands list in 2020, with a brand value of US$626 million and a growth rate of 13%. Advantech’s corporate vision of "Enabling an Intelligent Planet" is from several aspects including corporate governance, business strategy, industry-academia partnership, and employee care. In recent years, in line with technology trends in IoT, big data and AI, Advantech’s WISE-PaaS IoT cloud platform was launched to expand industrial application solutions across many different vertical markets. In addition, in order to promote vigorous IoT development, Advantech actively invites partners in the ecosystem to co-create solutions combining all their domain know-how. This will accelerate the completion of more smart applications and realize the vision of an intelligent planet.
+
+ 
+
+
+
+This press release contains "forward-looking" statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s multi-protocol transceivers and PCI UARTs, including but not limited to, with respect to anticipated growth in the Industrial PC market, partnership with Advantech, potential market opportunity, and the flexibility, functionality, performance, integration and benefits of use of such products, including in manufacturing and process control applications. These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new and existing products will affect our future revenues or financial performance. Forward-looking statements are based on management's current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as "will be," "will," "expect," "anticipate," "continue," or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises, such as the Covid-19 pandemic, geopolitical conflicts, such as the military conflict in Ukraine and related sanctions against Russia and Belarus, or natural disasters. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear's filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear's most recent Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as applicable. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Advantech.jpg?ext=.jpg
+    Filename: MaxLinear-Advantech.jpg
+    Filepath: images\MaxLinear-Advantech.jpg
+    Size: 165155 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Advantech.jpg?ext=.jpg
+    Filename: MaxLinear-Advantech.jpg
+    Filepath: images\MaxLinear-Advantech.jpg
+    Size: 165155 bytes

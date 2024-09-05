@@ -1,0 +1,38 @@
+Title: MaxLinear Expands its Diverse Ethernet Portfolio with 2.5G Ethernet switches and eight port 2.5G Enterprise PHYs
+Date: 2023-05-25
+URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-expands-its-diverse-ethernet-portfolio-w
+Content:
+CARLSBAD, Calif.--(BUSINESS WIRE)-- 
+ (Nasdaq: MXL), a global leader in wired network solutions, today announced it is deepening its commitment to expanding its next-gen 
+ portfolio with a new line of 2.5G Ethernet products. The family is comprised of new 2.5G Ethernet switches and eight port 2.5G Enterprise PHYs.​ The chipsets will anchor MaxLinear’s already robust Ethernet portfolio - which includes 10/100, 1G, and 2.5G bridges, PHYs and switches. MaxLinear will demonstrate the new 2.5G solutions at 
+, May 30 – June 2, 2023 in Taipei, Taiwan.
+The demand for more robust Ethernet products is growing as 2.5G speeds expand into enterprise, retail, and industrial single and multiport applications, and more PCs offer 2.5G Ethernet ports. With new access technologies like xGPON and new Wi-Fi standards increasing the demand for higher LAN bandwidth​, gigabit Ethernet is giving way to 2.5G Ethernet which can extend the bandwidth over existing CAT5e cable infrastructure by a factor of 2.5 comparatively. According to 2022 research by Allied Market Research, the global ethernet switch market was valued at $17.2 billion in 2021, and is projected to reach $26.1 billion by 2031, growing at a CAGR of 4.4% from 2022 to 2031. The rising demand for effective network infrastructure for varied application requirements is expected to contribute to this growth.
+“With the exponential growth of data-intensive applications, cloud services, and emerging technologies, 2.5G Ethernet brings a crucial solution, providing a significant boost in bandwidth without requiring costly infrastructure expenditures,” said Sameh Boujelbene, Vice President, Data Center and Campus Ethernet Switch Market Research at 
+. “As the market continues to evolve, 2.5G Ethernet is poised to become an indispensable tool, empowering businesses to unlock their full potential in the age of data-driven innovation."
+"MaxLinear has a 20-year history of being an innovator and major supplier of Ethernet PHYs and switches," said James Lougheed, Vice President & GM, High Performance Analog at MaxLinear. "The 2.5G standard has continued to replace lower speed 1G solutions in the market with an exponentially increasing amount of end points adopting the technology. This new Octal Switch/PHY and Octal PHY family of products will now leverage all those upgraded end points by equipping small-medium business & Enterprise Switches with cost effective 2.5G PHY and Switch solutions.”
+MaxLinear provides a portfolio of leading-edge Ethernet PHYs, bridges, and switches that are perfectly suited for next generation routers, switches, and gateways. MaxLinear’s 1G Ethernet PHY, 2.5G Ethernet PHY, and 1G Ethernet switch solutions offer the connectivity required for bandwidth-hungry video streaming, gaming, and video conferencing. The company was the first to deliver single- and quad-port optimized 2.5GBase-T PHYs to the market in 2021, and now leads the market again with the world’s first Ethernet switch with eight integrated 2.5G PHYs.
+“We continue to strengthen our portfolio, offering solutions covering the full range of applications for consumers, industrial, and enterprise,” said Raman Sargis, Senior Director of Marketing, Interface at MaxLinear. “This new MXL862XX family provides customers with a rich set of features while being substantially lower power and cost optimized relative to 10G and unoptimized 2.5G PHYs.”
+MaxLinear has shipped more than 1 billion ports of Ethernet physical layer (PHY) transceivers and switches. In addition, the company is a participating member of the Ethernet Alliance, a global consortium of system and component vendors, industry experts, and university and government professionals committed to Ethernet technology's success and expansion.
+Integrated 16 port Switch with 10/100/1000/2.5GBASE-T PHYs (5 or 8 ports)
+Two optional 10G uplink ports (MxL862x2)
+Power: 6.5W/8 Port switch, 4.3W/5 Port switch, 5.5W/8 port PHY
+400MHz ARC CPU: Web smart
+Unblocking wire speed switching
+Feature rich switch with VLAN, QinQ, QoS, traffic shaping
+BGA-277 12x12mm, 0.628mm pitch switch
+BGA-256 13x13, 0.8mm pitch 8 port PHY
+MaxLinear will demonstrate its new 2.5G solutions at Computex 2023 in the Taipei Nangang Exhibition Center, Nangang Hall 1- 4F, Booth M1413. The trade show takes place from Tuesday, May 30 – Friday, June 2.
+Products are currently available for early sampling to lead customers and partners. Production release will be Q1 2024.
+
+MaxLinear, Inc. (Nasdaq: MXL) is a leading provider of radio frequency (RF), analog, digital, and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Ethernet-Switch_Blog-IMG.jpg?ext=.jpg
+    Filename: Ethernet-Switch_Blog-IMG.jpg
+    Filepath: images\Ethernet-Switch_Blog-IMG.jpg
+    Size: 217113 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Ethernet-Switch_Blog-IMG.jpg?ext=.jpg
+    Filename: Ethernet-Switch_Blog-IMG.jpg
+    Filepath: images\Ethernet-Switch_Blog-IMG.jpg
+    Size: 217113 bytes

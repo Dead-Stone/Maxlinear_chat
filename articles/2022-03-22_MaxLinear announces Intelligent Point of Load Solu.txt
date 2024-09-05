@@ -1,0 +1,59 @@
+Title: MaxLinear announces Intelligent Point of Load Solutions at APEC 2022
+Date: 2022-03-22
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-announces-intelligent-point-of-load-solu
+Content:
+– March 22, 2022 – MaxLinear Inc. (NASDAQ: MXL) announced a new line of Intelligent POLs (iPOLs) supporting server, data center, networking, and wireless communications applications. The MxL76xxP series are step-down, synchronous regulators available in four versions based on current rating (6A, 12A, 20A, 30A). Combined with a PMBus digital interface, the devices allow for precision control and monitoring.
+
+ 
+
+Modern data centers require complete control and monitoring of all voltage rails, and the MxL76xxP family meets these needs in a single chip solution. Integrating the output power FETs, control loop and digital telemetry into a single small package allows for board space savings and improved performance. The PMBus interface supports monitoring of input and output voltage and current while enabling control of all setpoints. Performance and system thermals are optimized by adjusting the output on the fly as required with modern CPUs/ASICs using Dynamic Voltage Scaling (DVS).
+
+ 
+
+"Power semiconductors in data centers are forecast to be a $2.1 billion market by 2025 with a CAGR of 6.6% from 2020 – 2025. Edge-located servers are the fastest growing market segment within data centers and are forecast to grow five-fold from 2022 to 2025. This explosive growth will require innovative solutions to meet increasingly stringent power efficiency requirements," said Paul Pickering, Power Semiconductor Analyst at Omdia.
+
+ 
+
+The MxL76xxP family, with its small package size and digital telemetry, offers best-in-class performance and power density, reducing system cost and board real estate. The parts are designed to operate from 3V to 16V inputs, supporting both data center distribution rails and PCIe cards. Integrated synchronous FETs rated for 6A, 12A, 20A, or 30A allow the right device to be selected for any given application, optimizing the efficiency and cost of the solution. Using the MaxLinear PowerArchitect GUI, the entire setup, control and monitoring of a design can be completed without external design components, reducing development time and complexity.
+
+ 
+
+"MaxLinear is committed to delivering innovative power management solutions," said Chance Dunlap, Sr Director, Power Management. "The MxL76xxP family integrates our fast transient response technology with a digital interface and control that provides an industry-leading iPOL with the highest power density."
+
+ 
+
+MaxLinear will showcase the MxL76xxP family at the APEC Conference in Houston, Texas, on March 21 through 24, Booth #1606.
+
+ 
+
+The four versions are the MxL7630P, MxL7620P, MxL7612P, MxL7606P, which correspond to an output current rating of 30A, 20A, 12A, and 6A. They are available in 4x5.5mm, 4x4.5mm, 4x4mm, or 4x3.5mm QFN packages. To learn more and to order samples, visit 
+
+ 
+
+
+
+MaxLinear, Inc. (NASDAQ: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+ 
+
+
+
+This press release contains "forward-looking" statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to the MxL7630P, MxL7620P, MxL7612P and MxL7606P step-down synchronous regulators, including but not limited to, with respect to the data center market, potential market opportunity, and the functionality, performance, integration and benefits of use of such products, including in combination with a PMBus digital interface
+. These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new and existing products will affect our future revenues or financial performance. Forward-looking statements are based on management's current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as "will be," "will," "expect," "anticipate," "continue," or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises, such as the Covid-19 pandemic, geopolitical conflicts, such as the military conflict in Ukraine and related sanctions against Russia and Belarus, or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear's filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear's most recent Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as applicable. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-iPoLs.jpg?ext=.jpg
+    Filename: MaxLinear-iPoLs.jpg
+    Filepath: images\MaxLinear-iPoLs.jpg
+    Size: 136331 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-iPoLs.jpg?ext=.jpg
+    Filename: MaxLinear-iPoLs.jpg
+    Filepath: images\MaxLinear-iPoLs.jpg
+    Size: 136331 bytes

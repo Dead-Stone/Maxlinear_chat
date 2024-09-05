@@ -1,0 +1,46 @@
+Title: MaxLinear Launches Family of Half-Duplex RS-485 Transceivers Designed for Peak Performance in Demanding Industrial Environments
+Date: 2023-06-07
+URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-launches-family-of-half-duplex-rs-485-tr
+Content:
+– (BUSINESS WIRE) – MaxLinear, Inc. (Nasdaq: MXL), a technology leader transforming global connectivity, announced today the launch of a new family of RS-485 
+specifically designed to ensure reliable communication in harsh industrial environments, offering ultra-low electromagnetic interference (EMI). The transceivers are rated for environments up to 125C and can reliably transmit data at distances over 1 kilometer to minimize unscheduled downtime and increase productivity. The transceivers are available immediately.  
+
+ 
+
+The new family again expands MaxLinear’s serial transceiver portfolio and builds on more than 40 years of designing leading industrial communications solutions. The new offering consists of four discrete chips within two families: The MxL8310x and the MxL8311x. The MxL8310x devices operate from a 5V power supply and MxL8311x devices operate from 3V to 5.5V power supply. The transceivers are suitable for bidirectional communication on balanced multi-point bus transmission lines and comply with both RS-485 and RS-422 EIA standards.
+
+ 
+
+“This new line of RS-485 transceivers offers best in class features, including a unique combination of slew rate control for low EMI, IEC 61000-4-2 ESD protection, and EFT,” said 
+. “With the consolidation of suppliers in the industrial analog semiconductor market, and the growing desire for customers to have multiple vendors for supply assurance, we’re delivering on customers’ requests to expand our portfolio in this important backbone of the industrial market.”
+
+ 
+
+Available in industry standard package and pinout, the new transceivers cover a broad range of applications within industrial connectivity and smart manufacturing, including factory automation, robotics, motor drives, building automation, security, HVAC and solar, textiles, point-of-sale, and many more. These new RS-485 transceivers add to MaxLinear’s growing portfolio of solutions for the expanding industrial communications market. According to MarketsandMarkets, the industrial communication market size is projected to reach $26.8 billion by 2027, growing at a CAGR of 7.4% during the forecast period.
+
+ 
+
+“These new transceivers can provide a huge upside for interface design and procurement engineers looking to de-risk their supply chains,” said Jon Alexander, Director of Marketing, Serial & Bridge Products at MaxLinear. “Our focus on reliability, robustness, and interoperability makes this family well suited for a broad range of applications in demanding environments.”
+
+ 
+
+
+
+The new line of transceivers ensures that the backbone of intelligence in modern industrial systems, connectivity, becomes the strongest link in the communications system.
+
+ 
+ The bus pins are designed to tolerate IEC 61000-4-4 electrical fast transients (EFT), protecting the system from bursts of fast high voltage transients that are caused by switch contactors, relays, faulty power connections or other sources.
+ Ensures reliable operation under a wide range of applications and in systems where the power supply may drop.  It also allows for single product qualification for use in both 3.3V and 5V systems.
+ Slew limited output drivers reduce EMI transmission to protect sensitive equipment nearby and reduce reflections caused by cables that are improperly terminated.
+ Low power shutdown mode can extend the life of batteries in applications such as industrial notebooks, sensors, and solar-powered applications.
+ The combination of integrated EFT and ESD protection, slew rate limiting drivers, and extended operating conditions (up to 125C), ensures this family of products is well suited for a broad range of applications.
+
+Images:
+  - URL: https://www.maxlinear.com/getmedia/c5c5bce3-42d3-43c5-99c4-b26d2ffefe95/MXL8310x_MxL8311x_Blog-IMG-(1).jpg?width=800&height=456&ext=.jpg
+    Filename: MXL8310x_MxL8311x_Blog-IMG-(1).jpg
+    Filepath: images\MXL8310x_MxL8311x_Blog-IMG-(1).jpg
+    Size: 202611 bytes
+  - URL: https://www.maxlinear.com/getmedia/c5c5bce3-42d3-43c5-99c4-b26d2ffefe95/MXL8310x_MxL8311x_Blog-IMG-(1).jpg?width=800&height=456&ext=.jpg
+    Filename: MXL8310x_MxL8311x_Blog-IMG-(1).jpg
+    Filepath: images\MXL8310x_MxL8311x_Blog-IMG-(1).jpg
+    Size: 202611 bytes

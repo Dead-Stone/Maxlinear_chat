@@ -1,0 +1,51 @@
+Title: MaxLinear Develops High Efficiency 5G Open RAN Radio Platform on Intel Agilex FPGA
+Date: 2022-02-15
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-develops-high-efficiency-5g-open-ran
+Content:
+CARLSBAD, CA – February 15, 2022 – 
+ (NASDAQ: MXL) today announced its collaboration with Intel on a new reference design for next-generation 5G infrastructure Radio Units (RUs) that delivers industry-leading power amplifier (PA) performance and efficiency.
+
+
+
+Combining Intel's high performance and low power Agilex FPGA family with MaxLinear RF transceivers and MaxLIN
+ ultra-wideband digital predistortion (DPD) solution allows developers to deliver new radio units rapidly and cost-effectively with pre-integrated and pre-tested cutting-edge linearization capabilities.
+
+
+
+Radio Access Network (RAN) product developers are challenged to deliver quickly higher bandwidth, more compact, and lighter radios that support new 5G spectrum while simultaneously increasing energy efficiency. Implementing higher bandwidths at higher 5G RF frequencies also drives engineers to use new PA technologies such as Gallium Nitride (GaN) and Doherty architectures. To harness these exciting technologies in practical deployable radios, high-performance DPD signal processing is necessary to linearize the PA output. In addition, designers want a proven off-the-shelf solution for implementing an O-RAN Alliance compliant fronthaul interface. This joint solution addresses these challenges. Together MaxLinear and Intel are combining Intel
+ Agilex™ FPGAs and O-RAN interface IP with MaxLinear RF Transceivers and DPD IP to provide a complete programmable pre-verified software-defined radio (SDR) platform with the highest integration and lowest power consumption for macro, massive MIMO, and small cell applications.
+
+
+
+“The Open RAN ecosystem will immediately benefit from our cooperation with industry leader Intel. Our RU reference platforms, featuring Intel Agilex FPGAs, will provide the most flexible programmable solution with the highest system performance available on the market for global Open RAN radio use cases,” said Brendan Walsh, vice president of MaxLinear’s Wireless Infrastructure Group.  “These high efficiency reference solutions will dramatically reduce the power consumed by 5G radio systems while simultaneously maximizing network performance."
+
+
+
+“MaxLinear’s RF transceivers together with Intel FPGAs and IP deliver 2x performance per watt versus competing FPGAs and can offer a leading portfolio of radio solutions to our wireless systems customers allowing them to speed up time to market,” said Mike Fitton, vice president and general manager of the Intel Programmable Solutions Group's Network Business Division. “This is another strong example of industry collaboration – reducing time and complexity, while dramatically accelerating delivery of advanced 5G solutions.”
+
+
+
+To allow developers to evaluate these solutions and speed up development, Intel and MaxLinear provide a range of development platforms and tools based upon the HiTek Systems Agilex eSOM module and carrier board. To learn more about HiTek Agilex evaluation systems, visit 
+.
+
+ 
+
+
+ The O-RU reference platform consists of the following technical components from Intel and MaxLinear:
+
+Intel's Agilex SoC FPGA devices use heterogeneous 3D system-in-package (SiP) technology to integrate Intel's first FPGA fabric built on 10 nm SuperFin Technology. Leveraging this advanced process technology and 2nd Gen Intel
+ Hyperflex™ FPGA Architecture enables these FPGAs to deliver ~2X better fabric performance per watt when compared to competitive 7 nm FPGA portfolios. Agilex SoC FPGAs offer an integrated quad-core Arm Cortex-A53 processor and a custom logic migration path from FPGA to structured eASIC for cost and power benefits in the high-volume production.
+Intel's O-RAN, Fronthaul, and Low-PHY is a complete set of building blocks required to implement an O-RAN Alliance Split 7.2x compliant O-RU fronthaul interface in an Agilex FPGA. Intel also offers FlexRAN software stack, an O-RAN compliant Split 7.2x software covering High-PHY functionality for O-DU running on Intel Xeon processors. 
+MaxLinear's high-performance RF transceiver portfolio supports up to 400MHz instantaneous bandwidth (IBW) and includes the MxL16xx Quad-RF and MxL155x Octal-RF families. These transceivers are software compatible, creating a single platform solution that customers can leverage for radio applications, including macro, massive MIMO, and small cell.
+MaxLinear's MaxLIN is the industry's leading DPD linearization solution. Its advanced machine learning algorithms exceed the 3
+ Generation Partnership Project (3GPP) and Federal Communications Commission (FCC) unwanted emissions requirements with margin while delivering high PA efficiencies of >50%. This capability dramatically reduces power consumption for an 8-transceiver macro implementation by >10% compared with competitive DPD offerings.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-Intel-Agilex.jpg?ext=.jpg
+    Filename: Maxlinear-Intel-Agilex.jpg
+    Filepath: images\Maxlinear-Intel-Agilex.jpg
+    Size: 235020 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-Intel-Agilex.jpg?ext=.jpg
+    Filename: Maxlinear-Intel-Agilex.jpg
+    Filepath: images\Maxlinear-Intel-Agilex.jpg
+    Size: 235020 bytes

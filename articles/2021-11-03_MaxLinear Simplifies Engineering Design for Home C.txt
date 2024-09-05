@@ -1,0 +1,58 @@
+Title: MaxLinear Simplifies Engineering Design for Home Connectivity Solutions
+Date: 2021-11-03
+URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-simplifies-engineering-design-for-home-c
+Content:
+– November 3, 2021 – MaxLinear Inc. (NYSE: MXL) today announced the immediate availability of a power management integrated circuit (PMIC), the XR77103-MoCA, designed to meet the power needs of MaxLinear MxL370x MoCA 2.0 and MxL371x MoCA 2.5 SoCs.
+
+
+
+ As service providers invest in multi-gigabit broadband infrastructure, Multimedia over Coax Alliance (MoCA
+) solutions are needed to extend this high performance to the in-home network. Home routers and Wi-Fi extenders using MaxLinear MoCA 2.5 technology create a reliable wired backbone that can distribute multi-gigabit speeds seamlessly throughout the home or office.
+
+ 
+
+With the XR77103-MoCA, a highly integrated custom power management device, supporting these chipsets, the engineering process is simplified, reducing development time, minimizing board space and ensuring quality performance.
+
+ 
+
+“MaxLinear is committed to providing a complete solution that ensures faster product design and a more reliable product,” said James Lougheed, Vice President High Performance Analog products. “The MxL7310 was the world’s first fully-integrated circuit to support the multi-gigabit MoCA 2.5 standard. With the XR77103-MoCA PMIC, MaxLinear provides the same level of integration and performance to the power supply.”
+
+ 
+
+The XR77103-MoCA PMIC is custom designed to provide 3 voltage rails with exact sequencing requirements for the MxL37xx SoCs and accompanying Ethernet PHY.  With the addition of MaxLinear GPY211 2.5GbE PHY, the entire solution has been qualified, demonstrating world-class performance on MoCA loopback tests through a -60dB attenuator at 2.5GB. 
+
+ 
+
+The XR77103-MoCA can operate from any voltage input from 4.5V to 14V and is offered in a 4x4mm QFN package. With three highly efficient, synchronous buck regulators integrated into the device, it saves 14 external components over prior solutions reducing board space by 25%. The three outputs are pre-set to 0.9V, 1.8V, and 3.3V as the system requires with exact timing handled by the PMIC sequencing engine. The 0.9V core rail can supply the 3A peaks demanded by the SoC and is compatible with SoC DVS, Dynamic Voltage Scaling, to optimize performance.
+
+ 
+
+Visit 
+ to learn more about the MaxLinear XR77103-MoCA.
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s XR77103-MoCA power management integrated circuit, including but not limited to potential market opportunities, functionality, performance, integration, including with MaxLinear’s MxL370x MoCA 2.0 and MxL371x MoCA 2.5, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new or existing products will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; and uncertainties concerning how end user markets for our products will develop. Other risks potentially affecting our business include risks relating to our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises, such as the Covid-19 pandemic, or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K for the year ended December 31, 2020, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as applicable. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-XR77103-MoCA.jpg?ext=.jpg
+    Filename: Maxlinear-XR77103-MoCA.jpg
+    Filepath: images\Maxlinear-XR77103-MoCA.jpg
+    Size: 102587 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-XR77103-MoCA.jpg?ext=.jpg
+    Filename: Maxlinear-XR77103-MoCA.jpg
+    Filepath: images\Maxlinear-XR77103-MoCA.jpg
+    Size: 102587 bytes

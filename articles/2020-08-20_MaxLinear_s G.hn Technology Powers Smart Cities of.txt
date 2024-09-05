@@ -1,0 +1,52 @@
+Title: MaxLinear’s G.hn Technology Powers Smart Cities of the Future with UVAX Connected Street Lighting Solutions
+Date: 2020-08-20
+URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear%E2%80%99s-g-hn-technology-powers-smart-cities-of
+Content:
+– August 20, 2020 – MaxLinear Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, today announced that UVAX has selected a MaxLinear G.hn Wave-2 chipset to develop solutions for Smart Cities.
+
+ 
+
+“UVAX solutions are driving interconnectivity as a powerful tool for offering better services and lifestyles to citizens. By adding MaxLinear G.hn technology to its innovative solutions for Smart Cities, UVAX builds on a strong G.hn backbone for powering the outdoor lighting network of the city,” said Antonio Royo, Chief Executive Officer at UVAX. “We are converting the underutilized public lighting infrastructure into a data highway to interconnect thousands of sensors and IP devices and aggregating them into a TCP/IP system with remote control features.”
+
+ 
+
+“MaxLinear is delighted to see its world-renowned G.hn technology implemented in the future-proof grid of the Smart Cities,” said Will Torgerson, Vice President & General Manager of MaxLinear’s Broadband Group. “The G.hn-based UVAX solutions will set up an energy efficient platform for Smart Cities of the future allowing a whole new range of applications to be built on the robustness of G.hn technology.”
+
+ 
+
+Scalability and remote control are key advantages of the UVAX solution, enabling gradual integration of IP products ranging from security devices to adaptive lighting, information panels and highway safety signs. More than 150 cities worldwide have benefitted from the UVAX CSL solution, which integrates video surveillance, sensor networks, Wi-Fi access points and EV charging stations. All communication is enabled through G.hn implemented in the powerlines of the LED streetlight network.
+
+ 
+
+ 
+
+
+
+
+A device installed in each streetlight, grouping all nodes into a network based on the existing outdoor lighting infrastructure
+Broadband powerline communication solution which enables aggregating different technologies (Wi-Fi) in one single system
+Gateway installed in the electrical cabinet that controls all nodes in a segment
+Central management software which can be accessed from anywhere on the Internet using a computer, laptop or mobile device
+Users can monitor and configure the entire system remotely
+Any IP device can be integrated in the network for adding countless services (alarm systems, air conditioning, smart irrigation, adaptive lighting, information panels etc.)
+Citizen centric technology
+Global sustainability
+Open and scalable platform
+Provides additional broadband channels to the communications ecosystem
+Capitalizes on the existing powerline wiring
+P2P control of streetlights and complementary services
+Short-term RoI
+Real-time video streaming
+Increased efficiency: cost savings of up to 70%
+Intrinsic security throughout the system
+Standards based solution
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLInear-Technology-Powers-Smart-Cities.jpg?ext=.jpg
+    Filename: MaxLInear-Technology-Powers-Smart-Cities.jpg
+    Filepath: images\MaxLInear-Technology-Powers-Smart-Cities.jpg
+    Size: 212896 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLInear-Technology-Powers-Smart-Cities.jpg?ext=.jpg
+    Filename: MaxLInear-Technology-Powers-Smart-Cities.jpg
+    Filepath: images\MaxLInear-Technology-Powers-Smart-Cities.jpg
+    Size: 212896 bytes

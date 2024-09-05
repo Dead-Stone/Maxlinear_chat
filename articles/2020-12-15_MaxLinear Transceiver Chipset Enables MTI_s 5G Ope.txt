@@ -1,0 +1,74 @@
+Title: MaxLinear Transceiver Chipset Enables MTI’s 5G Open RAN Radio Platform
+Date: 2020-12-15
+URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-transceiver-chipset-enables-mti%E2%80%99s-5g-ope
+Content:
+– December 15, 2020 – 
+ (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, announced today that the company’s wireless transceiver chipsets are used in Microelectronics Technology Inc. (MTI) Remote Radio Units (RRUs) targeting specific greenfield Open RAN deployments for 4G and 5G applications.
+
+ 
+
+Open RAN provides operators with a new opportunity to build their radio networks using interoperable network equipment sourced from different best-in-class infrastructure suppliers. High-performance, flexible, and cost-effective Radio Units (RUs) are key elements to every Open RAN network. MaxLinear's solutions provide a proven software-defined radio platform that enables equipment vendors to rapidly deliver Open RAN RUs that meet these goals with industry-leading features, flexibility, form factor, and power efficiency.
+
+ 
+
+“Mobile operators are pulling Open RAN into the market rapidly because the cost savings and flexibility of Open RAN enable them to address opportunities that were previously unaffordable,” said Joe Madden, Founder and President of Mobile Experts, a leading wireless technology market research firm. “By 2025, roughly 7 million radios will be sold annually, independent of the baseband processors. As a result, we expect the market share of smaller suppliers to quadruple over the next five years, opening up new opportunities for innovative semiconductor suppliers.”
+
+ 
+
+MTI’s Open RAN radios support new 5G Open RAN network deployments with the O-RAN 7.2x interface. These new 5G radios utilize MaxLinear RF transceiver chipsets to provide a high-performance, robust, cost-effective, and flexible platform allowing MTI to quickly support new 5G Open RAN radio deployments with multiple customers.
+
+ 
+
+Additionally, MTI is delivering their MaxLinear-powered Evenstar Radio as part of the innovative OpenRAN ecosystem that fully supports the OpenRAN Reference Architecture including a fronthaul interface compliant with the O-RAN Alliance Split 7.2x.
+
+ 
+
+With exceptional RF performance, MaxLinear transceiver chipsets provide base station designers with a flexible platform to simplify and accelerate their development of next-generation radios. These highly integrated base station transceivers support all air interfaces from 2G to 5G NR, including MC-GSM, making them ideal for developing the scalable multi-standard Software Defined Radios (SDR) that operators need for today’s 5G deployments. MaxLinear’s chipset supports multiple-input, multiple-output (MIMO) applications in Macro, Massive MIMO, and Small Cell radios.
+
+ 
+
+"MaxLinear is delighted to support MTI’s 5G RRU solutions with our high-performance transceivers,” said Brendan Walsh, Vice President of MaxLinear’s Wireless Infrastructure Group. “MTI has been a key customer for many years, and we will continue to collaborate and innovate closely together to bring industry-leading Open RAN radios to the market.” 
+
+ 
+
+“We selected MaxLinear for this deployment due to the breadth of their current product offering and the level of investment they are undertaking for future products,” said Eugene Wu, General Manager of MTI. “We are planning for future collaborations with MaxLinear’s next generation transceiver solutions and world class DPD algorithms supporting highly linearized wide bandwidth deployments.”
+
+ 
+
+
+
+Evenstar program will contribute to the OpenRAN ecosystem by focusing on building general-purpose RAN reference designs for 4G and 5G networks that are aligned with 3GPP and O-RAN specifications and will help accelerate the adoption of TIP OpenRAN Project Group Solutions. RRUs, distribution units, and control unit software have traditionally been only available as a packaged unit, limiting opportunities to serve suburban and rural locations. By decoupling these components, the Evenstar program is expected to enable MNOs to choose best-in-class technology and deploy solutions from an increasing number of technology partners.
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit www.maxlinear.com.
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+MTI's vision is to be the Best RF provider for leading edge wireless communication partners in the Telecommunication and Satellite Communication Industries.
+
+Established in 1983, Microelectronics Technology Inc. (MTI) was the first company to specialize in the designing and manufacturing of microwave and satellite communication products in Taiwan. MTI is headquartered in the Hsinchu Science Park, also known as the “Silicon Valley of Taiwan”. With additional manufacturing facilities located in Wuxi China, and an R&D center in California U.S.A., MTI understands the importance of worldwide communication, and strives to expand its presence across the globe.
+
+ 
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s RF Transceiver Chipset, including but not limited to potential market opportunities, future collaborations with Microelectronics Technology Inc., functionality, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new or existing products will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; and uncertainties concerning how end user markets for our products will develop.  Other risks potentially affecting our business include risks relating to acquisition integration; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises such as the Covid-19 pandemic or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K for the year ended December 31, 2019 and Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, in each case as filed with the Securities and Exchange Commission. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-5G-Open-RAN-Radio-Platform.jpg?ext=.jpg
+    Filename: MaxLinear-5G-Open-RAN-Radio-Platform.jpg
+    Filepath: images\MaxLinear-5G-Open-RAN-Radio-Platform.jpg
+    Size: 259262 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-5G-Open-RAN-Radio-Platform.jpg?ext=.jpg
+    Filename: MaxLinear-5G-Open-RAN-Radio-Platform.jpg
+    Filepath: images\MaxLinear-5G-Open-RAN-Radio-Platform.jpg
+    Size: 259262 bytes

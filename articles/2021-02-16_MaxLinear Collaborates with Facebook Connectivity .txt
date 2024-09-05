@@ -1,0 +1,51 @@
+Title: MaxLinear Collaborates with Facebook Connectivity on Evenstar OpenRAN Solutions
+Date: 2021-02-16
+URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-collaborates-with-facebook-connectivity
+Content:
+– February 16, 2021 – 
+ (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits today announced a collaboration with Facebook Connectivity to integrate silicon technologies and radio processing algorithms into Evenstar radio units (RUs) .
+
+
+
+The Evenstar program is a collaborative effort focused on building a general-purpose RAN reference architecture for 4G and 5G networks in the OpenRAN ecosystem. In partnering with Facebook Connectivity, MaxLinear will integrate its MaxLin radio processing algorithms including Digital Pre-Distortion (DPD) and Crest Factor Reduction (CFR) technologies with Evenstar RUs to enhance performance and reduce cost.
+
+
+
+MaxLinear’s patented wideband linearization techniques are based on sophisticated machine learning algorithms that significantly improve the efficiency of power amplifiers when compared to other available industry solutions. This increased efficiency dramatically reduces system power consumption by as much as 300W for a 64-transceiver massive MIMO implementation, enabling easier deployment of lower-cost radios.
+
+
+
+MaxLinear’s highly integrated RF transceivers deliver on the critical goals for 5G radio networks to simultaneously support wide signal bandwidths while reducing system power consumption. The MaxLinear transceiver portfolio includes the MxL1600 Quad-RF Transceiver and the MxL1550 Octal-RF Transceiver families.
+
+ 
+
+ “We are excited to contribute to the OpenRAN ecosystem and make Evenstar radio units more efficient,” said Brendan Walsh, Vice President of MaxLinear’s Wireless Infrastructure Group. “Our core technologies, including silicon transceivers, linearization and AI algorithms, will help enable the acceleration and adoption of OpenRAN solutions like Evenstar.”
+
+
+
+“We are thrilled to welcome MaxLinear to the Evenstar program,” said Jaydeep Ranade, director of wireless engineering for Facebook Connectivity.  “Our close collaboration with MaxLinear will accelerate innovation and performance improvements in the OpenRAN ecosystem. OpenRAN support is gaining momentum and we look forward to working together to make higher performance, open networks more accessible around the globe."
+
+
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, visit 
+.
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s silicon technologies, MaxLin radio processing algorithms, and RF transceivers, including but not limited to potential market opportunities, future collaborations with Facebook Connectivity and the Eventar program, functionality, and the benefits of use of such products. These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new or existing products will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; and uncertainties concerning how end user markets for our products will develop.  Other risks potentially affecting our business include risks relating to acquisition integration; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises such as the Covid-19 pandemic or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K for the year ended December 31, 2020, as filed with the Securities and Exchange Commission. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Collaborates-with-Facebook.jpg?ext=.jpg
+    Filename: MaxLinear-Collaborates-with-Facebook.jpg
+    Filepath: images\MaxLinear-Collaborates-with-Facebook.jpg
+    Size: 256153 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Collaborates-with-Facebook.jpg?ext=.jpg
+    Filename: MaxLinear-Collaborates-with-Facebook.jpg
+    Filepath: images\MaxLinear-Collaborates-with-Facebook.jpg
+    Size: 256153 bytes

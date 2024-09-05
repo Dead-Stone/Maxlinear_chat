@@ -1,0 +1,34 @@
+Title: MaxLinear Industrial IoT Evaluation Platform Combines G.hn Gigabit Capability with Common Industrial Interfaces
+Date: 2021-08-25
+URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-industrial-iot-evaluation-platform-combi
+Content:
+– Aug 25, 2021 – MaxLinear, Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, announced today the release of its new G.hn evaluation platform, the DMI920. MaxLinear’s G.hn technology reliably transports high-speed data over new or existing AC or DC powerlines, twisted pair, or coaxial cable. The DMI920 combines MaxLinear’s G.hn technology with its USB, Ethernet, and serial communication products enabling OEMs to evaluate this reliable high-speed networking solution with common Industrial interfaces including Ethernet, RS-485/232 and USB.
+
+ 
+
+The need for gigabit bandwidth in industrial IoT (IIoT) applications continues to grow as high-speed IoT devices like imaging sensors and video cameras are increasingly being deployed to enable basic industrial automation, system control, and even advanced AI capabilities. Wireless technologies cannot operate reliably in the extreme conditions presented by the various obstructions ubiquitous to industrial environments such as, concrete walls, brick, or sheet metal that severely impair the quality and reliability of wireless signals. In the harsh industrial environment, communication interferences greatly increase the risk of production down-time or even on-site injuries. As a result, a range of wired links or cabling is preferred over wireless medium to send low-speed serial communications to control and connect industrial applications. G.hn can utilize the existing cables in industrial environments to reliably deliver high-speed, multigigabit data to local area networks which are in turn connected to IIoT endpoint devices through common Industrial interfaces.
+
+ 
+
+The DMI920 utilizes MaxLinear’s G.hn, interface, and power products along with its G.hn Spirit Grid software. The Spirit Grid software development kit (SDK) includes all device drivers and can be easily ported by OEM customers. This solution supports a large-scale, multi-hop network of up to 250 end points with one network controller addressing a wide variety of applications such as smart elevator control systems, fire alarm control panels, smart parking systems, smart fuel dispensers, building entry and access control systems, building security and surveillance, and smart building data backbone networks.
+
+ 
+
+Key DMI920 components:
+
+88LX5153A+88LX2741: G.hn Wave-2 baseband & analog frontend chipset
+XR77103-G1R2: Pre-programmed, 3-output power management IC 
+SP336E: Multi-protocol transceiver
+GPY115: Single-port industrial 1GbE PHY
+XR22800: Hi-Speed USB to 10/100 Ethernet bridge with I
+C Master and GPIOs
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-DMI920-IIoT-Evaluation-Platform.jpg?ext=.jpg
+    Filename: MaxLinear-DMI920-IIoT-Evaluation-Platform.jpg
+    Filepath: images\MaxLinear-DMI920-IIoT-Evaluation-Platform.jpg
+    Size: 132809 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-DMI920-IIoT-Evaluation-Platform.jpg?ext=.jpg
+    Filename: MaxLinear-DMI920-IIoT-Evaluation-Platform.jpg
+    Filepath: images\MaxLinear-DMI920-IIoT-Evaluation-Platform.jpg
+    Size: 132809 bytes

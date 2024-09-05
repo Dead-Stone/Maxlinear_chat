@@ -1,0 +1,61 @@
+Title: MACOM and MaxLinear Collaborate on 100G, 400G and 800G Solutions for Data Center Applications
+Date: 2021-06-09
+URL: https://www.maxlinear.com/news/press-releases/2021/macom-and-maxlinear-collaborate-on-100g,-400g-and
+Content:
+– June 9, 2021 – 
+ (“MACOM”), a leading supplier of semiconductor products, and  
+ (NYSE: MXL) (“MaxLinear”), a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits, today announced a collaboration to assure interoperability of MaxLinear’s PAM4 DSPs and MACOM’s 100G/lane transimpedance amplifiers (TIAs) for 100G/lambda applications. Customers can now select a proven design solution with an exceptionally low bit error rate (BER) for their optical module designs. 
+
+
+
+The collaboration includes pairing the MxL93516, MaxLinear’s second-generation 100G Snowmass DSP, with MACOM’s low power MATA-05817 100G TIA to achieve exceptional sensitivity and a low BER floor. This configuration is ideal for 100G-DR1/FR1/LR1 QSFP28 applications for Data Center and front haul applications.
+
+“Our customers are requesting proven high-performance solutions,” said Marek Tlalka, Senior Director, High-Performance Analog, at MACOM. “This collaboration offers the industry a compelling performance proof point and a potential path to shorter design cycle times for 100G, 400G and 800G module manufacturers.”
+
+
+
+“The market for 100G/lambda transceivers continues to grow and performance and time to market are critical for our customers,” said Drew Guckenberger, Vice President of MaxLinear’s High-Speed Interconnect Group. “The pairing of our second generation power optimized Snowmass 100G DSP with integrated driver with MACOM’s high-performance TIAs is an ideal solution for customers, providing tight integration, proven high-performance and low-power capabilities.”
+
+ 
+
+The companies plan to continue collaborating on 400Gbps and 800Gbps applications utilizing the recently announced MaxLinear 5nm Keystone DSPs and MACOM’s extensive portfolio of four channel 400Gbps TIAs.
+
+For additional information on MACOM’s MATA-05817 TIA, visit: 
+
+
+
+For additional information on MaxLinear’s MxL93516 DSP, visit: 
+
+
+
+
+
+MACOM designs and manufactures semiconductor products for, Telecommunications, Industrial and Defense and Data Center applications. Headquartered in Lowell, Massachusetts, MACOM has design centers and sales offices throughout North America, Europe and Asia. MACOM is certified to the ISO9001 international quality standard and ISO14001 environmental management standard. For more information, please visit 
+.
+
+
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for the connectivity and access, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. MACOM and the MACOM logo are trademarks of MACOM Technology Solutions Holdings, Inc. (“MTSI”). Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s Snowmass family of PAM4 DSPs, including the MxL93516 and Keystone family of DSPs, MACOM’s 100G/lane TIAs, including but not limited to potential market opportunities, including with respect to 100G/lambda receivers and 100G, 400G and 800G module manufacturers, current or future collaboration between MaxLinear and MACOM, functionality, integration, interoperability, performance, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new or existing products will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expect,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; and uncertainties concerning how end user markets for our products will develop.  Other risks potentially affecting our business include risks relating to acquisition integration; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises such as the Covid-19 pandemic or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission (the “SEC”), including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K for the year ended December 31, 2020 and Quarterly Report on Form 10-Q for the quarter ended March 31, 2021, in each case as filed with the Securities and Exchange Commission. Further, investors should review the risks and uncertainties described in "Risk Factors" in MTSI’s filings with the SEC, including its Annual Report on Form 10-K, its Quarterly Reports on Form 10-Q and other filings with the SEC. All forward-looking statements are qualified in their entirety by these cautionary statements. MaxLinear and MACOM are providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-MACOM-Collaborate.jpg?ext=.jpg
+    Filename: MaxLinear-MACOM-Collaborate.jpg
+    Filepath: images\MaxLinear-MACOM-Collaborate.jpg
+    Size: 169892 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-MACOM-Collaborate.jpg?ext=.jpg
+    Filename: MaxLinear-MACOM-Collaborate.jpg
+    Filepath: images\MaxLinear-MACOM-Collaborate.jpg
+    Size: 169892 bytes

@@ -1,0 +1,81 @@
+Title: MaxLinear Partners with RFHIC to Accelerate Deployment of Ultra-Wideband 5G Power Amplifiers
+Date: 2022-09-28
+URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-partners-with-rfhic-to-accelerate-deploy
+Content:
+CARLSBAD, CA -  MaxLinear Inc. (NASDAQ: MXL) and RFHIC (KOSDAQ: 218410) today announced a collaboration to deliver a production-ready 400MHz Power Amplifier (PA) solution for 5G Macrocell radios, using MaxLinear MaxLIN™ Digital Predistortion (DPD) and Crest Factor Reduction (CFR) technologies to optimize the performance of RFHIC’s latest ID-400W series GaN RF Transistors.
+
+ 
+
+Combining RFHIC’s state-of-the-art dual-reverse GaN RF transistor ID41411DR with MaxLIN DPD and making it available as a pre-verified solution will allow Radio Access Network (RAN) product developers to rapidly deliver ultra-wideband 400MHz Macro PAs for all global 5G mid-band deployments with low emissions and high power efficiency.
+
+ 
+
+“As 5G deployments continue to grow worldwide, network providers need to scale their coverage in a fast and cost-efficient manner,” said Samuel Cho, Founder and CTO of RFHIC. “We can deliver COTS and customizable solutions in a fraction of the time due to our one-stop GaN solution process. This process allows our customers to design and build their products more efficiently and get to market faster.”
+
+
+
+“Mobile operators need new disruptive 5G radio innovations that can dramatically reduce power consumption, tower space, and cost while simultaneously delivering much higher capacity,” said Brendan Walsh, MaxLinear’s Vice President, Wireless Infrastructure. “The new ultra-wideband radios enabled by MaxLIN with RFHIC RF transistors deliver on this challenge by allowing multiple new 5G radio bands to be supported efficiently in a single Radio Unit (RU).”
+
+
+
+
+
+RFHIC’s latest ID-400W GaN RF transistor series delivers ultra-wideband linearized performance for 5G mid-band radio applications in the 3.4 to 4.1GHz range. RFHIC’s patented FLY-Flange packaging (RF24008DKR3) greatly enhances their bandwidth support versus competing devices. For example, the ID41411DR transistor provides excellent performance for wideband signals and saturated power of 400W with an average power of 56W and linearized ALCR < -49dBc with MaxLIN technology. The ID41411DR also delivers an unmatched drain efficiency of 46% when operating at 3.9GHz.
+
+
+
+To learn more, visit 
+ or contact us at 
+
+ 
+
+
+
+MaxLIN Linearization Technologies increase the power efficiency and linearization performance of wideband power amplifiers. MaxLIN includes crest factor reduction (CFR) and digital pre-distortion (DPD) to adaptively linearize highly non-linear power amplifiers. Its advanced adaptive algorithms exceed the 3rd Generation Partnership Project (3GPP) and Federal Communications Commission (FCC) unwanted emissions requirements with margin while delivering high PA efficiencies of >50%. MaxLIN is integrated into Sierra, MaxLinear’s single-chip solution for 5G Open RAN radio units.
+
+ 
+
+Additionally, MaxLIN designs are supported by radio optimization services. With this unique service offering, MaxLinear deploys proprietary machine learning (ML) algorithms to identify PA nonlinear signatures, to diagnose radio performance bottlenecks, and to optimize DPD configurations. These services rapidly enable MaxLIN customers to fully characterize and optimize their radio lineups within weeks rather than months.
+
+ 
+
+Visit 
+ to learn more about the MaxLIN Linearization Technologies.
+
+ 
+
+ 
+
+
+
+MaxLinear, Inc. (NASDAQ: MXL) is a leading provider of radio frequency (RF), analog, digital and mixed-signal integrated circuits for access and connectivity, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+ 
+
+
+
+RFHIC Corporation provides innovative GaN solutions that transform how the world operates, communicates, and protects. Our cutting-edge GaN technology is the core foundation of all our inventions for creating a better, faster, and more efficient world. As a global leader in designing and manufacturing GaN RF & Microwave components, we envision spurring a new era of high-powered and reliable devices for the next big change in industrial, cellular, and defense technology. Headquartered in Anyang, South Korea.
+
+RFHIC has a US sales office in Morrisville, North Carolina, and sales distributors throughout North America, Europe, and Asia.  RFHIC is an ISO9001 (International quality standard) and ISO14001 (Environmental management standard) certified company, providing reliable and dependable products worldwide. For more information, please visit 
+.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s collaboration with RFHIC, MaxLinear’s MaxLIN Digital Predistortion and Crest Factor Reduction technologies, including, but not limited to, with respect to the functionality, performance and benefits of the use of such technologies, and their integration with RFHIC’s ID-400W series GaN RF transistors, and the radio access network market. These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent these new and existing products will affect our future revenues or financial performance. Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expected,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises, such as the Covid-19 pandemic, geopolitical conflicts, such as the military conflict in Ukraine and related sanctions against Russia and Belarus, or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties arising from other factors affecting the business, operating results, and financial condition of MaxLinear, including those set forth in MaxLinear’s most recent Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as applicable. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MxL-RFHIC-Deliver-400MHz-5G.jpg?ext=.jpg
+    Filename: MxL-RFHIC-Deliver-400MHz-5G.jpg
+    Filepath: images\MxL-RFHIC-Deliver-400MHz-5G.jpg
+    Size: 184687 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/MxL-RFHIC-Deliver-400MHz-5G.jpg?ext=.jpg
+    Filename: MxL-RFHIC-Deliver-400MHz-5G.jpg
+    Filepath: images\MxL-RFHIC-Deliver-400MHz-5G.jpg
+    Size: 184687 bytes

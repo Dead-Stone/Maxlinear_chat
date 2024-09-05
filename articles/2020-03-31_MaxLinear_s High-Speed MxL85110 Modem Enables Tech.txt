@@ -1,0 +1,68 @@
+Title: MaxLinear’s High-Speed MxL85110 Modem Enables Technetix Virtual Segmentation™ for Wireless Backhaul Deployment over Cable
+Date: 2020-03-31
+URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear%E2%80%99s-high-speed-mxl85110-modem-enables-tech
+Content:
+– March 31, 2020 – MaxLinear, Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications, today announced that Technetix Group’s Virtual Segmentation solution is in production driven by its MxL85110 broadband modem enabling gigabit throughput over coaxial cable infrastructure.
+
+ 
+
+5G represents an opportunity for the cable operators to provide backhaul for either wireless companies or themselves. The technical barriers that have prevented the operator cable plant being used for this application have been overcome by MaxLinear’s MxL85110; namely gigabit throughputs and low latency overlaying above established DOCSIS traffic. The established cable infrastructure has a significant footprint and scale (compared to fiber) and is situated in ideal locations for small cell backhaul, mid-haul or fronthaul applications and offers the capability for powering that fiber does not permit.
+
+ 
+
+As mobile network operators (MNOs) face the challenge of providing high bandwidth fronthaul and backhaul networks to address the bandwidth and low latency requirements of future 5G services, Technetix’s Virtual Segmentation product range provides high-speed connections using the existing coaxial cable infrastructure. This saves the cost of laying new fiber-optic cabling, providing Cable Operators with new flexibility in terms of where to locate nodes and how to provide connectivity to their core network.
+
+ 
+
+The Technetix Virtual Segmentation product uses MaxLinear’s MxL85110 chipset. The MxL85110 provides up to 20Gbps (10 downstream + 10 upstream) Ethernet capacity, ultra-low latency of 5 microseconds per node, and adaptive code modulation ranging from BPSK to 1024 QAM. The device can be programmed for flexible bandwidth from 25MHz to 2GHz, with independent asymmetric transmit and receive configuration. It also delivers the highest spectral and payload efficiency for productive utilization of cable bandwidth with no MAC-layer overhead. Additional features include carrier-grade synchronous Ethernet and IEEE 1588v2 synchronization and an integrated management channel.
+
+ 
+
+“The Technetix Virtual Segmentation solution provides extra bandwidth on existing coaxial cable alleviating the need to deploy fiber,” said Brendan Walsh, Vice President of MaxLinear’s Wireless Infrastructure Group. “This capability allows for new service deployment (such as mobile backhaul) in weeks rather than months.”
+
+ 
+
+“Our carrier customers are demanding fronthaul and backhaul solutions that have the throughput and low latency performance to handle 5G services,” said Paul Broadhurst, Founder and Chief Executive Officer of Technetix. “By using MaxLinear’s high-speed data platform, the opportunity for 5G Backhaul for Cable Operators has become a reality, along with virtual node segmentation and the delivery of B2B data services.”
+
+ 
+
+The innovative Virtual Segmentation solution by Technetix allows Cable Operators to create a virtual 10GE pipe over the existing coaxial network. This high bandwidth connection can be used to deploy R-PHY without deploying fiber; providing Cable Operators with great savings over fiber deployment time and capex. Virtual Segmentation enables this high bandwidth by overlaying additional data on the high frequency bands available on the coax cable.
+
+ 
+
+For additional information on the MxL85110, visit 
+.
+
+ 
+
+
+
+MaxLinear, Inc. (NYSE: MXL) is a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications. MaxLinear is headquartered in Carlsbad, California. For more information, please visit 
+.
+
+ 
+
+MxL and the MaxLinear logo are trademarks of MaxLinear, Inc. Other trademarks appearing herein are the property of their respective owners.
+
+
+
+
+
+Dedicated to helping cable operators better compete - and win - Technetix is a trusted, professional and customer-focused global provider of network services. Founded in 1990, the company is passionate about engineering and prides itself on helping customers serve millions of subscribers every day. Technetix listens, innovates and delivers technologically advanced products and solutions that enable flexible, powerful networks; increase revenue and market share, and provide a better service experience. With cutting-edge solutions like DBx, Virtual Segmentation and Remote PHY, Technetix is a partner that cable operators can count on to achieve their most ambitious goals. They sell 114 million products annually to 70 countries and have a direct presence in 18 countries with partnerships in more. 
+.
+
+ 
+
+
+
+This press release contains “forward-looking” statements within the meaning of federal securities laws. Forward-looking statements include, among others, statements concerning or implying future financial performance, anticipated product performance and functionality of our products or products incorporating our products, and industry trends and growth opportunities affecting MaxLinear, in particular statements relating to MaxLinear’s MxL85110, including but not limited to potential market opportunities, functionality, and the benefits of use of such products.  These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially from any future results expressed or implied by these forward-looking statements. We cannot predict whether or to what extent the MxL85110 will affect our future revenues or financial performance.  Forward-looking statements are based on management’s current, preliminary expectations and are subject to various risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Forward-looking statements may contain words such as “will be,” “will,” “expected,” “anticipate,” “continue,” or similar expressions and include the assumptions that underlie such statements. The following factors, among others, could cause actual results to differ materially from those described in the forward-looking statements: intense competition in our industry and product markets; risks relating to the development, testing, and commercial introduction of new products and product functionalities; the ability of our customers to cancel or reduce orders; uncertainties concerning how end user markets for our products will develop; our lack of long-term supply contracts and dependence on limited sources of supply; potential decreases in average selling prices for our products; impacts from public health crises or natural disasters; and the potential for intellectual property litigation, which is prevalent in our industry. In addition to these risks and uncertainties, investors should review the risks and uncertainties contained in MaxLinear’s filings with the United States Securities and Exchange Commission, including risks and uncertainties identified in our Annual Report on Form 10-K for the year ended December 31, 2019. All forward-looking statements are qualified in their entirety by this cautionary statement. MaxLinear is providing this information as of the date of this release and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events, or otherwise.
+
+Images:
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/maxLinear-Powers-Technetix-Virtual-Segmentation.jpg?ext=.jpg
+    Filename: maxLinear-Powers-Technetix-Virtual-Segmentation.jpg
+    Filepath: images\maxLinear-Powers-Technetix-Virtual-Segmentation.jpg
+    Size: 248066 bytes
+  - URL: https://www.maxlinear.com/MaxLinear/media/Images/News/maxLinear-Powers-Technetix-Virtual-Segmentation.jpg?ext=.jpg
+    Filename: maxLinear-Powers-Technetix-Virtual-Segmentation.jpg
+    Filepath: images\maxLinear-Powers-Technetix-Virtual-Segmentation.jpg
+    Size: 248066 bytes

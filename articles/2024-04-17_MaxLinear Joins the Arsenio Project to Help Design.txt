@@ -1,0 +1,57 @@
+Title: MaxLinear Joins the Arsenio Project to Help Design a Generic SoC Architecture Applicable to Various Communications Technologies
+Date: 2024-04-17
+URL: https://www.maxlinear.com/news/arsenio
+Content:
+The project proposes the design of a generic SoC architecture applicable to different applications and communications technologies. It covers the initial phases of design, testing, early validation and manufacturing (tape out ) of the different digital and analog blocks, where each of these elements will have a different scope depending on the complexity of the study and the time limit of the project (only two years). To this end, the development of different tools will be investigated that allow optimizing the development processes of a SoC in its different phases, from design to early validation (prior to tape out ).
+
+
+
+ 
+El proyecto plantea el diseño de una arquitectura SoC genérica aplicable a diferentes aplicaciones y tecnologías de comunicaciones. Cubre las fases iniciales de diseño, testeo, validación temprana y fabricación (tape out) de los diferentes bloques digitales y analógicos, donde cada uno de estos elementos tendrá un alcance diferente atendiendo a la complejidad del estudio y el límite temporal del proyecto (únicamente de dos años). Para tal fin, se investigará el desarrollo de diferentes herramientas que permitan optimizar los procesos de desarrollo de un SoC en sus diferentes fases, desde el diseño hasta la validación temprana (previa al tape out).
+
+
+
+         
+
+ 
+
+ 
+
+The project has been subsidized by the Center for Technological Development and Innovation (CDTI) with the support of the Ministry of Science and Innovation.
+
+
+
+
+  
+  
+  
+
+
+
+For more information, please visit:
+
+Images:
+  - URL: https://semidynamics.com/assets/img/semidynamics-public/company/partners/maxLinear_logo.svg
+    Filename: maxLinear_logo.svg
+    Filepath: images\maxLinear_logo.svg
+    Size: 7774 bytes
+  - URL: https://semidynamics.com/assets/img/logo_smd/semidynamics_alone.svg
+    Filename: semidynamics_alone.svg
+    Filepath: images\semidynamics_alone.svg
+    Size: 5909 bytes
+  - URL: https://semidynamics.com/assets/img/logo_footer/ciencia_innovacion.jpg
+    Filename: ciencia_innovacion.jpg
+    Filepath: images\ciencia_innovacion.jpg
+    Size: 15045 bytes
+  - URL: https://semidynamics.com/assets/img/logo_footer/next_generation.jpg
+    Filename: next_generation.jpg
+    Filepath: images\next_generation.jpg
+    Size: 16801 bytes
+  - URL: https://semidynamics.com/assets/img/logo_footer/plan_recuperacion.jpg
+    Filename: plan_recuperacion.jpg
+    Filepath: images\plan_recuperacion.jpg
+    Size: 14882 bytes
+  - URL: https://semidynamics.com/assets/img/logo_footer/desarrollo_tecnologico.jpg
+    Filename: desarrollo_tecnologico.jpg
+    Filepath: images\desarrollo_tecnologico.jpg
+    Size: 14429 bytes
