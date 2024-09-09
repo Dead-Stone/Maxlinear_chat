@@ -1,5 +1,4 @@
 /* src/index.css */
-
 body {
     margin: 0;
     padding: 0;
@@ -10,10 +9,11 @@ body {
     -moz-osx-font-smoothing: grayscale;
   }
   
-  code {
+code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
       monospace;
-  }
+}
+
   
   .App {
     text-align: center;

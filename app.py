@@ -42,6 +42,25 @@ class Message(BaseModel):
 # TTL Cache for storing conversation history (5 minutes)
 cache = TTLCache(maxsize=100, ttl=300)
 
+
+# Function to read prompt from file
+def read_prompt_from_file(filename='prompt.txt'):
+    try:
+        with open(filename, 'r') as file:
+            return file.read()
+    except FileNotFoundError:
+        print(f"Error: The file '{filename}' was not found.")
+        return None
+    except IOError:
+        print(f"Error: There was an issue reading the file '{filename}'.")
+        return None
+
+# Load the prompt template
+prompt_template = read_prompt_from_file()
+if not prompt_template:
+    raise Exception("Failed to load prompt template")
+
+
 def create_weaviate_schema():
     schema = {
         "classes": [{
@@ -161,8 +180,8 @@ def search_weaviate(query, top_n=5):
         print("Searching Weaviate for similar articles...")
         result = (weaviate_client.query
             .get("Article", ["content", "title", "url", "date"])
-            .with_near_vector({"vector": query_vector})
-            .with_sort({"path": ["date"], "order": "desc"})
+            .with_hybrid(query=query, vector=query_vector, alpha=0.6)
+            # .with_sort({"path": ["date"], "order": "desc"})
             .with_limit(top_n)
             .do())
 
@@ -189,17 +208,7 @@ def generate_response(query):
          for i, article in enumerate(similar_articles)]
     )
     
-    prompt = f"""
-    You are an advanced AI assistant specializing in news analysis. Here are contents from several articles.
-
-    Context:
-    {combined_content}
-
-    Question:
-    {query}
-
-    Generate a response using the most relevant articles. Provide a concise, factual answer and cite the sources by giving the URL. If asked about latest news, focus on the most recent articles by date.
-    """
+    prompt = prompt_template.format(combined_content=combined_content, query=query)
     
     try:
         response = openai.chat.completions.create(

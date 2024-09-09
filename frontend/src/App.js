@@ -1,11 +1,22 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { sendMessageToBackend } from './api';
 import './App.css';
+import { FaUserAlt, FaRobot } from 'react-icons/fa';  // Import icons for user and assistant
+import ReactMarkdown from 'react-markdown';  // Import ReactMarkdown for rendering markdown
 
 function App() {
     const [messages, setMessages] = useState([]);
     const [input, setInput] = useState('');
+    const chatContainerRef = useRef(null);
 
+    // Automatically scroll to the end of the chat when new messages are added
+    useEffect(() => {
+        if (chatContainerRef.current) {
+            chatContainerRef.current.scrollTop = chatContainerRef.current.scrollHeight;
+        }
+    }, [messages]);
+
+    // Handle sending messages
     const handleSend = async () => {
         if (input.trim()) {
             const userMessage = { role: 'user', content: input };
@@ -18,28 +29,40 @@ function App() {
         }
     };
 
+    // Handle Enter and Shift+Enter
+    const handleKeyDown = (e) => {
+        if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            handleSend();
+        }
+    };
+
     return (
         <div className="App">
-            <div className="chat-container">
+            <div className="chat-container" ref={chatContainerRef}>
                 {messages.map((message, index) => (
                     <div key={index} className={`chat-message ${message.role}`}>
-                        {message.role === 'assistant' ? (
+                        {message.role === 'user' ? (
                             <>
-                                <FormattedMessage content={message.content} />
-                                {console.log("inside the matrix")}
+                                <FaUserAlt className="chat-icon" />
+                                <p>{message.content}</p>
                             </>
                         ) : (
-                            <p>{message.content}</p>
+                            <>
+                                <FaRobot className="chat-icon" />
+                                <FormattedMessage content={message.content} />
+                            </>
                         )}
                     </div>
                 ))}
             </div>
             <div className="input-container">
-                <input 
-                    type="text" 
-                    value={input} 
-                    onChange={(e) => setInput(e.target.value)} 
-                    placeholder="Ask a question..." 
+                <textarea
+                    rows="1"
+                    value={input}
+                    onChange={(e) => setInput(e.target.value)}
+                    onKeyDown={handleKeyDown}
+                    placeholder="Ask a question (Shift+Enter for new line)..."
                 />
                 <button onClick={handleSend}>Send</button>
             </div>
@@ -47,25 +70,19 @@ function App() {
     );
 }
 
-// Function to format and render the assistant's message content
+// Function to render markdown content, which will format the GPT-4 output neatly
 const FormattedMessage = ({ content }) => {
-    // Assuming the content is returned in a JSON format with title, summary, and link
-    let formattedContent;
-    try {
-        const parsedContent = JSON.parse(content);
-        formattedContent = (
-            <div>
-                <p><strong>{parsedContent.title}</strong></p>
-                <p>{parsedContent.summary}</p>
-                <p>For more details, visit: <a href={parsedContent.link} target="_blank" className="hover-link">[Link]</a></p>
-            </div>
-        );
-    } catch (error) {
-        // Fallback for plain text or unexpected content
-        formattedContent = <p>{content}</p>;
-    }
-
-    return <div>{formattedContent}</div>;
+    return (
+        <div className="formatted-message">
+            <ReactMarkdown
+                components={{
+                    a: ({ node, ...props }) => <a {...props} target="_blank" rel="noopener noreferrer" />
+                }}
+            >
+                {content}
+            </ReactMarkdown>
+        </div>
+    );
 };
 
 export default App;

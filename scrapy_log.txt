@@ -786,3 +786,439 @@ See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for 
  'scheduler/enqueued/memory': 91,
  'start_time': datetime.datetime(2024, 9, 5, 4, 37, 32, 869609, tzinfo=datetime.timezone.utc)}
 2024-09-04 21:42:54 [scrapy.core.engine] INFO: Spider closed (finished)
+2024-09-06 16:30:07 [scrapy.addons] INFO: Enabled addons:
+[]
+2024-09-06 16:30:07 [py.warnings] WARNING: C:\Users\mohan\Downloads\Personal Project\maxlinear\.venv\Lib\site-packages\scrapy\utils\request.py:254: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2024-09-06 16:30:07 [scrapy.extensions.telnet] INFO: Telnet Password: d73ef763b5f73631
+2024-09-06 16:30:08 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2024-09-06 16:30:08 [scrapy.crawler] INFO: Overridden settings:
+{'LOG_FILE': 'scrapy_log.txt',
+ 'LOG_LEVEL': 'INFO',
+ 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+               '(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+2024-09-06 16:30:08 [scrapy.middleware] WARNING: Disabled scrapy_selenium.SeleniumMiddleware: SELENIUM_DRIVER_NAME and SELENIUM_DRIVER_EXECUTABLE_PATH must be set
+2024-09-06 16:30:08 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2024-09-06 16:30:08 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2024-09-06 16:30:08 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2024-09-06 16:30:08 [scrapy.core.engine] INFO: Spider opened
+2024-09-06 16:30:08 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2024-09-06 16:30:08 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2024-09-06 16:30:08 [maxlinear_news] INFO: Starting to parse the main page...
+2024-09-06 16:30:12 [maxlinear_news] INFO: New height: 2434, Last height: 0
+2024-09-06 16:30:15 [maxlinear_news] INFO: New height: 3635, Last height: 2434
+2024-09-06 16:30:18 [maxlinear_news] INFO: New height: 4838, Last height: 3635
+2024-09-06 16:30:21 [maxlinear_news] INFO: New height: 6139, Last height: 4838
+2024-09-06 16:30:24 [maxlinear_news] INFO: New height: 7318, Last height: 6139
+2024-09-06 16:30:27 [maxlinear_news] INFO: New height: 8495, Last height: 7318
+2024-09-06 16:30:31 [maxlinear_news] INFO: New height: 9673, Last height: 8495
+2024-09-06 16:30:34 [maxlinear_news] INFO: New height: 10925, Last height: 9673
+2024-09-06 16:30:38 [maxlinear_news] INFO: New height: 12127, Last height: 10925
+2024-09-06 16:30:42 [maxlinear_news] INFO: New height: 13425, Last height: 12127
+2024-09-06 16:30:45 [maxlinear_news] INFO: New height: 14676, Last height: 13425
+2024-09-06 16:30:49 [maxlinear_news] INFO: New height: 15853, Last height: 14676
+2024-09-06 16:30:52 [maxlinear_news] INFO: New height: 17082, Last height: 15853
+2024-09-06 16:30:56 [maxlinear_news] INFO: New height: 18454, Last height: 17082
+2024-09-06 16:31:00 [maxlinear_news] INFO: New height: 19705, Last height: 18454
+2024-09-06 16:31:01 [maxlinear_news] INFO: Encountered a date before 2020 (September 23, 2019). Stopping scroll.
+2024-09-06 16:31:01 [maxlinear_news] INFO: Found 90 news articles.
+2024-09-06 16:31:01 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/c696a716-2801-4ea6-ad8f-472259b63544/Panther-Boards.jpg?width=1280&height=720&ext=.jpg to images\Panther-Boards.jpg
+2024-09-06 16:31:01 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/c696a716-2801-4ea6-ad8f-472259b63544/Panther-Boards.jpg?width=1280&height=720&ext=.jpg to images\Panther-Boards.jpg
+2024-09-06 16:31:01 [maxlinear_news] INFO: Scraping article - Title: MaxLinear to Showcase Panther III at Future of Memory and Storage 2024 Trade Show, Date: 2024-07-30, URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-to-showcase-panther-iii-at-future-of-memory-and-storage-2024-trade-show
+2024-09-06 16:31:01 [maxlinear_news] INFO: Saved article to articles\2024-07-30_MaxLinear to Showcase Panther III at Future of Mem.txt
+2024-09-06 16:31:01 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/First-XGS-PON-Gateway.jpg?ext=.jpg to images\First-XGS-PON-Gateway.jpg
+2024-09-06 16:31:01 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/First-XGS-PON-Gateway.jpg?ext=.jpg to images\First-XGS-PON-Gateway.jpg
+2024-09-06 16:31:02 [maxlinear_news] INFO: Scraping article - Title: Industry’s First XGS-PON Gateway Running prplOS Powered By MaxLinear’s AnyWAN™ SoC, Date: 2022-10-18, URL: https://www.maxlinear.com/news/press-releases/2022/industry%E2%80%99s-first-xgs-pon-gateway-running-prplos-po
+2024-09-06 16:31:02 [maxlinear_news] INFO: Saved article to articles\2022-10-18_Industry_s First XGS-PON Gateway Running prplOS Po.txt
+2024-09-06 16:31:02 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/AnyWAN-Broadband-SoCs.jpg?ext=.jpg to images\AnyWAN-Broadband-SoCs.jpg
+2024-09-06 16:31:02 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/AnyWAN-Broadband-SoCs.jpg?ext=.jpg to images\AnyWAN-Broadband-SoCs.jpg
+2024-09-06 16:31:02 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Brings Fully Converged Access Platform and Unprecedented Scalability to Home Gateway Design, Date: 2022-09-08, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-brings-fully-converged-access-platform-a
+2024-09-06 16:31:02 [maxlinear_news] INFO: Saved article to articles\2022-09-08_MaxLinear Brings Fully Converged Access Platform a.txt
+2024-09-06 16:31:02 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MxL-SoftAtHome-Partner-prpl-Life-Cycle.jpg?ext=.jpg to images\MxL-SoftAtHome-Partner-prpl-Life-Cycle.jpg
+2024-09-06 16:31:02 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MxL-SoftAtHome-Partner-prpl-Life-Cycle.jpg?ext=.jpg to images\MxL-SoftAtHome-Partner-prpl-Life-Cycle.jpg
+2024-09-06 16:31:02 [maxlinear_news] INFO: Scraping article - Title: MaxLinear and SoftAtHome Partner on prpl Life Cycle Management Solution for Home Gateways, Date: 2022-10-19, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-and-softathome-partner-on-prpl-life-cycl
+2024-09-06 16:31:02 [maxlinear_news] INFO: Saved article to articles\2022-10-19_MaxLinear and SoftAtHome Partner on prpl Life Cycl.txt
+2024-09-06 16:31:02 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Boosts-Gateway-Access-Platform.jpg?ext=.jpg to images\MaxLinear-Boosts-Gateway-Access-Platform.jpg
+2024-09-06 16:31:02 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Boosts-Gateway-Access-Platform.jpg?ext=.jpg to images\MaxLinear-Boosts-Gateway-Access-Platform.jpg
+2024-09-06 16:31:02 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Boosts its Gateway & Access Platform with Wi-Fi 7 Family of SoCs , Date: 2022-10-18, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-boosts-its-gateway-access-platform-with
+2024-09-06 16:31:02 [maxlinear_news] INFO: Saved article to articles\2022-10-18_MaxLinear Boosts its Gateway _ Access Platform wit.txt
+2024-09-06 16:31:02 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Blog-Image-1.jpg?ext=.jpg to images\MaxLinear-Blog-Image-1.jpg
+2024-09-06 16:31:02 [maxlinear_news] INFO: Scraping article - Title: MaxLinear and Airgain Partner on 64T64R Massive MIMO Radio Unit Reference Design, Date: 2023-02-23, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-and-airgain-partner-on-64t64r-massive-mi
+2024-09-06 16:31:02 [maxlinear_news] INFO: Saved article to articles\2023-02-23_MaxLinear and Airgain Partner on 64T64R Massive MI.txt
+2024-09-06 16:31:02 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Edimax-Selects-MaxLinear-PHY.jpg?ext=.jpg to images\Edimax-Selects-MaxLinear-PHY.jpg
+2024-09-06 16:31:03 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Edimax-Selects-MaxLinear-PHY.jpg?ext=.jpg to images\Edimax-Selects-MaxLinear-PHY.jpg
+2024-09-06 16:31:03 [maxlinear_news] INFO: Scraping article - Title: Edimax Selects MaxLinear 2.5G Ethernet PHY for Palm Size 5 Port Switch for Retail Markets, Date: 2022-11-15, URL: https://www.maxlinear.com/news/press-releases/2022/edimax-selects-maxlinear-2-5g-ethernet-phy-for-pal
+2024-09-06 16:31:03 [maxlinear_news] INFO: Saved article to articles\2022-11-15_Edimax Selects MaxLinear 2.5G Ethernet PHY for Pal.txt
+2024-09-06 16:31:03 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MxL-RFHIC-Deliver-400MHz-5G.jpg?ext=.jpg to images\MxL-RFHIC-Deliver-400MHz-5G.jpg
+2024-09-06 16:31:03 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MxL-RFHIC-Deliver-400MHz-5G.jpg?ext=.jpg to images\MxL-RFHIC-Deliver-400MHz-5G.jpg
+2024-09-06 16:31:03 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Partners with RFHIC to Accelerate Deployment of Ultra-Wideband 5G Power Amplifiers, Date: 2022-09-28, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-partners-with-rfhic-to-accelerate-deploy
+2024-09-06 16:31:03 [maxlinear_news] INFO: Saved article to articles\2022-09-28_MaxLinear Partners with RFHIC to Accelerate Deploy.txt
+2024-09-06 16:31:03 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/b98e93c9-98a3-4e15-bed7-a142c13ce227/Panther-Hero-Award.jpg?width=800&height=456&ext=.jpg to images\Panther-Hero-Award.jpg
+2024-09-06 16:31:03 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/b98e93c9-98a3-4e15-bed7-a142c13ce227/Panther-Hero-Award.jpg?width=800&height=456&ext=.jpg to images\Panther-Hero-Award.jpg
+2024-09-06 16:31:03 [maxlinear_news] INFO: Scraping article - Title: Panther III – High-Performing DPU Storage Accelerator – Recognized as Best of Show Winner, Date: 2022-08-03, URL: https://www.maxlinear.com/news/press-releases/2022/panther-iii-%E2%80%93-high-performing-dpu-storage-accelerator-%E2%80%93-recognized-as-best-of-show-winner
+2024-09-06 16:31:03 [maxlinear_news] INFO: Saved article to articles\2022-08-03_Panther III _ High-Performing DPU Storage Accelera.txt
+2024-09-06 16:31:03 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Dustphotonics-400G-800G-Trans.jpg?ext=.jpg to images\MaxLinear-Dustphotonics-400G-800G-Trans.jpg
+2024-09-06 16:31:03 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Dustphotonics-400G-800G-Trans.jpg?ext=.jpg to images\MaxLinear-Dustphotonics-400G-800G-Trans.jpg
+2024-09-06 16:31:03 [maxlinear_news] INFO: Scraping article - Title: DustPhotonics and MaxLinear Announce New Level of Silicon Photonics Integrated Solution Based on Keystone 5nm DSP, Date: 2022-08-10, URL: https://www.maxlinear.com/news/press-releases/2022/dustphotonics-and-maxlinear-announce-new-level-of
+2024-09-06 16:31:03 [maxlinear_news] INFO: Saved article to articles\2022-08-10_DustPhotonics and MaxLinear Announce New Level of .txt
+2024-09-06 16:31:03 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Panther-DPU-Storage-Accelerator.jpg?ext=.jpg to images\Panther-DPU-Storage-Accelerator.jpg
+2024-09-06 16:31:03 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Panther-DPU-Storage-Accelerator.jpg?ext=.jpg to images\Panther-DPU-Storage-Accelerator.jpg
+2024-09-06 16:31:04 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Unveils Panther III – High-Performing DPU Storage Accelerator, Date: 2022-08-01, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-unveils-panther-iii-%E2%80%93-high-performing-dp
+2024-09-06 16:31:04 [maxlinear_news] INFO: Saved article to articles\2022-08-01_MaxLinear Unveils Panther III _ High-Performing DP.txt
+2024-09-06 16:31:04 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-teams-with-prpl.jpg?ext=.jpg to images\MaxLinear-teams-with-prpl.jpg
+2024-09-06 16:31:04 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-teams-with-prpl.jpg?ext=.jpg to images\MaxLinear-teams-with-prpl.jpg
+2024-09-06 16:31:04 [maxlinear_news] INFO: Scraping article - Title: MaxLinear teams with prpl Foundation for Open Service Platform featuring its AnyWAN™ Broadband Chips running prplOS, Date: 2022-10-18, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-teams-with-prpl-foundation-for-open-serv
+2024-09-06 16:31:04 [maxlinear_news] INFO: Saved article to articles\2022-10-18_MaxLinear teams with prpl Foundation for Open Serv.txt
+2024-09-06 16:31:04 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/SAMJI-Partners-with-MaxLinear.jpg?ext=.jpg to images\SAMJI-Partners-with-MaxLinear.jpg
+2024-09-06 16:31:04 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/SAMJI-Partners-with-MaxLinear.jpg?ext=.jpg to images\SAMJI-Partners-with-MaxLinear.jpg
+2024-09-06 16:31:04 [maxlinear_news] INFO: Scraping article - Title: SAMJI Partners with MaxLinear for Next-Generation 5G DAS Solutions, Date: 2023-02-27, URL: https://www.maxlinear.com/news/press-releases/2023/samji-partners-with-maxlinear-for-next-generation
+2024-09-06 16:31:04 [maxlinear_news] INFO: Saved article to articles\2023-02-27_SAMJI Partners with MaxLinear for Next-Generation .txt
+2024-09-06 16:31:04 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/with-EdgeQ-Converged-4G-5G-Small-Cell.jpg?ext=.jpg to images\with-EdgeQ-Converged-4G-5G-Small-Cell.jpg
+2024-09-06 16:31:04 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/with-EdgeQ-Converged-4G-5G-Small-Cell.jpg?ext=.jpg to images\with-EdgeQ-Converged-4G-5G-Small-Cell.jpg
+2024-09-06 16:31:04 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Partners with EdgeQ on Converged 4G and 5G Small Cell Platform, Date: 2023-02-27, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-partners-with-edgeq-on-converged-4g-and
+2024-09-06 16:31:04 [maxlinear_news] INFO: Saved article to articles\2023-02-27_MaxLinear Partners with EdgeQ on Converged 4G and .txt
+2024-09-06 16:31:04 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/AnyWAN-Expanding-Fiber-Home-Gateway.jpg?ext=.jpg to images\AnyWAN-Expanding-Fiber-Home-Gateway.jpg
+2024-09-06 16:31:04 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/AnyWAN-Expanding-Fiber-Home-Gateway.jpg?ext=.jpg to images\AnyWAN-Expanding-Fiber-Home-Gateway.jpg
+2024-09-06 16:31:04 [maxlinear_news] INFO: Scraping article - Title: MaxLinear AnyWAN™ Is Expanding to Fiber Home Gateway Units and Fixed Wireless Access Applications, Date: 2023-02-27, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-anywan%E2%84%A2-is-expanding-to-fiber-home-gatew
+2024-09-06 16:31:04 [maxlinear_news] INFO: Saved article to articles\2023-02-27_MaxLinear AnyWAN_ Is Expanding to Fiber Home Gatew.txt
+2024-09-06 16:31:04 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Colorchip-Collaboration-Optical-Active-Electrical-Interconnect.jpg?ext=.jpg to images\Colorchip-Collaboration-Optical-Active-Electrical-Interconnect.jpg
+2024-09-06 16:31:05 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Colorchip-Collaboration-Optical-Active-Electrical-Interconnect.jpg?ext=.jpg to images\Colorchip-Collaboration-Optical-Active-Electrical-Interconnect.jpg
+2024-09-06 16:31:05 [maxlinear_news] INFO: Scraping article - Title: MaxLinear and ColorChip Announce Collaboration on a Complete Line of Optical and Active Electrical Interconnect Solutions, Date: 2023-03-06, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-and-colorchip-announce-collaboration-on
+2024-09-06 16:31:05 [maxlinear_news] INFO: Saved article to articles\2023-03-06_MaxLinear and ColorChip Announce Collaboration on .txt
+2024-09-06 16:31:05 [maxlinear_news] INFO: Skipping article - Date 2019-09-18 not in range 2020 to 2024.
+2024-09-06 16:31:05 [maxlinear_news] INFO: Skipping article - Date 2019-09-19 not in range 2020 to 2024.
+2024-09-06 16:31:05 [maxlinear_news] INFO: Skipping article - Date 2019-09-23 not in range 2020 to 2024.
+2024-09-06 16:31:05 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-honored-by-Lightwave.jpg?ext=.jpg to images\MaxLinear-honored-by-Lightwave.jpg
+2024-09-06 16:31:05 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-honored-by-Lightwave.jpg?ext=.jpg to images\MaxLinear-honored-by-Lightwave.jpg
+2024-09-06 16:31:05 [maxlinear_news] INFO: Scraping article - Title: MaxLinear MxL93516 Honored by 2020 Lightwave Innovation Reviews, Date: 2020-03-04, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-mxl93516-honored-by-2020-lightwave-innov
+2024-09-06 16:31:05 [maxlinear_news] INFO: Saved article to articles\2020-03-04_MaxLinear MxL93516 Honored by 2020 Lightwave Innov.txt
+2024-09-06 16:31:05 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-PAM4-DSP-Selected-by-Optoway.jpg?ext=.jpg to images\MaxLinear-PAM4-DSP-Selected-by-Optoway.jpg
+2024-09-06 16:31:05 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-PAM4-DSP-Selected-by-Optoway.jpg?ext=.jpg to images\MaxLinear-PAM4-DSP-Selected-by-Optoway.jpg
+2024-09-06 16:31:05 [maxlinear_news] INFO: Scraping article - Title: MaxLinear’s 2nd Generation PAM4 DSP Selected by Optoway Technology to Deliver Sub-3.5W 100G Optical Modules for Hyperscale Data Centers, Date: 2020-03-10, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear%E2%80%99s-2nd-generation-pam4-dsp-selected-by-op
+2024-09-06 16:31:05 [maxlinear_news] INFO: Saved article to articles\2020-03-10_MaxLinear_s 2nd Generation PAM4 DSP Selected by Op.txt
+2024-09-06 16:31:05 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Blog-Image-3.jpg?ext=.jpg to images\MaxLinear-Blog-Image-3.jpg
+2024-09-06 16:31:05 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Appoints Greg Dougherty to Board of Directors, Date: 2020-03-23, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-appoints-greg-dougherty-to-board-of-dire
+2024-09-06 16:31:05 [maxlinear_news] INFO: Saved article to articles\2020-03-23_MaxLinear Appoints Greg Dougherty to Board of Dire.txt
+2024-09-06 16:31:05 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Blog-Image-2.jpg?ext=.jpg to images\MaxLinear-Blog-Image-2.jpg
+2024-09-06 16:31:05 [maxlinear_news] INFO: Scraping article - Title: MaxLinear to acquire Intel’s Home Gateway Platform Division, Date: 2020-04-06, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-to-acquire-intel%E2%80%99s-home-gateway-platform
+2024-09-06 16:31:05 [maxlinear_news] INFO: Saved article to articles\2020-04-06_MaxLinear to acquire Intel_s Home Gateway Platform.txt
+2024-09-06 16:31:05 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/maxLinear-Enables-HelEOS-Solution.jpg?ext=.jpg to images\maxLinear-Enables-HelEOS-Solution.jpg
+2024-09-06 16:31:05 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/maxLinear-Enables-HelEOS-Solution.jpg?ext=.jpg to images\maxLinear-Enables-HelEOS-Solution.jpg
+2024-09-06 16:31:06 [maxlinear_news] INFO: Scraping article - Title: MaxLinear MxL85110 Gigabit Modem Drives Giax HelEOS™ Solution in Field Trials for 5G Mobile Backhaul over the Cable Network, Date: 2020-04-09, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-mxl85110-gigabit-modem-drives-giax-heleo
+2024-09-06 16:31:06 [maxlinear_news] INFO: Saved article to articles\2020-04-09_MaxLinear MxL85110 Gigabit Modem Drives Giax HelEO.txt
+2024-09-06 16:31:06 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/maxLinear-Enables-Aviat-New-WTM.jpg?ext=.jpg to images\maxLinear-Enables-Aviat-New-WTM.jpg
+2024-09-06 16:31:06 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/maxLinear-Enables-Aviat-New-WTM.jpg?ext=.jpg to images\maxLinear-Enables-Aviat-New-WTM.jpg
+2024-09-06 16:31:06 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Backhaul Chipset Enables Aviat Networks' New WTM 4800 E-Band & MicroWave Radio Platform with Multiband Capability, Date: 2020-04-15, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-backhaul-chipset-enables-aviat-networks
+2024-09-06 16:31:06 [maxlinear_news] INFO: Saved article to articles\2020-04-15_MaxLinear Backhaul Chipset Enables Aviat Networks_.txt
+2024-09-06 16:31:06 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Gigabit-Connectivity-Power-Line.jpg?ext=.jpg to images\MaxLinear-Gigabit-Connectivity-Power-Line.jpg
+2024-09-06 16:31:06 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Gigabit-Connectivity-Power-Line.jpg?ext=.jpg to images\MaxLinear-Gigabit-Connectivity-Power-Line.jpg
+2024-09-06 16:31:06 [maxlinear_news] INFO: Scraping article - Title: MaxLinear’s 88LX5152+88LX2720 G.hn Chipset Selected by Comtrend for its New Family of PowerGrid Devices, Date: 2020-08-25, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear%E2%80%99s-88lx5152-88lx2720-g-hn-chipset-selecte
+2024-09-06 16:31:06 [maxlinear_news] INFO: Saved article to articles\2020-08-25_MaxLinear_s 88LX5152_88LX2720 G.hn Chipset Selecte.txt
+2024-09-06 16:31:06 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Backhaul-Connectivity-Siklu.jpg?ext=.jpg to images\MaxLinear-Backhaul-Connectivity-Siklu.jpg
+2024-09-06 16:31:06 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Backhaul-Connectivity-Siklu.jpg?ext=.jpg to images\MaxLinear-Backhaul-Connectivity-Siklu.jpg
+2024-09-06 16:31:06 [maxlinear_news] INFO: Scraping article - Title: MaxLinear 20Gbps Millimeter MxL85110 Modem Fuels Backhaul Connectivity for Siklu EtherHaul™ Product Family, Date: 2020-04-21, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-20gbps-millimeter-mxl85110-modem-fuels-b
+2024-09-06 16:31:06 [maxlinear_news] INFO: Saved article to articles\2020-04-21_MaxLinear 20Gbps Millimeter MxL85110 Modem Fuels B.txt
+2024-09-06 16:31:06 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Telluride-PAM4-DSP.jpg?ext=.jpg to images\MaxLinear-Telluride-PAM4-DSP.jpg
+2024-09-06 16:31:07 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Telluride-PAM4-DSP.jpg?ext=.jpg to images\MaxLinear-Telluride-PAM4-DSP.jpg
+2024-09-06 16:31:07 [maxlinear_news] INFO: Scraping article - Title: MaxLinear’s 2nd Generation PAM4 DSP Selected by Centera Photonics to Deliver Sub-3.5W 100G Optical Modules for Hyperscale Data Centers, Date: 2020-03-10, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear%E2%80%99s-2nd-generation-pam4-dsp-selected-by-ce
+2024-09-06 16:31:07 [maxlinear_news] INFO: Saved article to articles\2020-03-10_MaxLinear_s 2nd Generation PAM4 DSP Selected by Ce.txt
+2024-09-06 16:31:07 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLInear-Technology-Powers-Smart-Cities.jpg?ext=.jpg to images\MaxLInear-Technology-Powers-Smart-Cities.jpg
+2024-09-06 16:31:07 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLInear-Technology-Powers-Smart-Cities.jpg?ext=.jpg to images\MaxLInear-Technology-Powers-Smart-Cities.jpg
+2024-09-06 16:31:07 [maxlinear_news] INFO: Scraping article - Title: MaxLinear’s G.hn Technology Powers Smart Cities of the Future with UVAX Connected Street Lighting Solutions, Date: 2020-08-20, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear%E2%80%99s-g-hn-technology-powers-smart-cities-of
+2024-09-06 16:31:07 [maxlinear_news] INFO: Saved article to articles\2020-08-20_MaxLinear_s G.hn Technology Powers Smart Cities of.txt
+2024-09-06 16:31:07 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/maxLinear-Powers-Technetix-Virtual-Segmentation.jpg?ext=.jpg to images\maxLinear-Powers-Technetix-Virtual-Segmentation.jpg
+2024-09-06 16:31:07 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/maxLinear-Powers-Technetix-Virtual-Segmentation.jpg?ext=.jpg to images\maxLinear-Powers-Technetix-Virtual-Segmentation.jpg
+2024-09-06 16:31:07 [maxlinear_news] INFO: Scraping article - Title: MaxLinear’s High-Speed MxL85110 Modem Enables Technetix Virtual Segmentation™ for Wireless Backhaul Deployment over Cable, Date: 2020-03-31, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear%E2%80%99s-high-speed-mxl85110-modem-enables-tech
+2024-09-06 16:31:07 [maxlinear_news] INFO: Saved article to articles\2020-03-31_MaxLinear_s High-Speed MxL85110 Modem Enables Tech.txt
+2024-09-06 16:31:07 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Blog-Image-2.jpg?ext=.jpg to images\MaxLinear-Blog-Image-2.jpg
+2024-09-06 16:31:07 [maxlinear_news] INFO: Scraping article - Title: MaxLinear PAM4 DSP Enables uSenlight Corporation to Develop 400G Optical Modules for Hyperscale Data Centers, Date: 2020-04-02, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-pam4-dsp-enables-usenlight-corporation-t
+2024-09-06 16:31:07 [maxlinear_news] INFO: Saved article to articles\2020-04-02_MaxLinear PAM4 DSP Enables uSenlight Corporation t.txt
+2024-09-06 16:31:07 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MxL7225-Conquers-Thermal-Challenges.jpg?ext=.jpg to images\MxL7225-Conquers-Thermal-Challenges.jpg
+2024-09-06 16:31:07 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MxL7225-Conquers-Thermal-Challenges.jpg?ext=.jpg to images\MxL7225-Conquers-Thermal-Challenges.jpg
+2024-09-06 16:31:07 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Announces Three New High-Current DC/DC Power Modules that Simplify FPGA, DSP and SoC Power Management Designs in Infrastructure Applications, Date: 2020-12-01, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-announces-three-new-high-current-dc-dc-p
+2024-09-06 16:31:07 [maxlinear_news] INFO: Saved article to articles\2020-12-01_MaxLinear Announces Three New High-Current DC_DC P.txt
+2024-09-06 16:31:07 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-5G-Open-RAN-Radio-Platform.jpg?ext=.jpg to images\MaxLinear-5G-Open-RAN-Radio-Platform.jpg
+2024-09-06 16:31:08 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-5G-Open-RAN-Radio-Platform.jpg?ext=.jpg to images\MaxLinear-5G-Open-RAN-Radio-Platform.jpg
+2024-09-06 16:31:08 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Transceiver Chipset Enables MTI’s 5G Open RAN Radio Platform, Date: 2020-12-15, URL: https://www.maxlinear.com/news/press-releases/2020/maxlinear-transceiver-chipset-enables-mti%E2%80%99s-5g-ope
+2024-09-06 16:31:08 [maxlinear_news] INFO: Saved article to articles\2020-12-15_MaxLinear Transceiver Chipset Enables MTI_s 5G Ope.txt
+2024-09-06 16:31:08 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Blog-Image-3.jpg?ext=.jpg to images\MaxLinear-Blog-Image-3.jpg
+2024-09-06 16:31:08 [maxlinear_news] INFO: Scraping article - Title: MaxLinear’s New WAV664 Wi-Fi SoC Selected for Wi-Fi Alliance ® Wi-Fi 6E Certification Test Bed, Date: 2021-01-07, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear%E2%80%99s-new-wav664-wi-fi-soc-selected-for-wi-f
+2024-09-06 16:31:08 [maxlinear_news] INFO: Saved article to articles\2021-01-07_MaxLinear_s New WAV664 Wi-Fi SoC Selected for Wi-F.txt
+2024-09-06 16:31:08 [scrapy.extensions.logstats] INFO: Crawled 42 pages (at 42 pages/min), scraped 0 items (at 0 items/min)
+2024-09-06 16:31:08 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Blog-Image-1.jpg?ext=.jpg to images\MaxLinear-Blog-Image-1.jpg
+2024-09-06 16:31:08 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Joins the O-RAN ALLIANCE, Date: 2021-01-20, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-joins-the-o-ran-alliance
+2024-09-06 16:31:08 [maxlinear_news] INFO: Saved article to articles\2021-01-20_MaxLinear Joins the O-RAN ALLIANCE.txt
+2024-09-06 16:31:08 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Collaborates-with-Facebook.jpg?ext=.jpg to images\MaxLinear-Collaborates-with-Facebook.jpg
+2024-09-06 16:31:08 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Collaborates-with-Facebook.jpg?ext=.jpg to images\MaxLinear-Collaborates-with-Facebook.jpg
+2024-09-06 16:31:08 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Collaborates with Facebook Connectivity on Evenstar OpenRAN Solutions, Date: 2021-02-16, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-collaborates-with-facebook-connectivity
+2024-09-06 16:31:08 [maxlinear_news] INFO: Saved article to articles\2021-02-16_MaxLinear Collaborates with Facebook Connectivity .txt
+2024-09-06 16:31:08 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-and-NI-Collaborate.jpg?ext=.jpg to images\MaxLinear-and-NI-Collaborate.jpg
+2024-09-06 16:31:08 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-and-NI-Collaborate.jpg?ext=.jpg to images\MaxLinear-and-NI-Collaborate.jpg
+2024-09-06 16:31:08 [maxlinear_news] INFO: Scraping article - Title: MaxLinear and NI Collaborate to Simplify Validation of Wideband Power Amplifiers for 5G Networks, Date: 2021-02-23, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-and-ni-collaborate-to-simplify-validatio
+2024-09-06 16:31:08 [maxlinear_news] INFO: Saved article to articles\2021-02-23_MaxLinear and NI Collaborate to Simplify Validatio.txt
+2024-09-06 16:31:08 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Industry-1st-Quad-Port-PHY-2-5G.jpg?ext=.jpg to images\MaxLinear-Industry-1st-Quad-Port-PHY-2-5G.jpg
+2024-09-06 16:31:09 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Industry-1st-Quad-Port-PHY-2-5G.jpg?ext=.jpg to images\MaxLinear-Industry-1st-Quad-Port-PHY-2-5G.jpg
+2024-09-06 16:31:09 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Announces Industry’s First Quad-Port PHY Optimized for 2.5GBASE-T Enabling Cost-Effective 2.5G Ethernet Multiport Applications , Date: 2021-03-03, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-announces-industry%E2%80%99s-first-quad-port-phy
+2024-09-06 16:31:09 [maxlinear_news] INFO: Saved article to articles\2021-03-03_MaxLinear Announces Industry_s First Quad-Port PHY.txt
+2024-09-06 16:31:09 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Spirit-Grid-Software.jpg?ext=.jpg to images\MaxLinear-Spirit-Grid-Software.jpg
+2024-09-06 16:31:09 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Spirit-Grid-Software.jpg?ext=.jpg to images\MaxLinear-Spirit-Grid-Software.jpg
+2024-09-06 16:31:09 [maxlinear_news] INFO: Scraping article - Title: MaxLinear G.hn Spirit Grid Software Transforms Connectivity in High-Speed Industrial IoT Applications, Date: 2021-04-06, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-g-hn-spirit-grid-software-transforms-con
+2024-09-06 16:31:09 [maxlinear_news] INFO: Saved article to articles\2021-04-06_MaxLinear G.hn Spirit Grid Software Transforms Con.txt
+2024-09-06 16:31:09 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-inango-partner.jpg?ext=.jpg to images\MaxLinear-inango-partner.jpg
+2024-09-06 16:31:09 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-inango-partner.jpg?ext=.jpg to images\MaxLinear-inango-partner.jpg
+2024-09-06 16:31:09 [maxlinear_news] INFO: Scraping article - Title: MaxLinear and Inango Systems Partner to Allow ISPs to Deploy High-Value Software Services Faster , Date: 2021-04-21, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-and-inango-systems-partner-to-allow-isps
+2024-09-06 16:31:09 [maxlinear_news] INFO: Saved article to articles\2021-04-21_MaxLinear and Inango Systems Partner to Allow ISPs.txt
+2024-09-06 16:31:09 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Showcases-Industry-First.jpg?ext=.jpg to images\MaxLinear-Showcases-Industry-First.jpg
+2024-09-06 16:31:09 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Showcases-Industry-First.jpg?ext=.jpg to images\MaxLinear-Showcases-Industry-First.jpg
+2024-09-06 16:31:09 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Showcases Industry’s First 5nm CMOS 800G PAM4 DSP on TSMC Advanced Process at OFC 2021, Date: 2021-06-01, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-showcases-industry%E2%80%99s-first-5nm-cmos-800g
+2024-09-06 16:31:09 [maxlinear_news] INFO: Saved article to articles\2021-06-01_MaxLinear Showcases Industry_s First 5nm CMOS 800G.txt
+2024-09-06 16:31:09 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-PAM4-DSP-Selected-by-uSenlight.jpg?ext=.jpg to images\MaxLinear-PAM4-DSP-Selected-by-uSenlight.jpg
+2024-09-06 16:31:10 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-PAM4-DSP-Selected-by-uSenlight.jpg?ext=.jpg to images\MaxLinear-PAM4-DSP-Selected-by-uSenlight.jpg
+2024-09-06 16:31:10 [maxlinear_news] INFO: Scraping article - Title: MaxLinear’s PAM4 DSP Selected by uSenlight to Deliver Sub-3.5W 100G Optical Modules for Hyperscale Data Centers and Wireless Fronthaul Applications, Date: 2021-06-08, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear%E2%80%99s-pam4-dsp-selected-by-usenlight-to-deli
+2024-09-06 16:31:10 [maxlinear_news] INFO: Saved article to articles\2021-06-08_MaxLinear_s PAM4 DSP Selected by uSenlight to Deli.txt
+2024-09-06 16:31:10 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-MACOM-Collaborate.jpg?ext=.jpg to images\MaxLinear-MACOM-Collaborate.jpg
+2024-09-06 16:31:10 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-MACOM-Collaborate.jpg?ext=.jpg to images\MaxLinear-MACOM-Collaborate.jpg
+2024-09-06 16:31:10 [maxlinear_news] INFO: Scraping article - Title: MACOM and MaxLinear Collaborate on 100G, 400G and 800G Solutions for Data Center Applications, Date: 2021-06-09, URL: https://www.maxlinear.com/news/press-releases/2021/macom-and-maxlinear-collaborate-on-100g,-400g-and
+2024-09-06 16:31:10 [maxlinear_news] INFO: Saved article to articles\2021-06-09_MACOM and MaxLinear Collaborate on 100G_ 400G and .txt
+2024-09-06 16:31:10 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Linearization-Cree-GaN.jpg?ext=.jpg to images\MaxLinear-Linearization-Cree-GaN.jpg
+2024-09-06 16:31:10 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Linearization-Cree-GaN.jpg?ext=.jpg to images\MaxLinear-Linearization-Cree-GaN.jpg
+2024-09-06 16:31:10 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Linearization and Cree GaN on SiC Power Amplifiers Combine to Efficiently Power New Ultra-Wideband 5G, Date: 2021-06-23, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-linearization-and-cree-gan-on-sic-power
+2024-09-06 16:31:10 [maxlinear_news] INFO: Saved article to articles\2021-06-23_MaxLinear Linearization and Cree GaN on SiC Power .txt
+2024-09-06 16:31:10 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-UTEK-Next-Generation.jpg?ext=.jpg to images\MaxLinear-UTEK-Next-Generation.jpg
+2024-09-06 16:31:10 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-UTEK-Next-Generation.jpg?ext=.jpg to images\MaxLinear-UTEK-Next-Generation.jpg
+2024-09-06 16:31:10 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Bridges and Transceivers Enable UTEK’s Next-Generation Industrial IoT Platforms, Date: 2021-07-21, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-bridges-and-transceivers-enable-utek%E2%80%99s-n
+2024-09-06 16:31:10 [maxlinear_news] INFO: Saved article to articles\2021-07-21_MaxLinear Bridges and Transceivers Enable UTEK_s N.txt
+2024-09-06 16:31:10 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-RFHIC-Breakthrough-Linearization.jpg?ext=.jpg to images\MaxLinear-RFHIC-Breakthrough-Linearization.jpg
+2024-09-06 16:31:10 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-RFHIC-Breakthrough-Linearization.jpg?ext=.jpg to images\MaxLinear-RFHIC-Breakthrough-Linearization.jpg
+2024-09-06 16:31:11 [maxlinear_news] INFO: Scraping article - Title: RFHIC and MaxLinear Achieve Breakthrough Linearization Performance for Ultra-Wideband 5G New Radio, Date: 2021-08-10, URL: https://www.maxlinear.com/news/press-releases/2021/rfhic-and-maxlinear-achieve-breakthrough-lineariza
+2024-09-06 16:31:11 [maxlinear_news] INFO: Saved article to articles\2021-08-10_RFHIC and MaxLinear Achieve Breakthrough Lineariza.txt
+2024-09-06 16:31:11 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-DMI920-IIoT-Evaluation-Platform.jpg?ext=.jpg to images\MaxLinear-DMI920-IIoT-Evaluation-Platform.jpg
+2024-09-06 16:31:11 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-DMI920-IIoT-Evaluation-Platform.jpg?ext=.jpg to images\MaxLinear-DMI920-IIoT-Evaluation-Platform.jpg
+2024-09-06 16:31:11 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Industrial IoT Evaluation Platform Combines G.hn Gigabit Capability with Common Industrial Interfaces, Date: 2021-08-25, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-industrial-iot-evaluation-platform-combi
+2024-09-06 16:31:11 [maxlinear_news] INFO: Saved article to articles\2021-08-25_MaxLinear Industrial IoT Evaluation Platform Combi.txt
+2024-09-06 16:31:11 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-Portwell-Trans-Bridges.jpg?ext=.jpg to images\Maxlinear-Portwell-Trans-Bridges.jpg
+2024-09-06 16:31:11 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-Portwell-Trans-Bridges.jpg?ext=.jpg to images\Maxlinear-Portwell-Trans-Bridges.jpg
+2024-09-06 16:31:11 [maxlinear_news] INFO: Scraping article - Title: Portwell Selects MaxLinear Multi-Protocol Transceivers and Bridges for Data Center & IIoT Solutions , Date: 2021-11-09, URL: https://www.maxlinear.com/news/press-releases/2021/portwell-selects-maxlinear-multi-protocol-transcei
+2024-09-06 16:31:11 [maxlinear_news] INFO: Saved article to articles\2021-11-09_Portwell Selects MaxLinear Multi-Protocol Transcei.txt
+2024-09-06 16:31:11 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-PAM4-DSP-400G-QSFP-DD.jpg?ext=.jpg to images\MaxLinear-PAM4-DSP-400G-QSFP-DD.jpg
+2024-09-06 16:31:11 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-PAM4-DSP-400G-QSFP-DD.jpg?ext=.jpg to images\MaxLinear-PAM4-DSP-400G-QSFP-DD.jpg
+2024-09-06 16:31:11 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Showcases 400G Transceivers for High-Volume Hyperscale Data Center Interconnects, Date: 2021-09-17, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-showcases-400g-transceivers-for-high-vol
+2024-09-06 16:31:11 [maxlinear_news] INFO: Saved article to articles\2021-09-17_MaxLinear Showcases 400G Transceivers for High-Vol.txt
+2024-09-06 16:31:11 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-XR77103-MoCA.jpg?ext=.jpg to images\Maxlinear-XR77103-MoCA.jpg
+2024-09-06 16:31:11 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-XR77103-MoCA.jpg?ext=.jpg to images\Maxlinear-XR77103-MoCA.jpg
+2024-09-06 16:31:11 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Simplifies Engineering Design for Home Connectivity Solutions, Date: 2021-11-03, URL: https://www.maxlinear.com/news/press-releases/2021/maxlinear-simplifies-engineering-design-for-home-c
+2024-09-06 16:31:11 [maxlinear_news] INFO: Saved article to articles\2021-11-03_MaxLinear Simplifies Engineering Design for Home C.txt
+2024-09-06 16:31:12 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxlLinear-Centec-Partner-Multi-Gigabit-Whitebox.jpg?ext=.jpg to images\MaxlLinear-Centec-Partner-Multi-Gigabit-Whitebox.jpg
+2024-09-06 16:31:12 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxlLinear-Centec-Partner-Multi-Gigabit-Whitebox.jpg?ext=.jpg to images\MaxlLinear-Centec-Partner-Multi-Gigabit-Whitebox.jpg
+2024-09-06 16:31:12 [maxlinear_news] INFO: Scraping article - Title: Centec Partners with MaxLinear for Next-generation Multi-Gigabit Whitebox Switch Solutions , Date: 2021-12-16, URL: https://www.maxlinear.com/news/press-releases/2021/centec-partners-with-maxlinear-for-next-generation-df76d8ef343bb4b018275f587a50ca87
+2024-09-06 16:31:12 [maxlinear_news] INFO: Saved article to articles\2021-12-16_Centec Partners with MaxLinear for Next-generation.txt
+2024-09-06 16:31:12 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-WI-Fi6-Cert.jpg?ext=.jpg to images\Maxlinear-WI-Fi6-Cert.jpg
+2024-09-06 16:31:12 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-WI-Fi6-Cert.jpg?ext=.jpg to images\Maxlinear-WI-Fi6-Cert.jpg
+2024-09-06 16:31:12 [maxlinear_news] INFO: Scraping article - Title: MaxLinear WAV600 Series-2 Chipset Selected for Wi-Fi Alliance Wi-Fi 6 Release 2 Certification Test Bed, Date: 2022-01-05, URL: https://www.maxlinear.com/news/press-releases/2022/centec-partners-with-maxlinear-for-next-generation
+2024-09-06 16:31:12 [maxlinear_news] INFO: Saved article to articles\2022-01-05_MaxLinear WAV600 Series-2 Chipset Selected for Wi-.txt
+2024-09-06 16:31:12 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-Sivers-Reference-Design.jpg?ext=.jpg to images\Maxlinear-Sivers-Reference-Design.jpg
+2024-09-06 16:31:12 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-Sivers-Reference-Design.jpg?ext=.jpg to images\Maxlinear-Sivers-Reference-Design.jpg
+2024-09-06 16:31:12 [maxlinear_news] INFO: Scraping article - Title: Sivers Semiconductors and MaxLinear Partner to Develop Point-to-Point Radio Solution, Date: 2022-02-10, URL: https://www.maxlinear.com/news/press-releases/2022/sivers-semiconductors-and-maxlinear-partner-to-dev
+2024-09-06 16:31:12 [maxlinear_news] INFO: Saved article to articles\2022-02-10_Sivers Semiconductors and MaxLinear Partner to Dev.txt
+2024-09-06 16:31:12 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-Intel-Agilex.jpg?ext=.jpg to images\Maxlinear-Intel-Agilex.jpg
+2024-09-06 16:31:12 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Maxlinear-Intel-Agilex.jpg?ext=.jpg to images\Maxlinear-Intel-Agilex.jpg
+2024-09-06 16:31:12 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Develops High Efficiency 5G Open RAN Radio Platform on Intel Agilex FPGA, Date: 2022-02-15, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-develops-high-efficiency-5g-open-ran
+2024-09-06 16:31:12 [maxlinear_news] INFO: Saved article to articles\2022-02-15_MaxLinear Develops High Efficiency 5G Open RAN Rad.txt
+2024-09-06 16:31:12 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Single-Chip-Solution.jpg?ext=.jpg to images\Single-Chip-Solution.jpg
+2024-09-06 16:31:13 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Single-Chip-Solution.jpg?ext=.jpg to images\Single-Chip-Solution.jpg
+2024-09-06 16:31:13 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Announces Single-Chip Solution for 5G Open RAN Radio Units, Date: 2022-02-23, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-announces-single-chip-solution-for-5g-op
+2024-09-06 16:31:13 [maxlinear_news] INFO: Saved article to articles\2022-02-23_MaxLinear Announces Single-Chip Solution for 5G Op.txt
+2024-09-06 16:31:13 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/maxlinear-ZHT-small-cell.jpg?ext=.jpg to images\maxlinear-ZHT-small-cell.jpg
+2024-09-06 16:31:13 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/maxlinear-ZHT-small-cell.jpg?ext=.jpg to images\maxlinear-ZHT-small-cell.jpg
+2024-09-06 16:31:13 [maxlinear_news] INFO: Scraping article - Title: ZHT Partners with MaxLinear for Next-Generation 5G Small Cell Solutions, Date: 2022-02-24, URL: https://www.maxlinear.com/news/press-releases/2022/zht-partners-with-maxlinear-for-next-generation-5g
+2024-09-06 16:31:13 [maxlinear_news] INFO: Saved article to articles\2022-02-24_ZHT Partners with MaxLinear for Next-Generation 5G.txt
+2024-09-06 16:31:13 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/maxlinear-and-sumitomo.jpg?ext=.jpg to images\maxlinear-and-sumitomo.jpg
+2024-09-06 16:31:13 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/maxlinear-and-sumitomo.jpg?ext=.jpg to images\maxlinear-and-sumitomo.jpg
+2024-09-06 16:31:13 [maxlinear_news] INFO: Scraping article - Title: MaxLinear and Sumitomo Electric Device Innovations Announce Availability of FOTON: 400G-DR4 Reference Platform based on Keystone 5nm DSP, Date: 2022-03-03, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-and-sumitomo-electric-device-innovations
+2024-09-06 16:31:13 [maxlinear_news] INFO: Saved article to articles\2022-03-03_MaxLinear and Sumitomo Electric Device Innovations.txt
+2024-09-06 16:31:13 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Macom-IIVI.jpg?ext=.jpg to images\MaxLinear-Macom-IIVI.jpg
+2024-09-06 16:31:13 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Macom-IIVI.jpg?ext=.jpg to images\MaxLinear-Macom-IIVI.jpg
+2024-09-06 16:31:13 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Partners with MACOM and II-VI to Showcase 100Gbps per Lane Multi-Mode Links at OFC, Date: 2022-03-08, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-partners-with-macom-and-ii-vi-to-showcas
+2024-09-06 16:31:13 [maxlinear_news] INFO: Saved article to articles\2022-03-08_MaxLinear Partners with MACOM and II-VI to Showcas.txt
+2024-09-06 16:31:13 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Blog-Image-3.jpg?ext=.jpg to images\MaxLinear-Blog-Image-3.jpg
+2024-09-06 16:31:13 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Enables MWave’s Ultra-Flexible G.hn Module for Industrial Applications, Date: 2023-05-10, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-enables-mwave%E2%80%99s-ultra-flexible-g-hn-modu
+2024-09-06 16:31:13 [maxlinear_news] INFO: Saved article to articles\2023-05-10_MaxLinear Enables MWave_s Ultra-Flexible G.hn Modu.txt
+2024-09-06 16:31:13 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Qorvo.jpg?ext=.jpg to images\MaxLinear-Qorvo.jpg
+2024-09-06 16:31:14 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Qorvo.jpg?ext=.jpg to images\MaxLinear-Qorvo.jpg
+2024-09-06 16:31:14 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Teams with Qorvo to Enable High-Efficiency Power Amplifiers for Massive MIMO Radio Solution, Date: 2022-06-22, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-teams-with-qorvo-to-enable-high-efficien
+2024-09-06 16:31:14 [maxlinear_news] INFO: Saved article to articles\2022-06-22_MaxLinear Teams with Qorvo to Enable High-Efficien.txt
+2024-09-06 16:31:14 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/AAEON-Selects-MaxLinear.jpg?ext=.jpg to images\AAEON-Selects-MaxLinear.jpg
+2024-09-06 16:31:14 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/AAEON-Selects-MaxLinear.jpg?ext=.jpg to images\AAEON-Selects-MaxLinear.jpg
+2024-09-06 16:31:14 [maxlinear_news] INFO: Scraping article - Title: AAEON Selects MaxLinear Multiprotocol Serial Transceivers for Ruggedized Tablet Computers, Date: 2022-03-31, URL: https://www.maxlinear.com/news/press-releases/2022/aaeon-selects-maxlinear-multiprotocol-serial-trans
+2024-09-06 16:31:14 [maxlinear_news] INFO: Saved article to articles\2022-03-31_AAEON Selects MaxLinear Multiprotocol Serial Trans.txt
+2024-09-06 16:31:14 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Industrial-Interenet.jpg?ext=.jpg to images\MaxLinear-Industrial-Interenet.jpg
+2024-09-06 16:31:14 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Industrial-Interenet.jpg?ext=.jpg to images\MaxLinear-Industrial-Interenet.jpg
+2024-09-06 16:31:14 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Expands Portfolio of Industrial Ethernet Products with a Quad-Port 2.5GBase-T PHY and 1GBase-T Switches, Date: 2022-04-07, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-expands-portfolio-of-industrial-ethernet
+2024-09-06 16:31:14 [maxlinear_news] INFO: Saved article to articles\2022-04-07_MaxLinear Expands Portfolio of Industrial Ethernet.txt
+2024-09-06 16:31:14 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/15A-Step-Down-Switching-Regulator.jpg?ext=.jpg to images\15A-Step-Down-Switching-Regulator.jpg
+2024-09-06 16:31:14 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/15A-Step-Down-Switching-Regulator.jpg?ext=.jpg to images\15A-Step-Down-Switching-Regulator.jpg
+2024-09-06 16:31:14 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Introduces a 15A Step-Down Switching Regulator With 2-Bit VID to Power High-Speed Digital and RF Systems, Date: 2023-03-20, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-introduces-a-15a-step-down-switching-reg
+2024-09-06 16:31:14 [maxlinear_news] INFO: Saved article to articles\2023-03-20_MaxLinear Introduces a 15A Step-Down Switching Reg.txt
+2024-09-06 16:31:14 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Advantech.jpg?ext=.jpg to images\MaxLinear-Advantech.jpg
+2024-09-06 16:31:14 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Advantech.jpg?ext=.jpg to images\MaxLinear-Advantech.jpg
+2024-09-06 16:31:15 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Partners with Advantech for PCIe UARTs and Multiprotocol Serial Transceivers for High-Performance Modular Industrial PCs, Date: 2022-04-13, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-partners-with-advantech-for-pcie-uarts-a
+2024-09-06 16:31:15 [maxlinear_news] INFO: Saved article to articles\2022-04-13_MaxLinear Partners with Advantech for PCIe UARTs a.txt
+2024-09-06 16:31:15 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/JPC-Active-Electrical_Blog-IMG.jpg?ext=.jpg to images\JPC-Active-Electrical_Blog-IMG.jpg
+2024-09-06 16:31:15 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/JPC-Active-Electrical_Blog-IMG.jpg?ext=.jpg to images\JPC-Active-Electrical_Blog-IMG.jpg
+2024-09-06 16:31:15 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Partners with JPC Connectivity to Build Active Electrical Cables Using Keystone PAM4 DSP, Date: 2023-05-25, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-partners-with-jpc-connectivity-to-build
+2024-09-06 16:31:15 [maxlinear_news] INFO: Saved article to articles\2023-05-25_MaxLinear Partners with JPC Connectivity to Build .txt
+2024-09-06 16:31:15 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-iPoLs.jpg?ext=.jpg to images\MaxLinear-iPoLs.jpg
+2024-09-06 16:31:15 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-iPoLs.jpg?ext=.jpg to images\MaxLinear-iPoLs.jpg
+2024-09-06 16:31:15 [maxlinear_news] INFO: Scraping article - Title: MaxLinear announces Intelligent Point of Load Solutions at APEC 2022, Date: 2022-03-22, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-announces-intelligent-point-of-load-solu
+2024-09-06 16:31:15 [maxlinear_news] INFO: Saved article to articles\2022-03-22_MaxLinear announces Intelligent Point of Load Solu.txt
+2024-09-06 16:31:15 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Ethernet-Switch_Blog-IMG.jpg?ext=.jpg to images\Ethernet-Switch_Blog-IMG.jpg
+2024-09-06 16:31:15 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/Ethernet-Switch_Blog-IMG.jpg?ext=.jpg to images\Ethernet-Switch_Blog-IMG.jpg
+2024-09-06 16:31:15 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Expands its Diverse Ethernet Portfolio with 2.5G Ethernet switches and eight port 2.5G Enterprise PHYs, Date: 2023-05-25, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-expands-its-diverse-ethernet-portfolio-w
+2024-09-06 16:31:15 [maxlinear_news] INFO: Saved article to articles\2023-05-25_MaxLinear Expands its Diverse Ethernet Portfolio w.txt
+2024-09-06 16:31:15 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/f407534c-1ecf-4594-be02-cc4135f47a16/Keystone_PR-Blog-1.jpg?width=800&height=456&ext=.jpg to images\Keystone_PR-Blog-1.jpg
+2024-09-06 16:31:15 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/f407534c-1ecf-4594-be02-cc4135f47a16/Keystone_PR-Blog-1.jpg?width=800&height=456&ext=.jpg to images\Keystone_PR-Blog-1.jpg
+2024-09-06 16:31:15 [maxlinear_news] INFO: Scraping article - Title: MaxLinear announces 5nm CMOS PAM4 DSP with integrated VCSEL drivers for 800G and 400G Multimode short-reach optical modules and Active Optical Cables (AOC), Date: 2023-09-28, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-announces-5nm-cmos-pam4-dsp-with-integrated-vcsel-drivers-for-800g-and-400g-multimode-shor
+2024-09-06 16:31:15 [maxlinear_news] INFO: Saved article to articles\2023-09-28_MaxLinear announces 5nm CMOS PAM4 DSP with integra.txt
+2024-09-06 16:31:15 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/eac143b4-58ad-4419-8afc-df8207f7ef7e/MicrosoftTeams-image-(2).png?width=800&height=456&ext=.png to images\MicrosoftTeams-image-(2).png
+2024-09-06 16:31:15 [maxlinear_news] INFO: Downloading image https://mms.businesswire.com/media/20230807363424/en/1860123/4/MicrosoftTeams-image_%281%29.jpg to images\MicrosoftTeams-image_%281%29.jpg
+2024-09-06 16:31:16 [maxlinear_news] INFO: Scraping article - Title: MaxLinear announces production availability of Panther III storage accelerator OCP adapter card, Date: 2023-08-07, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-announces-production-availability-of-panther-iii-storage-accelerator-ocp-adapter-card
+2024-09-06 16:31:16 [maxlinear_news] INFO: Saved article to articles\2023-08-07_MaxLinear announces production availability of Pan.txt
+2024-09-06 16:31:16 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/6833135b-40e2-47d6-83c1-201c16779666/Paositron_PR-1.jpg?width=800&height=456&ext=.jpg to images\Paositron_PR-1.jpg
+2024-09-06 16:31:16 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/6833135b-40e2-47d6-83c1-201c16779666/Paositron_PR-1.jpg?width=800&height=456&ext=.jpg to images\Paositron_PR-1.jpg
+2024-09-06 16:31:16 [maxlinear_news] INFO: Scraping article - Title: MaxLinear and Positron Partner to Accelerate Broadband Deployment with Fiber Speeds to the Home, Date: 2023-10-16, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-and-positron-partner-to-accelerate-broadband-deployment-with-fiber-speeds-to-the-home
+2024-09-06 16:31:16 [maxlinear_news] INFO: Saved article to articles\2023-10-16_MaxLinear and Positron Partner to Accelerate Broad.txt
+2024-09-06 16:31:16 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/b75a6227-6a46-42b3-9918-3e3fce51fc56/MicrosoftTeams-image-(6).png?width=800&height=456&ext=.png to images\MicrosoftTeams-image-(6).png
+2024-09-06 16:31:16 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/b75a6227-6a46-42b3-9918-3e3fce51fc56/MicrosoftTeams-image-(6).png?width=800&height=456&ext=.png to images\MicrosoftTeams-image-(6).png
+2024-09-06 16:31:16 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Announces Availability of Puma™ 8, its DOCSIS® 4.0 Cable Modem and Gateway Platform, Date: 2023-10-17, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-announces-availability-of-puma%E2%84%A2-8,-its-docsis%C2%AE-4-0-cable-modem-and-gateway-platform
+2024-09-06 16:31:16 [maxlinear_news] INFO: Saved article to articles\2023-10-17_MaxLinear Announces Availability of Puma_ 8_ its D.txt
+2024-09-06 16:31:16 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/c5c5bce3-42d3-43c5-99c4-b26d2ffefe95/MXL8310x_MxL8311x_Blog-IMG-(1).jpg?width=800&height=456&ext=.jpg to images\MXL8310x_MxL8311x_Blog-IMG-(1).jpg
+2024-09-06 16:31:17 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/c5c5bce3-42d3-43c5-99c4-b26d2ffefe95/MXL8310x_MxL8311x_Blog-IMG-(1).jpg?width=800&height=456&ext=.jpg to images\MXL8310x_MxL8311x_Blog-IMG-(1).jpg
+2024-09-06 16:31:17 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Launches Family of Half-Duplex RS-485 Transceivers Designed for Peak Performance in Demanding Industrial Environments, Date: 2023-06-07, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-launches-family-of-half-duplex-rs-485-tr
+2024-09-06 16:31:17 [maxlinear_news] INFO: Saved article to articles\2023-06-07_MaxLinear Launches Family of Half-Duplex RS-485 Tr.txt
+2024-09-06 16:31:17 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/ff313c87-4c32-4733-98e1-99bb048dd915/MxL1550-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\MxL1550-Blog-Image.jpg
+2024-09-06 16:31:17 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/ff313c87-4c32-4733-98e1-99bb048dd915/MxL1550-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\MxL1550-Blog-Image.jpg
+2024-09-06 16:31:17 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Achieves 32.44Gbps Data Rates in Successful JESD204C Interoperability Testing, Date: 2023-06-27, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-achieves-32-44-gbps-data-rates-in-succes
+2024-09-06 16:31:17 [maxlinear_news] INFO: Saved article to articles\2023-06-27_MaxLinear Achieves 32.44Gbps Data Rates in Success.txt
+2024-09-06 16:31:17 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/d473a117-7f5a-4e04-9c95-e31061a3746d/PRX-10G-PON-Gemtek-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\PRX-10G-PON-Gemtek-Blog-Image.jpg
+2024-09-06 16:31:17 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/d473a117-7f5a-4e04-9c95-e31061a3746d/PRX-10G-PON-Gemtek-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\PRX-10G-PON-Gemtek-Blog-Image.jpg
+2024-09-06 16:31:17 [maxlinear_news] INFO: Scraping article - Title: MaxLinear PRX 10G PON Chip Powers Gemtek’s Most Fully Featured PON Home Gateway Units, Date: 2023-10-23, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-prx-10g-pon-chip-powers-gemtek%E2%80%99s-most-fully-featured-pon-home-gateway-units
+2024-09-06 16:31:17 [maxlinear_news] INFO: Saved article to articles\2023-10-23_MaxLinear PRX 10G PON Chip Powers Gemtek_s Most Fu.txt
+2024-09-06 16:31:17 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/16122e06-89aa-49c5-a91a-c144b99dfc86/URX-OSP-prplOS-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\URX-OSP-prplOS-Blog-Image.jpg
+2024-09-06 16:31:17 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/16122e06-89aa-49c5-a91a-c144b99dfc86/URX-OSP-prplOS-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\URX-OSP-prplOS-Blog-Image.jpg
+2024-09-06 16:31:17 [maxlinear_news] INFO: Scraping article - Title: MaxLinear’s URX Open Source Platform and prpl Foundation’s prplOS Drive Innovation in Home Connectivity at prpl Summit 2023, Date: 2023-10-22, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear%E2%80%99s-urx-open-source-platform-and-prpl-foundation%E2%80%99s-prplos-drive-innovation-in-home-connectiv
+2024-09-06 16:31:17 [maxlinear_news] INFO: Saved article to articles\2023-10-22_MaxLinear_s URX Open Source Platform and prpl Foun.txt
+2024-09-06 16:31:17 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Aviat.jpg?ext=.jpg to images\MaxLinear-Aviat.jpg
+2024-09-06 16:31:17 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/MaxLinear/media/Images/News/MaxLinear-Aviat.jpg?ext=.jpg to images\MaxLinear-Aviat.jpg
+2024-09-06 16:31:17 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Wideband Modem to Enable Backhaul Networks that Accelerate 5G Deployments, Date: 2022-06-27, URL: https://www.maxlinear.com/news/press-releases/2022/maxlinear-wideband-modem-to-enable-backhaul-networ
+2024-09-06 16:31:17 [maxlinear_news] INFO: Saved article to articles\2022-06-27_MaxLinear Wideband Modem to Enable Backhaul Networ.txt
+2024-09-06 16:31:17 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/f6bc7196-03ac-4637-96a9-704fee81aca5/Wi-Fi-7-Power-Efficiency-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\Wi-Fi-7-Power-Efficiency-Blog-Image.jpg
+2024-09-06 16:31:18 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/f6bc7196-03ac-4637-96a9-704fee81aca5/Wi-Fi-7-Power-Efficiency-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\Wi-Fi-7-Power-Efficiency-Blog-Image.jpg
+2024-09-06 16:31:18 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Advanced Power Management Delivers Sub-5-Watt for Wi-Fi 7 XGS-PON Home Routers and Gateway Platforms, Date: 2023-10-23, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-advanced-power-management-delivers-sub-5-watt-for-wi-fi-7-xgs-pon-home-routers-and-gateway
+2024-09-06 16:31:18 [maxlinear_news] INFO: Saved article to articles\2023-10-23_MaxLinear Advanced Power Management Delivers Sub-5.txt
+2024-09-06 16:31:18 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/13cbbc2c-3d50-4d59-8356-1ae970563fda/MxL86111-and-MxL86110_Blog-IMG.jpg?width=800&height=456&ext=.jpg to images\MxL86111-and-MxL86110_Blog-IMG.jpg
+2024-09-06 16:31:18 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/13cbbc2c-3d50-4d59-8356-1ae970563fda/MxL86111-and-MxL86110_Blog-IMG.jpg?width=800&height=456&ext=.jpg to images\MxL86111-and-MxL86110_Blog-IMG.jpg
+2024-09-06 16:31:18 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Launches Single-Port 1G Ethernet PHY Family Aimed at Both Consumer and Industrial IOT Applications, Date: 2023-11-08, URL: https://www.maxlinear.com/news/press-releases/2023/maxlinear-launches-single-port-1g-ethernet-phy-family-aimed-at-both-consumer-and-industrial-iot-appl
+2024-09-06 16:31:18 [maxlinear_news] INFO: Saved article to articles\2023-11-08_MaxLinear Launches Single-Port 1G Ethernet PHY Fam.txt
+2024-09-06 16:31:18 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/8b7cfff1-def8-41c7-a472-201357a233ce/Puma-8-GreaterThan_PR-Linkedin-1.jpg?width=800&height=456&ext=.jpg to images\Puma-8-GreaterThan_PR-Linkedin-1.jpg
+2024-09-06 16:31:18 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/8b7cfff1-def8-41c7-a472-201357a233ce/Puma-8-GreaterThan_PR-Linkedin-1.jpg?width=800&height=456&ext=.jpg to images\Puma-8-GreaterThan_PR-Linkedin-1.jpg
+2024-09-06 16:31:18 [maxlinear_news] INFO: Scraping article - Title: MaxLinear’s Puma™ 8 DOCSIS® 4.0 ESD/FDD Achieves Greater than 10Gbps Throughput, Offering Cable Service Providers Maximum Network Upgrade Flexibility, Date: 2024-01-04, URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear%E2%80%99s-puma%E2%84%A2-8-docsis%C2%AE-4-0-esd-fdd-achieves-greater-than-10gbps-throughput,-offering-cable-serv
+2024-09-06 16:31:18 [maxlinear_news] INFO: Saved article to articles\2024-01-04_MaxLinear_s Puma_ 8 DOCSIS_ 4.0 ESD_FDD Achieves G.txt
+2024-09-06 16:31:18 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/1de707ec-aeee-456f-92be-bd21d393dd27/Linkedin-PR-CES2024-Demo.jpg?width=800&height=456&ext=.jpg to images\Linkedin-PR-CES2024-Demo.jpg
+2024-09-06 16:31:18 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/1de707ec-aeee-456f-92be-bd21d393dd27/Linkedin-PR-CES2024-Demo.jpg?width=800&height=456&ext=.jpg to images\Linkedin-PR-CES2024-Demo.jpg
+2024-09-06 16:31:18 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Highlights Leading End-to-end Broadband Access and Connectivity Solutions with Low Power, High Throughput CES Demos, Date: 2024-01-04, URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-highlights-leading-end-to-end-broadband-access-and-connectivity-solutions-with-low-power
+2024-09-06 16:31:18 [maxlinear_news] INFO: Saved article to articles\2024-01-04_MaxLinear Highlights Leading End-to-end Broadband .txt
+2024-09-06 16:31:18 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/1bc37f64-68c9-4c4c-ac92-4a8c0f2f0e24/PR-Linkedin_Wi-Fi7_v2b.jpg?width=1280&height=720&ext=.jpg to images\PR-Linkedin_Wi-Fi7_v2b.jpg
+2024-09-06 16:31:18 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/1bc37f64-68c9-4c4c-ac92-4a8c0f2f0e24/PR-Linkedin_Wi-Fi7_v2b.jpg?width=1280&height=720&ext=.jpg to images\PR-Linkedin_Wi-Fi7_v2b.jpg
+2024-09-06 16:31:19 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Announces World’s First Wi-Fi CERTIFIED 7 Tri-band Single Chip Solutions and Wi-Fi CERTIFIED 7 Tri-band Access Point, Date: 2024-01-08, URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-announces-world%E2%80%99s-first-wi-fi-certified-7tm-tri-band-single-chip-solutions-and-wi-fi-cert
+2024-09-06 16:31:19 [maxlinear_news] INFO: Saved article to articles\2024-01-08_MaxLinear Announces World_s First Wi-Fi CERTIFIED .txt
+2024-09-06 16:31:19 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/aa29a0c6-fecc-45da-bba3-6e6aa5319b8c/Keystone-AEC-Market-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\Keystone-AEC-Market-Blog-Image.jpg
+2024-09-06 16:31:19 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/aa29a0c6-fecc-45da-bba3-6e6aa5319b8c/Keystone-AEC-Market-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\Keystone-AEC-Market-Blog-Image.jpg
+2024-09-06 16:31:19 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Launches Product Design Kit for Active Electrical Cables Using Keystone PAM4 DSP, Date: 2024-02-01, URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-launches-product-design-kit-for-active-electrical-cables-using-keystone-pam4-dsp
+2024-09-06 16:31:19 [maxlinear_news] INFO: Saved article to articles\2024-02-01_MaxLinear Launches Product Design Kit for Active E.txt
+2024-09-06 16:31:19 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/fc5e988f-f3b2-4f46-a228-044de2eed304/2024_Sierra-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\2024_Sierra-Blog-Image.jpg
+2024-09-06 16:31:19 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/fc5e988f-f3b2-4f46-a228-044de2eed304/2024_Sierra-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\2024_Sierra-Blog-Image.jpg
+2024-09-06 16:31:19 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Launches Single Chip for 5G Open RAN Radio Units, Date: 2024-02-22, URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-launches-single-chip-for-5g-open-ran-radio-units
+2024-09-06 16:31:19 [maxlinear_news] INFO: Saved article to articles\2024-02-22_MaxLinear Launches Single Chip for 5G Open RAN Rad.txt
+2024-09-06 16:31:19 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/c8a9fe0f-e0ad-424a-80f4-8d3270dc3ea6/Linkedin-PR-Optomind-MaxLinear-(1).jpg?width=1280&height=720&ext=.jpg to images\Linkedin-PR-Optomind-MaxLinear-(1).jpg
+2024-09-06 16:31:19 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/c8a9fe0f-e0ad-424a-80f4-8d3270dc3ea6/Linkedin-PR-Optomind-MaxLinear-(1).jpg?width=1280&height=720&ext=.jpg to images\Linkedin-PR-Optomind-MaxLinear-(1).jpg
+2024-09-06 16:31:19 [maxlinear_news] INFO: Scraping article - Title: Optomind and MaxLinear Demonstrate 800G LRO Optical Modules and AOCs at OFC2024, Date: 2024-03-21, URL: https://www.maxlinear.com/news/press-releases/2024/optomind-and-maxlinear-demonstrate-800g-lro-optical-modules-and-aocs-at-ofc2024
+2024-09-06 16:31:19 [maxlinear_news] INFO: Saved article to articles\2024-03-21_Optomind and MaxLinear Demonstrate 800G LRO Optica.txt
+2024-09-06 16:31:19 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/fec394c1-c359-40ce-97f4-6b64d7646fd3/MaxLinear-Jabil-(1).jpg?width=1280&height=720&ext=.jpg to images\MaxLinear-Jabil-(1).jpg
+2024-09-06 16:31:19 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/fec394c1-c359-40ce-97f4-6b64d7646fd3/MaxLinear-Jabil-(1).jpg?width=1280&height=720&ext=.jpg to images\MaxLinear-Jabil-(1).jpg
+2024-09-06 16:31:20 [maxlinear_news] INFO: Scraping article - Title: MaxLinear and Jabil Announce Silicon Photonics-Based Pluggable 800G Optical Module Production Availability, Date: 2024-03-25, URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-and-jabil-announce-silicon-photonics-based-pluggable-800g-optical-module-production-availa
+2024-09-06 16:31:20 [maxlinear_news] INFO: Saved article to articles\2024-03-25_MaxLinear and Jabil Announce Silicon Photonics-Bas.txt
+2024-09-06 16:31:20 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/485e010f-92c6-4aaf-85b7-6c5826dc47af/Linkedin-PR-next-generation-200G-lane-PAM4-DSP-(1).jpg?width=1280&height=720&ext=.jpg to images\Linkedin-PR-next-generation-200G-lane-PAM4-DSP-(1).jpg
+2024-09-06 16:31:20 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/485e010f-92c6-4aaf-85b7-6c5826dc47af/Linkedin-PR-next-generation-200G-lane-PAM4-DSP-(1).jpg?width=1280&height=720&ext=.jpg to images\Linkedin-PR-next-generation-200G-lane-PAM4-DSP-(1).jpg
+2024-09-06 16:31:20 [maxlinear_news] INFO: Scraping article - Title: MaxLinear announces the development of the Rushmore family of 200G/lane PAM4 Digital Signal Processors (DSP), Date: 2024-03-26, URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-announces-the-development-of-the-rushmore-family-of-200g-lane-pam4-digital-signal-processo
+2024-09-06 16:31:20 [maxlinear_news] INFO: Saved article to articles\2024-03-26_MaxLinear announces the development of the Rushmor.txt
+2024-09-06 16:31:20 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/74e7e62a-0ae5-44da-a5b7-95b68aa5c6e9/Linkedin_Panther___-Dell-1.jpg?width=1280&height=720&ext=.jpg to images\Linkedin_Panther___-Dell-1.jpg
+2024-09-06 16:31:20 [maxlinear_news] INFO: Scraping article - Title: MaxLinear’s New Collaboration to Drive Mission Critical Workload Performance in Next-Gen Enterprise and Cloud Storage Systems, Date: 2024-04-16, URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear%E2%80%99s-new-collaboration-to-drive-mission-critical-workload-performance-in-next-gen-enterprise
+2024-09-06 16:31:20 [maxlinear_news] INFO: Saved article to articles\2024-04-16_MaxLinear_s New Collaboration to Drive Mission Cri.txt
+2024-09-06 16:31:20 [maxlinear_news] INFO: Downloading image https://semidynamics.com/assets/img/semidynamics-public/company/partners/maxLinear_logo.svg to images\maxLinear_logo.svg
+2024-09-06 16:31:21 [maxlinear_news] INFO: Downloading image https://semidynamics.com/assets/img/logo_smd/semidynamics_alone.svg to images\semidynamics_alone.svg
+2024-09-06 16:31:21 [maxlinear_news] INFO: Downloading image https://semidynamics.com/assets/img/logo_footer/ciencia_innovacion.jpg to images\ciencia_innovacion.jpg
+2024-09-06 16:31:22 [maxlinear_news] INFO: Downloading image https://semidynamics.com/assets/img/logo_footer/next_generation.jpg to images\next_generation.jpg
+2024-09-06 16:31:23 [maxlinear_news] INFO: Downloading image https://semidynamics.com/assets/img/logo_footer/plan_recuperacion.jpg to images\plan_recuperacion.jpg
+2024-09-06 16:31:23 [maxlinear_news] INFO: Downloading image https://semidynamics.com/assets/img/logo_footer/desarrollo_tecnologico.jpg to images\desarrollo_tecnologico.jpg
+2024-09-06 16:31:24 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Joins the Arsenio Project to Help Design a Generic SoC Architecture Applicable to Various Communications Technologies, Date: 2024-04-17, URL: https://www.maxlinear.com/news/arsenio
+2024-09-06 16:31:24 [maxlinear_news] INFO: Saved article to articles\2024-04-17_MaxLinear Joins the Arsenio Project to Help Design.txt
+2024-09-06 16:31:24 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/b08cdc80-a7cf-4dd7-ab56-91fddfcbb238/Swancreek_PR-Linkedin-1-(1).jpg?width=1280&height=720&ext=.jpg to images\Swancreek_PR-Linkedin-1-(1).jpg
+2024-09-06 16:31:24 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/b08cdc80-a7cf-4dd7-ab56-91fddfcbb238/Swancreek_PR-Linkedin-1-(1).jpg?width=1280&height=720&ext=.jpg to images\Swancreek_PR-Linkedin-1-(1).jpg
+2024-09-06 16:31:24 [maxlinear_news] INFO: Scraping article - Title: MaxLinear Expands Its Ethernet Family with 2.5G 7 & 10 Port Switches as Well as 2.5G Octal-port Ethernet PHYs, Date: 2024-05-21, URL: https://www.maxlinear.com/news/press-releases/2024/maxlinear-expands-its-ethernet-family-with-2-5g-7-10-port-switches-as-well-as-2-5g-octal-port-ethe
+2024-09-06 16:31:24 [maxlinear_news] INFO: Saved article to articles\2024-05-21_MaxLinear Expands Its Ethernet Family with 2.5G 7 .txt
+2024-09-06 16:31:24 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/98833828-e023-4fe8-aa4c-4117f1cb0498/QoS-Wi-Fi-7-Blog-Image.jpg?width=800&height=456&ext=.jpg to images\QoS-Wi-Fi-7-Blog-Image.jpg
+2024-09-06 16:31:25 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/98833828-e023-4fe8-aa4c-4117f1cb0498/QoS-Wi-Fi-7-Blog-Image.jpg?width=400&height=227 to images\QoS-Wi-Fi-7-Blog-Image.jpg
+2024-09-06 16:31:25 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/72d3e885-50b0-46a4-bfb7-6e878c59636c/Figure-1_NetworkCongestion.jpg?width=600&height=368 to images\Figure-1_NetworkCongestion.jpg
+2024-09-06 16:31:25 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/78aaebd4-9dfa-4df0-a5ba-f59643be35e4/Figure-2_HCF-Architecture_Web.jpg?width=600&height=351 to images\Figure-2_HCF-Architecture_Web.jpg
+2024-09-06 16:31:25 [maxlinear_news] INFO: Downloading image https://www.maxlinear.com/getmedia/3899ef1a-1b51-45f1-b3f8-519f658accd8/Table-1_Features.jpg to images\Table-1_Features.jpg
+2024-09-06 16:31:25 [maxlinear_news] INFO: Scraping article - Title: Quality of Service (QoS) Mechanisms in Wi-Fi, Date: 2024-05-24, URL: https://www.maxlinear.com/news/quality-of-service-(qos)-mechanisms-in-wi-fi
+2024-09-06 16:31:25 [maxlinear_news] INFO: Saved article to articles\2024-05-24_Quality of Service _QoS_ Mechanisms in Wi-Fi.txt
+2024-09-06 16:31:25 [scrapy.core.engine] INFO: Closing spider (finished)
+2024-09-06 16:31:25 [maxlinear_news] INFO: Closing the driver...
+2024-09-06 16:31:27 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 38568,
+ 'downloader/request_count': 91,
+ 'downloader/request_method_count/GET': 91,
+ 'downloader/response_bytes': 1254340,
+ 'downloader/response_count': 91,
+ 'downloader/response_status_count/200': 91,
+ 'elapsed_time_seconds': 79.494245,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2024, 9, 6, 23, 31, 27, 763044, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 4574844,
+ 'httpcompression/response_count': 91,
+ 'log_count/INFO': 380,
+ 'log_count/WARNING': 2,
+ 'request_depth_max': 1,
+ 'response_received_count': 91,
+ 'scheduler/dequeued': 91,
+ 'scheduler/dequeued/memory': 91,
+ 'scheduler/enqueued': 91,
+ 'scheduler/enqueued/memory': 91,
+ 'start_time': datetime.datetime(2024, 9, 6, 23, 30, 8, 268799, tzinfo=datetime.timezone.utc)}
+2024-09-06 16:31:27 [scrapy.core.engine] INFO: Spider closed (finished)
