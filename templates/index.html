@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Chat Interface</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="split-screen">
+        <div class="left-panel">
+            <div class="chat-header">
+                <div class="logo">Astranetix</div>
+                <div id="status-indicator">
+                    <div id="status-bulb"></div>
+                </div>
+            </div>
+            <div id="chat-container"></div>
+            <div class="input-area">
+                <div id="follow-up-container"></div>
+                <textarea id="user-input" placeholder="Type your message..."></textarea>
+                <button id="send-button">Send</button>
+            </div>
+        </div>
+        <div id="resizer"></div>
+        <div class="right-panel">
+            <div id="viewer-container"></div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
