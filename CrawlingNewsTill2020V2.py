@@ -16,7 +16,7 @@ class MaxlinearNewsSpider(scrapy.Spider):
     start_urls = ["https://www.maxlinear.com/news"]
 
     custom_settings = {
-        'ROBOTSTXT_OBEY': False,
+        # 'ROBOTSTXT_OBEY': False,
         'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
         'SELENIUM_DRIVER_NAME': 'chrome',
         'SELENIUM_DRIVER_ARGUMENTS': ['--headless', '--no-sandbox', '--disable-dev-shm-usage'],

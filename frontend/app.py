@@ -3,8 +3,12 @@ from flask_socketio import SocketIO, emit, join_room
 from datetime import datetime
 import requests
 import os
+from flask_cors import CORS
+from fastapi.middleware.cors import CORSMiddleware
 
 app = Flask(__name__)
+CORS(app)
+
 app.config['SECRET_KEY'] = 'your_secret_key'
 socketio = SocketIO(app)
 

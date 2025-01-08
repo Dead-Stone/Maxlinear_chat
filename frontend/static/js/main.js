@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
             showSearchingIndicator();
 
             // Fetching the response from backend
-            fetch('http://localhost:8000/send_message', {
+            fetch('http://3.95.186.143:8000/send_message', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ content: question }),

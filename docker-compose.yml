@@ -1,0 +1,15 @@
+version: '3'
+services:
+  frontend:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_APP=./frontend/app.py
+    command: flask run --host=0.0.0.0
+
+  backend:
+    build: .
+    ports:
+      - "8000:8000"
+    command: python ./backend.py
